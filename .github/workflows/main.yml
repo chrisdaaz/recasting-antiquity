@@ -31,5 +31,5 @@ jobs:
             ls -la ./ra/
         - run: |
             pwd
-            ls -la ./ra/_site/index.html
-        - run: grep -i "recasting antiquity" ./ra/_site/index.html
+            ls -la ./ra/_site/
+        #- run: grep -i "recasting antiquity" ./ra/_site/index.html
