@@ -2,10 +2,7 @@ name: deploy-staging
 
 run-name: ${{ github.actor }} is rebuilding the site
 
-on: 
-    push:
-        paths:
-            - 'content/**'
+on: push
 
 jobs:
   build-and-deploy:
