@@ -22,10 +22,10 @@ jobs:
       - run: rm -rf ./ra/content
       - run: cp -r ./content ./ra/content
       - run: pwd
-      - run: cd ./ra
-      - run: pwd
-      - run: quire build
-      - run: pwd
-      - run: ls -la
-      - run: ls -la ./_site
-      - run: cat ./_site/index.html
+      - run: |
+            cd ./ra
+            pwd
+            quire build
+            ls -la
+            ls -la ./_site
+            cat ./_site/index.html
