@@ -9,23 +9,26 @@ jobs:
     name: Build and Deploy
     runs-on: macos-12
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-      - run: npm install --global @thegetty/quire-cli
-      - run: quire --version
-      - run: pwd
-      - run: ls -la
-      - run: quire new ra
-      - run: ls -la ./ra
-      - run: rm -rf ./ra/content
-      - run: cp -r ./content ./ra/content
-      - run: pwd
-      - run: |
+        - uses: actions/checkout@v4
+        - uses: actions/setup-node@v3
+                with:
+                node-version: '18'
+        - run: npm install --global @thegetty/quire-cli
+        - run: quire --version
+        - run: pwd
+        - run: ls -la
+        - run: quire new ra
+        - run: ls -la ./ra
+        - run: rm -rf ./ra/content
+        - run: cp -r ./content ./ra/content
+        - run: pwd
+        - run: |
             cd ./ra
             pwd
             quire build
-            ls -la
-            ls -la ./_site
-            cat ./_site/index.html
+        - run: |
+            pwd
+            ls -la ./ra/
+        - run: |
+            pwd
+            grep -i "recasting antiquity" ./ra/**.html
