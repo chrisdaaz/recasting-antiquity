@@ -27,18 +27,12 @@ jobs:
         
         - name: Remove files
           run: |
-            rm -rf ./ra/content/_assets/images/  
             rm -rf ./ra/content/_data/
-            rm -rf ./ra/content/catalog/
-            rm -rf ./ra/content/*.md
         
         - name: Copy files
           run: |
-            cp -r ./content/_assets/images/ ./ra/content/_assets/images/  
             cp -r ./content/_data/ ./ra/content/_data/
-            cp -r ./content/catalog/ ./ra/content/catalog/
-            cp ./content/*.md ./ra/content/*.md
-        
+
         - name: Build new site
           run: |
             cd ./ra/
