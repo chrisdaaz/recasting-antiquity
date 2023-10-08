@@ -4,6 +4,9 @@ run-name: ${{ github.actor }} is rebuilding the site
 
 on: push
 
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
     name: Build and Deploy
@@ -45,3 +48,9 @@ jobs:
         - name: Check website files
           run: |
             ls -la ./ra/_site/
+
+        - name: Deploy
+          uses: peaceiris/actions-gh-pages@v3
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./ra/_site/
