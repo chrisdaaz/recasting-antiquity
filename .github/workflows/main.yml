@@ -14,22 +14,34 @@ jobs:
           with:
             node-version: '18'
         - run: npm install --global @thegetty/quire-cli
-        - run: quire --version
-        - run: pwd
-        - run: ls -la
-        - run: quire new ra
-        - run: ls -la ./ra
-        - run: rm -rf ./ra/content
-        - run: cp -r ./content ./ra/content
-        - run: pwd
         - run: |
-            cd ./ra
-            pwd
+            quire new recasting-a
+            ls -al
+            cd ./recasting-a
+            quire preview
+        - run: |
+            cd ./recasting-a
             quire build
         - run: |
-            pwd
-            ls -la ./ra/
-        - run: |
-            pwd
-            ls -la ./ra/_site/
+            ls ./recasting-a/_site/
+
+
+      #  - run: quire --version
+      #  - run: pwd
+      #  - run: ls -la
+      #  - run: quire new ra
+      #  - run: ls -la ./ra
+      #  - run: rm -rf ./ra/content
+      #  - run: cp -r ./content ./ra/content
+      #  - run: pwd
+      #  - run: |
+      #      cd ./ra
+      #      pwd
+      #      quire build
+      #  - run: |
+      #      pwd
+      #      ls -la ./ra/
+      #  - run: |
+      #      pwd
+      #      ls -la ./ra/_site/
         #- run: grep -i "recasting antiquity" ./ra/_site/index.html
