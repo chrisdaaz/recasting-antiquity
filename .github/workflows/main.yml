@@ -9,39 +9,45 @@ jobs:
     name: Build and Deploy
     runs-on: macos-12
     steps:
-        - uses: actions/checkout@v4
+        - name: Setup Project
+          uses: actions/checkout@v4
         
-        - uses: actions/setup-node@v3
+        - name: Install NodeJS
+          uses: actions/setup-node@v3
           with:
             node-version: '18'
         
-        - run: npm install --global @thegetty/quire-cli
+        - name: Install Quire
+          run: npm install --global @thegetty/quire-cli
         
-        - run: |
-            quire new recasting-a
-            ls -al
-            cd ./recasting-a
+        - name: Setup Quire Project
+          run: |
+            quire new ra
+            ls -al ./ra
+        
+        - name: Remove files
+          run: |
+            rm -rf ./ra/content/_assets/images/  
+            rm -rf ./ra/content/_data/
+            rm -rf ./ra/content/catalog/
+            rm -rf ./ra/content/*.md
+        
+        - name: Copy files
+          run: |
+            cp -r ./content/_assets/images/ ./ra/content/_assets/images/  
+            cp -r ./content/_data/ ./ra/content/_data/
+            cp -r ./content/catalog/ ./ra/content/catalog/
+            cp ./content/*.md ./ra/content/*.md
+        
+        - name: Build new site
+          run: |
+            cd ./ra/
             quire build
-        - run: |
-            ls ./recasting-a/_site/
 
+        - name: Check project files
+          run: |
+            ls -la ./ra/
 
-      #  - run: quire --version
-      #  - run: pwd
-      #  - run: ls -la
-      #  - run: quire new ra
-      #  - run: ls -la ./ra
-      #  - run: rm -rf ./ra/content
-      #  - run: cp -r ./content ./ra/content
-      #  - run: pwd
-      #  - run: |
-      #      cd ./ra
-      #      pwd
-      #      quire build
-      #  - run: |
-      #      pwd
-      #      ls -la ./ra/
-      #  - run: |
-      #      pwd
-      #      ls -la ./ra/_site/
-        #- run: grep -i "recasting antiquity" ./ra/_site/index.html
+        - name: Check website files
+          run: |
+            ls -la ./ra/_site/
