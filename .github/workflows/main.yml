@@ -10,16 +10,16 @@ jobs:
     runs-on: macos-12
     steps:
         - uses: actions/checkout@v4
+        
         - uses: actions/setup-node@v3
           with:
             node-version: '18'
+        
         - run: npm install --global @thegetty/quire-cli
+        
         - run: |
             quire new recasting-a
             ls -al
-            cd ./recasting-a
-            quire preview
-        - run: |
             cd ./recasting-a
             quire build
         - run: |
