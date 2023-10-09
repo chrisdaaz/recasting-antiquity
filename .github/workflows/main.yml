@@ -19,8 +19,6 @@ jobs:
           uses: actions/setup-node@v3
           with:
             node-version: '18'
-            cache: 'npm'
-            cache-dependency-path: './build/package-lock.json'
         
         - name: Install Quire
           run: npm install --global @thegetty/quire-cli
@@ -50,6 +48,10 @@ jobs:
         - name: Check project files
           run: |
             ls -la ./build/
+
+        - name: Check project dependencies
+          run: |
+            cat ./build/package-lock.json
 
         - name: Check website files
           run: |
