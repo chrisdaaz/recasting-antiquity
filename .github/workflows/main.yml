@@ -19,38 +19,44 @@ jobs:
           uses: actions/setup-node@v3
           with:
             node-version: '18'
+            cache: 'npm'
+            cache-dependency-path: './build/package-lock.json'
         
         - name: Install Quire
           run: npm install --global @thegetty/quire-cli
         
         - name: Setup Quire Project
           run: |
-            quire new ra
-            ls -al ./ra
+            quire new build
         
-        - name: Remove files
+        - name: Remove starter files
           run: |
-            rm -rf ./ra/content/_data/
+            rm -rf ./build/content/_assets/images/  
+            rm -rf ./build/content/_data/      
+            rm ./build/content/*.md
         
-        - name: Copy files
+        - name: Replace starter files with content files
           run: |
-            cp -r ./content/_data/ ./ra/content/_data/
+            cp -r ./content/_assets/images/ ./build/content/_assets/images/
+            cp -r ./content/_data/ ./build/content/_data/
+            cp -r ./content/catalogue/ ./build/content/catalogue/
+            cp ./content/*.md ./build/content/
 
         - name: Build new site
           run: |
-            cd ./ra/
+            cd ./build/
             quire build
 
         - name: Check project files
           run: |
-            ls -la ./ra/
+            ls -la ./build/
 
         - name: Check website files
           run: |
-            ls -la ./ra/_site/
+            ls -la ./build/_site/
 
         - name: Deploy
           uses: peaceiris/actions-gh-pages@v3
           with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./ra/_site/
+            publish_dir: ./build/_site/
