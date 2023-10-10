@@ -37,14 +37,10 @@ jobs:
 
         - name: Replace starter files with content files
           run: |
+            cp -r ./content/_assets/images/ ./build/content/_assets/images/
+            cp -r ./content/_data/ ./build/content/_data/
+            cp -r ./content/catalogue/ ./build/content/catalogue/
             cp ./content/*.md ./build/content/
-            markdown_dirs=$(find ./content/ -type f -name '*.md' | sed -r 's|/[^/]+$||' | sort | uniq)
-            for dir in $markdown_dirs; do
-                if [ "${dir}" != "./content" ]; then
-                    mkdir -p ./build/${dir} | sed 's#/./#/#g'
-                    cp ${dir}/*.md $(echo ./build/${dir}/ | sed 's#/./#/#g')
-                fi
-            done
 
         - name: Build new site
           run: |
