@@ -22,8 +22,11 @@ jobs:
             cache: 'npm'
             cache-dependency-path: package-lock.json
         
-        - name: Install Quire
-          run: npm install --global @thegetty/quire-cli
+        - name: Install Quire and Dependencies
+          run: npm ci
+        
+        #- name: Install Quire
+        #  run: npm install --global @thegetty/quire-cli
         
         - name: Setup Quire Project
           run: |
