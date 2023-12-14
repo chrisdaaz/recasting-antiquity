@@ -16,7 +16,7 @@ url: 'https://chrisdaaz.github.io/recasting-antiquity'
 title: Recasting Antiquity
 subtitle: The Works of Dorothea Lange and Walker Evans
 reading_line:
-short_title:
+short_title: Recasting Antiquity
 
 description:
   one_line:
@@ -26,7 +26,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2024-02-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,9 +34,9 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
+  - name: Michael C. Carlos Museum
+    location: Atlanta
+    url: https://carlos.emory.edu/
     logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
@@ -46,27 +46,33 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: rallen
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Ruth
+    last_name: Allen
+    title: Curator of Greek and Roman Art
+    affiliation: Michael C. Carlos Museum at Emory University
+    bio: "Ruth Allen is Curator of Greek and Roman Art at the Michael C. Carlos Museum at Emory University. Her research interests include ancient ornament, engraved gemstones, female craft, and the legacy of classical art in contemporary practice."
+  
+  - id: lmerrill
+    type: primary
+    first_name: Linda
+    last_name: Merrill
+    title: Teaching Professor in Art History
+    affiliation: Emory University
+    bio: "Linda Merrill, Teaching Professor in Art History at Emory University, was formerly the curator of American art at the Freer Gallery of Art, Smithsonian Institution, and the Margaret and Terry Stent Curator of American Art at the High Museum of Art in Atlanta. Dr. Merrill has published several books on Whistler and his contemporaries, including *A Pot of Paint: Aestheticism on Trial in Whistler v. Ruskin* (1993) and *The Peacock Room: A Cultural Biography* (1998)."
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2024 Michael C. Carlos Museum
 
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
   url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -101,11 +107,8 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: greek sculpture, ninteenth century art, antiquity
 
 # ------------------------------------------------------------------------------
 # Revision History
