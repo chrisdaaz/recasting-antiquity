@@ -19,14 +19,14 @@ jobs:
           uses: actions/setup-node@v3
           with:
             node-version: '18'
-            #cache: 'npm'
-            #cache-dependency-path: package-lock.json
+            cache: 'npm'
+            cache-dependency-path: package-lock.json
         
         #- name: Install Quire and Dependencies
         #  run: npm ci
         
-        #- name: Install Quire
-        #  run: npm install --global @thegetty/quire-cli
+        - name: Install Quire
+          run: npm install --global @thegetty/quire-cli
         
         - name: Setup Quire Project
           run: |
@@ -54,9 +54,9 @@ jobs:
           run: |
             ls -la ./build/
 
-        #- name: Log project dependencies
-        #  run: |
-        #    cat ./build/package-lock.json > ./package-lock.json
+        - name: Log project dependencies
+          run: |
+            cat ./build/package-lock.json > ./package-lock.json
         
         #- name: Save dependencies for caching
         #  uses: EndBug/add-and-commit@v9
