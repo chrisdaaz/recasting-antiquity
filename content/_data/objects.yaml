@@ -1,37 +1,39 @@
----
 object_display_order:
+  - title
   - artist
   - year
   - dimensions
   - medium
   - location
+  - copyright
+  - credit_line
+
 object_list:
+
   - id: "1"
-    artist: Artist unknown
-    copyright: © RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
-      étrusques et romaines. CA 462 (or 662).
-    dimensions: 8 1/4 x 3 15/16 x 2 15/16 in. (21 x 10 x 7.5 cm)
+    artist: "Artist unknown"
+    copyright: "© RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda."
+    credit_line: "Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines. CA 462 (or 662)."
+    dimensions: "8 1/4 x 3 15/16 x 2 15/16 in. (21 x 10 x 7.5 cm)"
     location: "Created in: Athens; Discovered in: Athens; acquired 1846 "
-    medium: Terracotta, traces of preparation layer
-    title: Statuette of a Veiled Woman Dancing, known as the “Titeux Dancer”
-    year: 375-350 BCE
+    medium: "Terracotta, traces of preparation layer"
+    title: "Statuette of a Veiled Woman Dancing, known as the 'Titeux Dancer'"
+    year: "375-350 BCE"
     figure:
-      - id: cat-1
+      - id: "cat-1"
+
   - id: "2"
-    artist: Artist unknown
-    copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Daniel Lebée / Carine
-      Déambrosis.
-    credit_line: "Paris, Musée du Louvre, Département des Antiquités grecques,
-      étrusques et romaines. CA 2978. "
-    dimensions: 9 1/2 x 4 15/16 x 1 3/4 in. (24.1 cm x 12.6 cm x 4.4 cm)
-    location: "Created in: Halicarnassus (?) or Smyrna (?); Discovered in: Izmir
-      (Smyrna) (?); acquired 1934 "
-    medium: Terracotta
-    title: Mold for a Draped Woman with Modern Cast
-    year: 400-300 BCE
+    artist: "Artist unknown"
+    copyright: "© RMN-Grand Palais / Art Resource, NY. Photo by Daniel Lebée / Carine Déambrosis."
+    credit_line: "Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines. CA 2978."
+    dimensions: "9 1/2 x 4 15/16 x 1 3/4 in. (24.1 cm x 12.6 cm x 4.4 cm)"
+    location: "Created in: Halicarnassus (?) or Smyrna (?); Discovered in: Izmir (Smyrna) (?); acquired 1934"
+    medium: "Terracotta"
+    title: "Mold for a Draped Woman with Modern Cast"
+    year: "400-300 BCE"
     figure:
-      - id: cat-2
+      - id: "cat-2"
+
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Hervé Lewandowski.
     credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
