@@ -12,7 +12,7 @@ object_list:
     et romaines. CA 462 (or 662).
   dimensions: 8 1/4 x 3 15/16 x 2 15/16 in. (21 x 10 x 7.5 cm)
   id: '1'
-  location: "Created in: Athens \nDiscovered in: Athens; acquired 1846 "
+  location: "Created in: Athens; Discovered in: Athens; acquired 1846 "
   medium: Terracotta, traces of preparation layer
   title: Statuette of a Veiled Woman Dancing, known as the “Titeux Dancer”
   year: 375-350 BCE
@@ -23,7 +23,7 @@ object_list:
     et romaines. CA 2978. '
   dimensions: 9 1/2 x 4 15/16 x 1 3/4 in. (24.1 cm x 12.6 cm x 4.4 cm)
   id: '2'
-  location: "Created in: Halicarnassus (?) or Smyrna (?) \nDiscovered in: Izmir (Smyrna)\
+  location: "Created in: Halicarnassus (?) or Smyrna (?); Discovered in: Izmir (Smyrna)\
     \ (?); acquired 1934 "
   medium: Terracotta
   title: Mold for a Draped Woman with Modern Cast
@@ -34,7 +34,7 @@ object_list:
     et romaines. MNB 452.
   dimensions: 8 9/16 x 3 7/16 x 2 3/8 in. (21.7 x 8.7 x 6.1 cm)
   id: '3'
-  location: "Created in: Tanagra (?) \nDiscovered in: Thisbe; acquired 1872 "
+  location: "Created in: Tanagra (?); Discovered in: Thisbe; acquired 1872 "
   medium: Terracotta, pigment
   title: Statuette of a Draped Woman
   year: 325-200 BCE
@@ -44,7 +44,7 @@ object_list:
     et romaines. MNB 559.
   dimensions: 9 15/16 x 3 5/8 x 2 7/8 in. (25.3 x 9.2 x 7.3 cm)
   id: '4'
-  location: "Created in: Thebes (?) \nDiscovered in: Tanagra; acquired 1874 "
+  location: "Created in: Thebes (?); Discovered in: Tanagra; acquired 1874 "
   medium: Terracotta, pigment
   title: Statuette of a Woman with a Cloak
   year: 325-200 BCE
@@ -54,7 +54,7 @@ object_list:
     Foundation. 1986.19.2.
   dimensions: 8 1/8 x 2 1/2 x 3 1/16 in. (20.6 x 6.4 x 7.8 cm)
   id: '5'
-  location: "Created in: Unknown, perhaps Alexandria \nDiscovered in: Unknown; acquired\
+  location: "Created in: Unknown, perhaps Alexandria; Discovered in: Unknown; acquired\
     \ by 1981 "
   medium: Terracotta, pigment
   title: Statuette of a Draped Woman
@@ -65,7 +65,7 @@ object_list:
     et romaines. Myr 163.
   dimensions: 13 5/16 x 6 11/16 x 5 9/16 in. (33.8 x 17 x 14.2 cm)
   id: '6'
-  location: "Created in: Myrina \nDiscovered in:  Myrina (tomb 98, known as tomb B);\
+  location: "Created in: Myrina; Discovered in:  Myrina (tomb 98, known as tomb B);\
     \ acquired 1883 "
   medium: Terracotta, pigment
   title: Statuette of Nike Phainomeride (“Of the Visible Thigh”)
@@ -76,7 +76,7 @@ object_list:
     et romaines. MNB 1141.
   dimensions: 7 ⅛ x 3 9/16 x 3 15/16 in. (18 x 9 x 10 cm)
   id: '7'
-  location: "Created in: Corinth \nDiscovered in: Corinth; acquired 1877 "
+  location: "Created in: Corinth; Discovered in: Corinth; acquired 1877 "
   medium: Terracotta, pigment
   title: Statuette of a Seated Woman with Child
   year: 330-200 BCE
@@ -86,7 +86,7 @@ object_list:
     Art. 1984.15.
   dimensions: 9 11/16 x 3 7/8 x 2 in. (24.6 x 9.8 x 5.1 cm)
   id: '8'
-  location: "Created in: Unknown, perhaps Myrina \nDiscovered in: Unknown; acquired\
+  location: "Created in: Unknown, perhaps Myrina; Discovered in: Unknown; acquired\
     \ by 1960 "
   medium: Terracotta, pigment
   title: Statuette of a Draped Woman
@@ -97,7 +97,7 @@ object_list:
     et romaines. Myr 223.
   dimensions: 10 1/4 x 4 7/16 x 3 5/16 in. (26 x 11.2 x 8.4 cm)
   id: '9'
-  location: "Created in: Myrina \nDiscovered in: Myrina "
+  location: "Created in: Myrina; Discovered in: Myrina "
   medium: Terracotta
   title: Statuette of a Draped Woman with Skirt
   year: 150-100 BCE
@@ -107,7 +107,7 @@ object_list:
     et romaines. MNB 551.
   dimensions: 8 1/8 x 3 9/16 x 1 7/8 in. (20.7 x 9.1 x 4.7 cm)
   id: '10'
-  location: "Created in: Tanagra \nDiscovered in: Tanagra "
+  location: "Created in: Tanagra; Discovered in: Tanagra "
   medium: Terracotta, pigment
   title: Statuette of Aphrodite Leaning on a Pillar
   year: 330-200 BCE
@@ -117,7 +117,7 @@ object_list:
     J. Kahnweiler. 1935.35.32.
   dimensions: 3 3/4 x 3 15/16 x 1 5/8 in. (9.5 x 10 x 3.3 cm)
   id: '11'
-  location: "Created in: Unknown \nDiscovered in: Unknown; acquired by 1894 "
+  location: "Created in: Unknown; Discovered in: Unknown; acquired by 1894 "
   medium: Terracotta, pigment
   title: Statuette of a Seated Girl Tying her Sandal
   year: 300-1 BCE
@@ -155,10 +155,10 @@ object_list:
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker (1954/1.430).
-  dimensions: "Image: 7 3/16 x 5 13/16 in. (18.2 x 14.8 cm) \nSheet: 12 5/8 x 8 1/16\
+  dimensions: "Image: 7 3/16 x 5 13/16 in. (18.2 x 14.8 cm); Sheet: 12 5/8 x 8 1/16\
     \ in. (32.1 x 20.5 cm) "
   id: '15'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: The Dancing Girl (C.29)
   year: 1889 CE
@@ -166,10 +166,10 @@ object_list:
   copyright: 'Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. '
   credit_line: High Museum of Art, Atlanta; Gift of Nick, Trinkett and Charlotte Clark
     in honor of Michael, Lisa, Kate and Nick Shapiro. 2000.255.
-  dimensions: "Image: 6 5/16 x 6 3/16 in. (6.0 x 15.7 cm) \nSheet:  8 7/8 x 7 1/2\
+  dimensions: "Image: 6 5/16 x 6 3/16 in. (6.0 x 15.7 cm); Sheet:  8 7/8 x 7 1/2\
     \ in. (22.5 x 19.1 cm) "
   id: '16'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: The Horoscope (C.30)
   year: ca. 1889 CE
@@ -177,10 +177,10 @@ object_list:
   copyright: 'Courtesy of Colby College Museum of Art. '
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
     006.2014.
-  dimensions: "Image: 7 3/4 x 4 6/16 in. (9.6 x 11.2 cm) \nSheet: 12 3/4 x 8 5/16\
+  dimensions: "Image: 7 3/4 x 4 6/16 in. (9.6 x 11.2 cm); Sheet: 12 3/4 x 8 5/16\
     \ in. (32.4 x 21.1 cm) "
   id: '17'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: Model Draping (C.31)
   year: probably 1889 CE
@@ -188,10 +188,10 @@ object_list:
   copyright: 'Courtesy of Colby College Museum of Art. '
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
     283.2008.
-  dimensions: "Image: 7 13/16 x 3 1/8 in. (19.9 x 7.9 cm) \nSheet: 15 x 10 13/16 in.\
+  dimensions: "Image: 7 13/16 x 3 1/8 in. (19.9 x 7.9 cm); Sheet: 15 x 10 13/16 in.\
     \ (38.1 x 27.5 cm)"
   id: '18'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on medium-grained transfer paper
   title: 'The Novel: Girl Reading (C.32)'
   year: probably 1889 CE
@@ -199,10 +199,10 @@ object_list:
   copyright: 'Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. '
   credit_line: High Museum of Art, Atlanta; Gift of Mr. and Mrs. Frank Garson II.
     1990.76.
-  dimensions: "Image: 6 9/16 x 7 1/16 in. (16.7 x 17.9 cm) \nSheet: 12 1/8 x 8 1/4\
+  dimensions: "Image: 6 9/16 x 7 1/16 in. (16.7 x 17.9 cm); Sheet: 12 1/8 x 8 1/4\
     \ in (30.8 x 21 cm) "
   id: '19'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: The Little Nude Model, Reading (C.33)
   year: ca. 1889 CE
@@ -210,20 +210,20 @@ object_list:
   copyright: Courtesy of Yale University Art Gallery.
   credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
     1913. 1947.396.
-  dimensions: "Image: 6 5/16 x 5 ½ in. (16.0 x 14.0 cm) \nSheet: 8 3/4 x 5 7/8 in.\
+  dimensions: "Image: 6 5/16 x 5 ½ in. (16.0 x 14.0 cm); Sheet: 8 3/4 x 5 7/8 in.\
     \ (22.2 x 14.9 cm) "
   id: '20'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on medium-grained transfer paper
   title: Figure Study (C.39), first state of three
   year: 1890 CE
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: 'The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.628. '
-  dimensions: "Image: 8 1/16 x 5 1/2 in. (20.4 x 14 cm)  \nSheet: 14 x 10 1/2 in.\
+  dimensions: "Image: 8 1/16 x 5 1/2 in. (20.4 x 14 cm) ; Sheet: 14 x 10 1/2 in.\
     \ (35.5 x 26.6 cm) "
   id: '21'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
   medium: ' Transfer lithograph, drawn on medium-grained transfer paper (keystone)
     and thin, transparent paper (color stones)'
   title: Figure Study in Colors (C.39), third state of three
@@ -232,10 +232,10 @@ object_list:
   copyright: 'Courtesy of Colby College Museum of Art. '
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
     005.2014.
-  dimensions: "Image: 8 5/8 x 4 3/8 in. (21.9 x 11.2 cm) \nSheet: 11 3/4 x 7 1/16\
+  dimensions: "Image: 8 5/8 x 4 3/8 in. (21.9 x 11.2 cm); Sheet: 11 3/4 x 7 1/16\
     \ in. (29.8 x 17.9 cm)  "
   id: '22'
-  location: "Drawn in: Paris \nPrinted in: Paris, by Henry Belfond "
+  location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Draped Figure, Standing (C.46), first state of four
   year: 1891 CE
@@ -243,10 +243,10 @@ object_list:
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
     James N. Wood. 2004.574.
-  dimensions: "Image: 8 15/16 x 4 7/16 in. (22.7 x 11.2 cm) \nSheet: 10 15/16 x 7\
+  dimensions: "Image: 8 15/16 x 4 7/16 in. (22.7 x 11.2 cm); Sheet: 10 15/16 x 7\
     \ 15/16 in. (27.8 x 20.1 cm)  "
   id: '23'
-  location: "Drawn in: Paris \nPrinted in: Paris, by Henry Belfond "
+  location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: ' Draped Figure, Standing (C.46), second state of four'
   year: 1891 CE
@@ -254,10 +254,10 @@ object_list:
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker. (1954/1.467).
-  dimensions: "Image: 7 7/16 x 4 ¼ in. (18.9 x 10.9 cm) \nSheet: 13 x 10 7/16 in.\
+  dimensions: "Image: 7 7/16 x 4 ¼ in. (18.9 x 10.9 cm); Sheet: 13 x 10 7/16 in.\
     \ (33 x 26.5 cm)  "
   id: '24'
-  location: "Drawn in: Paris \nPrinted in: Paris, by Henry Belfond "
+  location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Nude Model, Standing (C.48)
   year: probably 1891 CE
@@ -265,10 +265,10 @@ object_list:
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
     James N. Wood. 2004.578.
-  dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm) \nSheet: 12 7/16 x 9 1/8\
+  dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm); Sheet: 12 7/16 x 9 1/8\
     \ in. (31.6 x 23.2 cm)  "
   id: '25'
-  location: "Drawn in: Paris \nPrinted in: Paris, by Henry Belfond "
+  location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Draped Model, Dancing (C.50)
   year: probably 1891 CE
@@ -276,10 +276,10 @@ object_list:
   copyright: Courtesy of Colby College Museum of Art.
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection.
     2013.383.
-  dimensions: "Image: 7 5/16 x 7 9/16 in. (18.5 x 19.1 cm) \nSheet: 13 1/8 x 8 1/8\
+  dimensions: "Image: 7 5/16 x 7 9/16 in. (18.5 x 19.1 cm); Sheet: 13 1/8 x 8 1/8\
     \ in. (33.3 x 20.6 cm)  "
   id: '26'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, 1895, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
   medium: Transfer lithograph with scraping and stumping, drawn on fine-grained transfer
     paper
   title: Mother and Child, No. 1 (C.51), second state of two
@@ -288,10 +288,10 @@ object_list:
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
     James N. Wood. 2004.579.
-  dimensions: "Image: 5 11/16 x 8 7/16 in. (14.5 x 21.4 cm) \nSheet: 8 3/4 x 7 3/8\
+  dimensions: "Image: 5 11/16 x 8 7/16 in. (14.5 x 21.4 cm); Sheet: 8 3/4 x 7 3/8\
     \ in. (22.2 x 18.8 cm)  "
   id: '27'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, 1895, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Mother and Child, No. 3 (C.52)
   year: 1891 CE
@@ -299,20 +299,20 @@ object_list:
   copyright: Courtesy of University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker. (1954/1.454).
-  dimensions: "Image: 6 11/16 x 8 1/16 in. (17.0 x 20.4 cm) \nSheet: 8 7/8 x 11 13/16\
+  dimensions: "Image: 6 11/16 x 8 1/16 in. (17.0 x 20.4 cm); Sheet: 8 7/8 x 11 13/16\
     \ in. (22.5 x 30 cm)  "
   id: '28'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, 1895, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Mother and Child, No. 2 (C.53)
   year: 1891 CE
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.660.
-  dimensions: "Image: 5 5/8 x 9 1/8 in. (14.3 x 23.2 cm) \nSheet: 8 3/4 x 11 7/16\
+  dimensions: "Image: 5 5/8 x 9 1/8 in. (14.3 x 23.2 cm); Sheet: 8 3/4 x 11 7/16\
     \ in. (22.2 x 29 cm) "
   id: '29'
-  location: "Drawn in: Chelsea, London \nPrinted in: London, 1895, by Thomas Way "
+  location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Mother and Child, No. 4 (C.54)
   year: 1891 CE
@@ -320,10 +320,10 @@ object_list:
   copyright: 'Courtesy of the University of Michigan Museum of Art. '
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker. (1954/1.468).
-  dimensions: "Image: 7 1/16 x 10 1/4 in. (18.0 x 25.8 cm) \nSheet: 9 11/16 x 13 5/8\
+  dimensions: "Image: 7 1/16 x 10 1/4 in. (18.0 x 25.8 cm); Sheet: 9 11/16 x 13 5/8\
     \ in. (24.6 x 34.6 cm)  "
   id: '30'
-  location: "Drawn in: Chelsea, London \nPrinted in: Paris, by Henry Belfond "
+  location: "Drawn in: Chelsea, London; Printed in: Paris, by Henry Belfond "
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Draped Figure, Reclining (C.56), second state of two
   year: 1892 CE
@@ -332,10 +332,10 @@ object_list:
     Policy.
   credit_line: Lent by The Metropolitan Museum of Art; H.O. Havemeyer Collection,
     Bequest of Mrs. H.O. Havemeyer, 1929. (29.107.109).
-  dimensions: "Image: 6 3/4 x 10 in. (17.1 x 25.4 cm) \nSheet: 10 7/8 x 15 13/16 in.\
+  dimensions: "Image: 6 3/4 x 10 in. (17.1 x 25.4 cm); Sheet: 10 7/8 x 15 13/16 in.\
     \ (27.6 x 40.2 cm)"
   id: '31'
-  location: "Drawn in: Chelsea, London \nPrinted in: Paris, by Henry Belfond "
+  location: "Drawn in: Chelsea, London; Printed in: Paris, by Henry Belfond "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Draped Figure, Reclining (C.56), second state of two
   year: 1892 CE
@@ -343,10 +343,10 @@ object_list:
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker. (1954/1.441).
-  dimensions: "Image: 7 5/16 x 6 3/8 in. (18.6 x 16.2 cm) \nSheet: 14 1/2 x 9 5/8\
+  dimensions: "Image: 7 5/16 x 6 3/8 in. (18.6 x 16.2 cm); Sheet: 14 1/2 x 9 5/8\
     \ in. (36.8 x 24.4 cm)  "
   id: '32'
-  location: "Drawn in: Paris \nPrinted in: London, by Thomas Way  "
+  location: "Drawn in: Paris; Printed in: London, by Thomas Way  "
   medium: Transfer lithograph with stumping, drawn on fine-grained transfer paper
   title: The Draped Figure, Seated (C.72)
   year: 1893 CE
@@ -354,10 +354,10 @@ object_list:
   copyright: Courtesy of the Georgia Museum of Art, University of Georgia.
   credit_line: Georgia Museum of Art, University of Georgia; Gift of the University
     of Georgia Foundation. GMOA 1972.2890.
-  dimensions: "Image: 11 1/2 x 9 3/8 in. (29.2 x 23.8 cm) \nSheet: 23 5/8 x 16 7/8\
+  dimensions: "Image: 11 1/2 x 9 3/8 in. (29.2 x 23.8 cm); Sheet: 23 5/8 x 16 7/8\
     \ in. (60 x 42.9 cm)  "
   id: '33'
-  location: "Drawn in: Paris \nPrinted in: London, by Thomas Way \nPublished in: L’Estampe\
+  location: "Drawn in: Paris; Printed in: London, by Thomas Way; Published in: L’Estampe\
     \ originale (Paris) album IV (October-December 1893) "
   medium: Transfer lithograph with stumping, drawn on fine-grained transfer paper
   title: The Draped Figure, Seated (C. 72); published as La Danseuse
@@ -366,10 +366,10 @@ object_list:
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker. (1954/1.442).
-  dimensions: "Image: 4 9/16 x 8 7/16 in. (11.5 x 21.4 cm) \nSheet: 8 3/16 x 13 in.\
+  dimensions: "Image: 4 9/16 x 8 7/16 in. (11.5 x 21.4 cm); Sheet: 8 3/16 x 13 in.\
     \ (20.8 x 33 cm) "
   id: '34'
-  location: "Drawn in: Paris \nPrinted in: London, by Thomas Way"
+  location: "Drawn in: Paris; Printed in: London, by Thomas Way"
   medium: 'Transfer lithograph with stumping, drawn on fine-grained transfer paper '
   title: Nude Model, Reclining (C.73), third state of three
   year: 1893 CE
@@ -377,10 +377,10 @@ object_list:
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker. (1954/1.445).
-  dimensions: "Image: 7 1/16 x 5 3/4 in. (17.9 x 14.6 cm) \nSheet: 13 7/16 x 9 7/16\
+  dimensions: "Image: 7 1/16 x 5 3/4 in. (17.9 x 14.6 cm); Sheet: 13 7/16 x 9 7/16\
     \ in. (34.1 x 24 cm)  "
   id: '35'
-  location: "Created in: Paris \nDiscovered in: London, by Thomas Way "
+  location: "Created in: Paris; Discovered in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on fine-grained transfer paper
   title: Little Draped Figure, Leaning (C.76)
   year: 1893 CE
@@ -388,10 +388,10 @@ object_list:
   copyright: Courtesy of Yale University Art Gallery.
   credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
     1913. 1947.393.
-  dimensions: "Image: 7 5/16 x 5 9/16 in. (18.6 x 14.1 cm) \nSheet: 11 7/16 x 8 1/8\
+  dimensions: "Image: 7 5/16 x 5 9/16 in. (18.6 x 14.1 cm); Sheet: 11 7/16 x 8 1/8\
     \ in. (29.1 x 20.6 cm) "
   id: '36'
-  location: "Drawn in: Paris \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Paris; Printed in: London, by Thomas Way "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Figure Study, Girl Standing (C.113)
   year: 1894 CE
@@ -400,10 +400,10 @@ object_list:
     Policy.
   credit_line: Lent by The Metropolitan Museum of Art; Harris Brisbane Dick Fund,
     1917. (17.3.220).
-  dimensions: "Image: 7 3/16 x 3 11/16 in. (18.3 x 9.4 cm) \nSheet: 13 1/2 x 10 in.\
+  dimensions: "Image: 7 3/16 x 3 11/16 in. (18.3 x 9.4 cm); Sheet: 13 1/2 x 10 in.\
     \ (34.3 x 25.4 cm)"
   id: '37'
-  location: "Drawn in: Paris \nPrinted in: London, by Thomas Way "
+  location: "Drawn in: Paris; Printed in: London, by Thomas Way "
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Study (C.114)
   year: 1894 CE
@@ -411,10 +411,10 @@ object_list:
   copyright: Courtesy of Yale University Art Gallery.
   credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
     1913. 1947.395.
-  dimensions: "Image: 5 3/8 x 2 5/8 in. (13.6 x 6.7 cm) \nSheet: 12 11/16 x 8 1/8\
+  dimensions: "Image: 5 3/8 x 2 5/8 in. (13.6 x 6.7 cm); Sheet: 12 11/16 x 8 1/8\
     \ in. (32.2 x 20.6 cm) "
   id: '38'
-  location: "Drawn in: Paris \nPrinted in: London, hand-printed by Thomas Way "
+  location: "Drawn in: Paris; Printed in: London, hand-printed by Thomas Way "
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Girl with Bowl (C.118)
   year: 1895 CE
@@ -422,20 +422,20 @@ object_list:
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
     Margaret Watson Parker (1954/1.400).
-  dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm) \nSheet: 6 5/16 x 5 1/16\
+  dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm); Sheet: 6 5/16 x 5 1/16\
     \ in. (16 x 12.9 cm)  "
   id: '39'
-  location: "Drawn in: Chelsea, London \nPrinted in: Chelsea, London, by the artist "
+  location: "Drawn in: Chelsea, London; Printed in: Chelsea, London, by the artist "
   medium: Etching
   title: Cameo, No. 1 (Mother and Child) (G.459)
   year: June 1891 CE
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: © The Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Bryan Lathrop Collection. 1934.554.
-  dimensions: "Image: 6 7/8 x 5 in. (17.5 x 12.7 cm) \nSheet: 7 1/16 x 5 in. (18 x\
+  dimensions: "Image: 6 7/8 x 5 in. (17.5 x 12.7 cm); Sheet: 7 1/16 x 5 in. (18 x\
     \ 12.7 cm)"
   id: '40'
-  location: "Drawn in: Chelsea, London \nPrinted in: Chelsea, London, by the artist "
+  location: "Drawn in: Chelsea, London; Printed in: Chelsea, London, by the artist "
   medium: Etching
   title: Cameo, No. 2 (G.460)
   year: June 1891 CE
@@ -469,10 +469,10 @@ object_list:
 - artist: Jean-Léon Gérôme (French, 1824-1904)
   copyright: © Eskenazi Museum of Art/Kevin Montague.
   credit_line: "Arthur R. Metz Collection; Gift of the Arthur R. Metz Foundation;\
-    \ Eskenazi \nMuseum of Art, Indiana University. 94.85. "
+    \ Eskenazi; Museum of Art, Indiana University. 94.85. "
   dimensions: 9 1/4 x 4 1/2 x 4 1/2 in. (23.5 x 11.4 x 11.4 cm)
   id: '44'
-  location: "Modelled in: Paris \nCast in: Paris "
+  location: "Modelled in: Paris; Cast in: Paris "
   medium: Bronze with gilt
   title: 'The Hoop Dancer (Danseuse au cerceau) '
   year: 1891 CE
