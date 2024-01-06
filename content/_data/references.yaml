@@ -1,91 +1,77 @@
 entries:
 
-  - full: "Ackerman, Gerald M. 2000. *Jean-L\xE9on G\xE9r\xF4me*. Courbevoie: ACR \xC9\
-      dition."
-    id: 'Ackerman, Gerald M. 2000'
-
-  - full: "Allen, Ruth. 2016. \u201CA cultural history of engraved Roman gemstones -\
-      \ their material, iconography, and function.\u201D Ph.D. diss., University of\
-      \ Cambridge."
-    id: 'Allen, Ruth. 2016'
-
+  - full: 'Ackerman, Gerald M. 2000. *Jean-Léon Gérôme*. Courbevoie: ACR Édition.'
+    id: ''
+  - full: Allen, Ruth. 2016. "A cultural history of engraved Roman gemstones - their
+      material, iconography, and function." Ph.D. diss., University of Cambridge.
+    id: ''
   - full: 'Aronson, Julie. 1996. *Bessie Potter Vonnoh (1872-1955) and Small Bronze
       Sculpture in America*. 3 vols. Ph.D. diss., University of Delaware, 1995. Ann
       Arbor: UMI Microform 9610469.'
-    id: 'Aronson, Julie. 1996'
-
-  - full: "Art Institute of Chicago. 1998.\_*The Lithographs of James McNeill Whistler*,\
-      \ 2 vols. Harriet\_K. Stratis and Martha Tedeschi, general editors. Chicago: Art\
-      \ Institute of Chicago & Arie and Ida Crown Memorial. Digital edition, <u><https://publications.artic.edu/digitalwhistler/reader/lithographs/section/3>.</u>\
-      \ Lithographs catalogued in this reference are marked C."
-    id: 'Art Institute of Chicago. 1998'
-
+    id: ''
+  - full: 'Art Institute of Chicago. 1998. *The Lithographs of James McNeill Whistler*,
+      2 vols. Harriet K. Stratis and Martha Tedeschi, general editors. Chicago: Art
+      Institute of Chicago & Arie and Ida Crown Memorial. Digital edition, [<https://publications.artic.edu/digitalwhistler/reader/lithographs/section/3>.]{.underline}
+      Lithographs catalogued in this reference are marked C.'
+    id: ''
   - full: 'Barrow, Rosemary J. 2018. *Gender, Identity, and the Body in Greek and Roman
       Sculpture*. Cambridge: Cambridge University Press.'
-    id: 'Barrow, Rosemary J. 2018'
-
+    id: ''
   - full: 'Barrow, Rosemary J. 2001. *Lawrence Alma-Tadema*. London: Phaidon.'
-    id: 'Barrow, Rosemary J. 2001'
-
-  - full: "Besques, Simone. 1992. *Mus\xE9e du Louvre Catalogue Raisonn\xE9 des Figurines\
-      \ et Reliefs en Terre-cuite Grecs \xC9trusques et Romains*, vol. 4, pt. 2 text;\
-      \ vol. 4, pt. 2 pls. *\xC9poques Hell\xE9nistique et Romaine Cyr\xE9naique, Egypte\
-      \ Ptol\xE9maique et Romain, Afrique du Nord et Proche-Orient*. Paris: R\xE9union\
-      \ des Mus\xE9es nationaux."
-    id: 'Besques, Simone. 1992'
-    
-  - full: "Bianchi, Emmanuela. 2006. \u201CReceptable/Chora: figuring the errant feminine\
-      \ in Plato\u2019s *Timaeus*.\u201D *Hypatia* 1, no. 4 (Autumn 2006), 124\u2013\
-      146."
     id: ''
-  - full: "Black, Paula and Ursula Sharma. 2001. \u201CMen are real, women are \u2018\
-      made up\u2019: beauty therapy and the construction of femininity.\u201D *The Sociological\
-      \ Review* 49, no. 1 (2001), 100\u2013116."
+  - full: 'Besques, Simone. 1992. *Musée du Louvre Catalogue Raisonné des Figurines
+      et Reliefs en Terre-cuite Grecs Étrusques et Romains*, vol. 4, pt. 2 text; vol.
+      4, pt. 2 pls. *Époques Hellénistique et Romaine Cyrénaique, Egypte Ptolémaique
+      et Romain, Afrique du Nord et Proche-Orient*. Paris: Réunion des Musées nationaux.'
     id: ''
-  - full: "Bl\xFChm, Andreas. 1996. \u201CIn Living Colour: A Short History of Colour\
-      \ in Sculpture in the 19<sup>th</sup> Century.\u201D In *The Colour of Sculpture\
-      \ 1840-1910*, edited by Andreas Bl\xFChm, 11\u201360. Amsterdam: Van Gogh Museum\
-      \ and Zwolle: Wanders Uitgevers."
+  - full: 'Bianchi, Emmanuela. 2006. "Receptable/Chora: figuring the errant feminine
+      in Plato''s *Timaeus*." *Hypatia* 1, no. 4 (Autumn 2006), 124--146.'
     id: ''
-  - full: "Blundell, Sue. 2002. \u201CClutching at clothes.\u201D In *Women\u2019s Dress\
-      \ in the Ancient Greek World*, edited by Lloyd Llewellyn-Jones, 143\u2013170.\
-      \ Swansea: Classical Press of Wales."
+  - full: 'Black, Paula and Ursula Sharma. 2001. "Men are real, women are ''made up'':
+      beauty therapy and the construction of femininity." *The Sociological Review*
+      49, no. 1 (2001), 100--116.'
     id: ''
-  - full: "Blundell, Sue and Nancy Sorkin Rabinowitz. 2008. \u201CWomen\u2019s bodies,\
-      \ women\u2019s pots: adornment scenes in Attic vase-painting.\u201D *Phoenix*\
-      \ 62, no. 1/2 (Spring/Summer 2008), 115\u2013144."
+  - full: 'Blühm, Andreas. 1996. "In Living Colour: A Short History of Colour in Sculpture
+      in the 19^th^ Century." In *The Colour of Sculpture 1840-1910*, edited by Andreas
+      Blühm, 11--60. Amsterdam: Van Gogh Museum and Zwolle: Wanders Uitgevers.'
+    id: ''
+  - full: 'Blundell, Sue. 2002. "Clutching at clothes." In *Women''s Dress in the Ancient
+      Greek World*, edited by Lloyd Llewellyn-Jones, 143--170. Swansea: Classical Press
+      of Wales.'
+    id: ''
+  - full: 'Blundell, Sue and Nancy Sorkin Rabinowitz. 2008. "Women''s bodies, women''s
+      pots: adornment scenes in Attic vase-painting." *Phoenix* 62, no. 1/2 (Spring/Summer
+      2008), 115--144.'
     id: ''
   - full: 'Boggs, Jean Sutherland. 1996. *Degas*. Chicago: Art Institute of Chicago.'
     id: ''
-  - full: "Boggs, Jean Sutherland. 1956. \u201CMme Henri Rouart and H\xE9l\xE8ne by\
-      \ Edgar Degas.\u201D *Bulletin of the Art Division of the Los Angeles County Museum*\
-      \ 8, no. 2 (Spring 1956): 13\u201317."
+  - full: 'Boggs, Jean Sutherland. 1956. "Mme Henri Rouart and Hélène by Edgar Degas."
+      *Bulletin of the Art Division of the Los Angeles County Museum* 8, no. 2 (Spring
+      1956): 13--17.'
     id: ''
   - full: 'Boggs, Jean Sutherland. 1962. *Portraits by Degas*. Berkeley and Los Angeles:
       University of California Press.'
     id: ''
-  - full: "Bonnard, Jean-Baptiste. 2013. \u201CMale and female bodies according to ancient\
-      \ Greek physicians.\u201D *Clio: Histoire, Femmes et Societes* 37 (2013), 21\u2013\
-      39."
+  - full: 'Bonnard, Jean-Baptiste. 2013. "Male and female bodies according to ancient
+      Greek physicians." *Clio: Histoire, Femmes et Societes* 37 (2013), 21--39.'
     id: ''
-  - full: "Bourgeois, Brigitte. 2010. \u201CArts and crafts of colour on the Louvre\u2019\
-      s Tanagra Figurines.\u201D In *Tanagras: Figurines for Life and Eternity: the\
-      \ Mus\xE9e du Louvre\u2019s Collection of Figurines,* edited by Violainne Jeammet,\
-      \ 238\u2013244. Valencia: Fundaci\xF3n Bancaja."
+  - full: 'Bourgeois, Brigitte. 2010. "Arts and crafts of colour on the Louvre''s Tanagra
+      Figurines." In *Tanagras: Figurines for Life and Eternity: the Musée du Louvre''s
+      Collection of Figurines,* edited by Violainne Jeammet, 238--244. Valencia: Fundación
+      Bancaja.'
     id: ''
-  - full: "Bourgeois, Brigitte and Violaine Jeammet. 2018. \u201CLes paradoxes de l\u2019\
-      invention de la polychromie au XIX<sup>e</sup> si\xE8cle.\u201D In *En Couleurs:\
-      \ La Sculpture Polychrome en France 1850-1910*, edited by \xC9douard Papet, 151\u2013\
-      62. Paris: Mus\xE9e d\u2019Orsay and Vanves: \xC9ditions Hazan."
+  - full: 'Bourgeois, Brigitte and Violaine Jeammet. 2018. "Les paradoxes de l''invention
+      de la polychromie au XIX^e^ siècle." In *En Couleurs: La Sculpture Polychrome
+      en France 1850-1910*, edited by Édouard Papet, 151--62. Paris: Musée d''Orsay
+      and Vanves: Éditions Hazan.'
     id: ''
   - full: 'Burn, Lucilla, and Reynold A. Higgins. 2001. *Catalogue of Greek Terracottas
       in the British Museum*, *vol. 3*. London: Trustees of the British Museum.'
     id: ''
-  - full: "Cohen, Beth. 2024. \u201CPallas Athena and Gustav Klimt: Ancient Techn\u0113\
-      \ and Modern Artistic Secession.\u201D In *Athenian Techn\u0113: Objects, Images,\
-      \ and Monuments in Context: Studies in Honor of Jenifer Neils*, edited by D. K.\
-      \ Rogers, T. J. Smith, and A. Steiner. Berlin: De Gruyter, forthcoming \\[2024\\\
-      ]."
+  - full: 'Cohen, Beth. 2024. "Pallas Athena and Gustav Klimt: Ancient Technē and Modern
+      Artistic Secession." In *Athenian Technē: Objects, Images, and Monuments in Context:
+      Studies in Honor of Jenifer Neils*, edited by D. K. Rogers, T. J. Smith, and A.
+      Steiner. Berlin: De Gruyter, forthcoming \[2024\].'
     id: ''
   - full: 'Curry, David Park. 1984. *James McNeill Whistler at the Freer Gallery of
       Art*. Washington, D.C.: Freer Gallery of Art.'
@@ -95,42 +81,41 @@ entries:
     id: ''
   - full: 'Curtis, Mary F. 1879. *Tanagra Figurines*. Boston: Houghton, Osgood and Company.'
     id: ''
-  - full: "D\u2019Ambra, Eve. 1996. \u201CNudity and adornment in female portrait sculpture\
-      \ of the 2<sup>nd</sup> century AD.\u201D In *I, Claudia: Women in Ancient Rome*,\
-      \ edited by Diana E. E. Kleiner and Susan B. Matheson, 101\u2013115. New Haven:\
-      \ Yale University Art Gallery."
+  - full: 'D''Ambra, Eve. 1996. "Nudity and adornment in female portrait sculpture of
+      the 2^nd^ century AD." In *I, Claudia: Women in Ancient Rome*, edited by Diana
+      E. E. Kleiner and Susan B. Matheson, 101--115. New Haven: Yale University Art
+      Gallery.'
     id: ''
-  - full: "D\xE4ubler-Hausche, Claudia, and Michael Brunner, eds. 2009. *Impressionismus\
-      \ und Japanmode*. \xDCberlingen: St\xE4dtische Galerie and Petersberg, Germany:\
-      \ Michael Imhof Verlag."
+  - full: 'Däubler-Hausche, Claudia, and Michael Brunner, eds. 2009. *Impressionismus
+      und Japanmode*. Überlingen: Städtische Galerie and Petersberg, Germany: Michael
+      Imhof Verlag.'
     id: ''
-  - full: "Day, Lewis F. 1893. \u201CA Kensington Interior.\u201D *Art Journal* 55 (May\
-      \ 1893): 139\u201344."
+  - full: 'Day, Lewis F. 1893. "A Kensington Interior." *Art Journal* 55 (May 1893):
+      139--44.'
     id: ''
   - full: 'Dillon, Sheila. 2010. *The Female Portrait Statue in the Greek World.* Cambridge:
       Cambridge University Press.'
     id: ''
-  - full: "Dillon, Sheila. 2012. \u201CCase Study III: Hellenistic Tanagra Figurines.\u201D\
-      \ In *A Companion to Women in the Ancient World,* edited by Sharon L. James and\
-      \ Sheila Dillon, 231\u2013234. Hoboken, N.J.: Wiley-Blackwell."
+  - full: 'Dillon, Sheila. 2012. "Case Study III: Hellenistic Tanagra Figurines." In
+      *A Companion to Women in the Ancient World,* edited by Sharon L. James and Sheila
+      Dillon, 231--234. Hoboken, N.J.: Wiley-Blackwell.'
     id: ''
-  - full: "Dillon, Sheila. 2011. Review of *Tanagras for Life and Eternity. The Mus\xE9\
-      e du Louvre\u2019s Collection of Greek Figurines.* *Bryn Mawr Classical Review*\
-      \ (2011), [<u>https://bmcr.brynmawr.edu/2011/2011.06.04/</u>](https://bmcr.brynmawr.edu/2011/2011.06.04/)"
+  - full: Dillon, Sheila. 2011. Review of *Tanagras for Life and Eternity. The Musée
+      du Louvre's Collection of Greek Figurines.* *Bryn Mawr Classical Review* (2011),
+      [[https://bmcr.brynmawr.edu/2011/2011.06.04/]{.underline}](https://bmcr.brynmawr.edu/2011/2011.06.04/)
     id: ''
-  - full: "Flemming, Rebecca. 2017. \u201CWombs for the gods.\u201D In *Bodies of Evidence:\
-      \ Ancient Anatomical Votives, Past, Present and Future*, edited by Jane Draycott\
-      \ and Emma-Jayne Graham , 112\u2013130. London: Routledge."
+  - full: 'Flemming, Rebecca. 2017. "Wombs for the gods." In *Bodies of Evidence: Ancient
+      Anatomical Votives, Past, Present and Future*, edited by Jane Draycott and Emma-Jayne
+      Graham , 112--130. London: Routledge.'
     id: ''
-  - full: "Forte, Ilene Susan. 1993. *Childe Hassam\u2019s New York*. San Francisco:\
-      \ Pomegranate Artbooks."
+  - full: 'Forte, Ilene Susan. 1993. *Childe Hassam''s New York*. San Francisco: Pomegranate
+      Artbooks.'
     id: ''
-  - full: "Gerstein, Marc. 1982. \u201CDegas\u2019s Fans.\u201D *Art Bulletin* 64, no.\
-      \ 1 (March 1982): 105\u201318."
+  - full: 'Gerstein, Marc. 1982. "Degas''s Fans." *Art Bulletin* 64, no. 1 (March 1982):
+      105--18.'
     id: ''
-  - full: "Graham, Emma-Jane. 2013. \u201CThe making of infants in Hellenistic and early\
-      \ Roman Italy: a votive perspective.\u201D *World Archaeology* 45, no. 2 (2013),\
-      \ 215\u2013231."
+  - full: 'Graham, Emma-Jane. 2013. "The making of infants in Hellenistic and early
+      Roman Italy: a votive perspective." *World Archaeology* 45, no. 2 (2013), 215--231.'
     id: ''
   - full: 'Griffin, Randall C. 1994. *Thomas Anshutz: Artist and Teacher*. Huntington,
       NY: Heckscher Museum and Seattle: University of Washington Press.'
@@ -139,10 +124,10 @@ entries:
       Whitney Museum of American Art, distributed by New York: Harry N. Abrams.'
     id: ''
   - full: 'Hausberg, Meg, and Victoria Sancho Lobis. 2015. *Whistler and Roussel: Linked
-      Visions.* Chicago: Art Institute of Chicago. Online exhibition, [<u>https://publications.artic.edu/whistler/reader/linkedvisions</u>](https://publications.artic.edu/whistler/reader/linkedvisions).'
+      Visions.* Chicago: Art Institute of Chicago. Online exhibition, [[https://publications.artic.edu/whistler/reader/linkedvisions]{.underline}](https://publications.artic.edu/whistler/reader/linkedvisions).'
     id: ''
-  - full: "Hering, Fanny Field. 1892. *G\xE9r\xF4me: The Life and Works of Jean L\xE9\
-      on G\xE9r\xF4me*. New York: Cassell Publishing Company."
+  - full: 'Hering, Fanny Field. 1892. *Gérôme: The Life and Works of Jean Léon Gérôme*.
+      New York: Cassell Publishing Company.'
     id: ''
   - full: 'Hiesinger, Ulrich W. 1994. *Childe Hassam: American Impressionist*. Munich
       and New York: Prestel.'
@@ -154,104 +139,100 @@ entries:
       Ex. cat. New York: Brooklyn Museum in association with Washington, D.C.: the Smithsonian
       Institution Press.'
     id: ''
-  - full: "Hobbs, Susan A. 2018. *Thomas Wilmer Dewing: Beauty into Art, A Catalogue\
-      \ Raisonn\xE9*, 2 vols. \\[Alexandria, Va.\\]: The Thomas Dewing Catalogue Raisonn\xE9\
-      \ and New Haven: Yale University Press."
+  - full: 'Hobbs, Susan A. 2018. *Thomas Wilmer Dewing: Beauty into Art, A Catalogue
+      Raisonné*, 2 vols. \[Alexandria, Va.\]: The Thomas Dewing Catalogue Raisonné and
+      New Haven: Yale University Press.'
     id: ''
   - full: 'Huish, Marcus B. 1900. *Greek terra-cotta statuettes: their origin, evolution,
       and uses.* London: John Murray.'
     id: ''
-  - full: "Huish, Marcus B. 1898. \u201CTanagra Terracottas.\u201D *The Studio* 14 (1898):\
-      \ 97\u2013104."
+  - full: 'Huish, Marcus B. 1898. "Tanagra Terracottas." *The Studio* 14 (1898): 97--104.'
     id: ''
   - full: 'Hutton, C. A. 1899. *Greek Terracotta Statuettes.* New York: The Macmillan
       Co.'
     id: ''
-  - full: "Ionides, Julia. 1995. \u201CThe Greek Connection\u2014The Ionides Family\
-      \ and their Connections with Pre-Raphaelite and Victorian Art Circles.\u201D In\
-      \ *Pre-Raphaelite Art in its European Context,* edited by Susan P. Casteras and\
-      \ Alicia Craig Faxon, 160\u201374. Madison, N.J.: Fairleigh Dickinson University\
-      \ Press."
+  - full: 'Ionides, Julia. 1995. "The Greek Connection---The Ionides Family and their
+      Connections with Pre-Raphaelite and Victorian Art Circles." In *Pre-Raphaelite
+      Art in its European Context,* edited by Susan P. Casteras and Alicia Craig Faxon,
+      160--74. Madison, N.J.: Fairleigh Dickinson University Press.'
     id: ''
-  - full: "Iwao, Nagasaki. 2015. \u201CIntroduction: Clad in the Aesthetics of Tradition:\
-      \ from Kosode to Kimono.\u201D In *Kimono: The Art and Evolution of Japanese Fashion:\
-      \ The Khalili Collections*, edited by Ana Jackson, 8\u201311. New York: Thames\
-      \ & Hudson."
+  - full: 'Iwao, Nagasaki. 2015. "Introduction: Clad in the Aesthetics of Tradition:
+      from Kosode to Kimono." In *Kimono: The Art and Evolution of Japanese Fashion:
+      The Khalili Collections*, edited by Ana Jackson, 8--11. New York: Thames & Hudson.'
     id: ''
-  - full: "Jeammet, Violaine. 2010. *Tanagras: Figurines for Life and Eternity: the\
-      \ Mus\xE9e du Louvre\u2019s Collection of Figurines.* Valencia: Fundaci\xF3n Bancaja."
+  - full: 'Jeammet, Violaine. 2010. *Tanagras: Figurines for Life and Eternity: the
+      Musée du Louvre''s Collection of Figurines.* Valencia: Fundación Bancaja.'
     id: ''
   - full: 'Klein, Mason. 2014. *Helena Rubenstein: Beauty is Power*. New York: The Jewish
       Museum, distributed by New Haven: Yale University Press.'
     id: ''
-  - full: "Kleiner, Diana E. E. and Susan B. Matheson. 1996. \u201CIntroduction.\u201D\
-      \ In *I, Claudia: Women in Ancient Rome*, edited by Diana E. E. Kleiner and Susan\
-      \ B. Matheson, 11\u201325. New Haven: Yale University Art Gallery."
+  - full: 'Kleiner, Diana E. E. and Susan B. Matheson. 1996. "Introduction." In *I,
+      Claudia: Women in Ancient Rome*, edited by Diana E. E. Kleiner and Susan B. Matheson,
+      11--25. New Haven: Yale University Art Gallery.'
     id: ''
-  - full: "Komanecky, Michael. 1984. \u201C\u2018A Perfect Gem of Art.\u2019\u201D In\
-      \ *The Folding Image: Screens by Western Artists of the Nineteenth and Twentieth\
-      \ Centuries*, edited by Michael Komanecky and Virginia Fabbri Butera, 41\u2013\
-      119. New Haven: Yale University Art Gallery."
+  - full: 'Komanecky, Michael. 1984. "''A Perfect Gem of Art.''" In *The Folding Image:
+      Screens by Western Artists of the Nineteenth and Twentieth Centuries*, edited
+      by Michael Komanecky and Virginia Fabbri Butera, 41--119. New Haven: Yale University
+      Art Gallery.'
     id: ''
-  - full: "Lange, Konrad. 1880. \u201CDie Athena Parthenos.\u201D *Mittheilungen des\
-      \ Kaiserlich Deutschen Arch\xE4ologischen Instituts. Athenische Abtheilung* 5\
-      \ (1880): 370\u201379."
+  - full: 'Lange, Konrad. 1880. "Die Athena Parthenos." *Mittheilungen des Kaiserlich
+      Deutschen Archäologischen Instituts. Athenische Abtheilung* 5 (1880): 370--79.'
     id: ''
   - full: 'Lindsay, Suzanne Glover, Daphne S. Barbour, and Shelley G. Sturman. 2010.
       *Edgar Degas Sculpture*. Washington, D.C.: National Gallery of Art; distributed
       by Princeton: Princeton University Press.'
     id: ''
-  - full: "Livenas, Arthur. 2020. *Une petit people de pacotille: la collection de fausse\
-      \ terres cuites greques du mus\xE9e du Louvre*. *M\xE9moire de recherche.* Paris:\
-      \ \xC9cole du Louvre."
+  - full: 'Livenas, Arthur. 2020. *Une petit people de pacotille: la collection de fausse
+      terres cuites greques du musée du Louvre*. *Mémoire de recherche.* Paris: École
+      du Louvre.'
     id: ''
-  - full: "Llewellyn-Jones, Lloyd. 2003. *Aphrodite\u2019s Tortoise: The Veiled Woman\
-      \ of Ancient Greece*. Swansea: Classical Press of Wales."
+  - full: 'Llewellyn-Jones, Lloyd. 2003. *Aphrodite''s Tortoise: The Veiled Woman of
+      Ancient Greece*. Swansea: Classical Press of Wales.'
     id: ''
   - full: 'Lochnan, Katharine A. 1984. *The Etchings of James McNeill Whistler.* New
       Haven: Yale University Press.'
     id: ''
-  - full: "Lochnan, Katharine A. 1984. *Whistler\u2019s Etchings and the Sources of\
-      \ His Etching Style, 1855-1880*. New York: Garland Publishing."
+  - full: 'Lochnan, Katharine A. 1984. *Whistler''s Etchings and the Sources of His
+      Etching Style, 1855-1880*. New York: Garland Publishing.'
     id: ''
-  - full: "Lyman, Laurel. 2004. *The Influence of \u201CJaponisme\u201D on the American\
-      \ Impressionists and their Circle, 1893-1915*. Ph.D. diss. City University of\
-      \ New York, 2004. Ann Arbor: UMI Microform 3115270."
+  - full: 'Lyman, Laurel. 2004. *The Influence of "Japonisme" on the American Impressionists
+      and their Circle, 1893-1915*. Ph.D. diss. City University of New York, 2004. Ann
+      Arbor: UMI Microform 3115270.'
     id: ''
-  - full: "MacDonald,\_Margaret\_F. 1997. *Beatrice Whistler: Artist & Designer.* Glasgow,\
-      \ Scotland: Hunterian Art Gallery."
+  - full: 'MacDonald, Margaret F. 1997. *Beatrice Whistler: Artist & Designer.* Glasgow,
+      Scotland: Hunterian Art Gallery.'
     id: ''
-  - full: "MacDonald,\_Margaret\_F. 2003. \u201CEast and West: Sources and Influences.\u201D\
-      \ In *Whistler, Women, & Fashion*, edited by Margaret F. MacDonald, Susan Grace\
-      \ Galassi, and Aileen Ribiero, 52\u201375. New York, Frick Collection and New\
-      \ Haven, Yale University Press,."
+  - full: 'MacDonald, Margaret F. 2003. "East and West: Sources and Influences." In
+      *Whistler, Women, & Fashion*, edited by Margaret F. MacDonald, Susan Grace Galassi,
+      and Aileen Ribiero, 52--75. New York, Frick Collection and New Haven, Yale University
+      Press,.'
     id: ''
-  - full: "MacDonald,\_Margaret\_F. 1995. *James McNeill Whistler: Drawings, Pastels,\
-      \ and Watercolours; A Catalogue Raisonn\xE9.* New Haven: Yale University Press.\
-      \ Works catalogued in this reference are identified M."
+  - full: 'MacDonald, Margaret F. 1995. *James McNeill Whistler: Drawings, Pastels,
+      and Watercolours; A Catalogue Raisonné.* New Haven: Yale University Press. Works
+      catalogued in this reference are identified M.'
     id: ''
-  - full: "MacDonald,\_Margaret\_F, Grischka Petri, Meg Hausberg, and Joanna Meacock.\
-      \ 2012.\_*James McNeill Whistler: The Etchings, a catalogue raisonn\xE9*. University\
-      \ of Glasgow. [<u>http://etchings.arts.gla.ac.uk</u>](http://etchings.arts.gla.ac.uk)."
+  - full: 'MacDonald, Margaret F, Grischka Petri, Meg Hausberg, and Joanna Meacock.
+      2012. *James McNeill Whistler: The Etchings, a catalogue raisonné*. University
+      of Glasgow. [[http://etchings.arts.gla.ac.uk]{.underline}](http://etchings.arts.gla.ac.uk).'
     id: ''
-  - full: "MacDonald,\_Margaret\_F, Patricia de Montfort, and Nigel Thorp, eds. *The\
-      \ Correspondence of James McNeill Whistler, 1855-1903*. Online edition, University\
-      \ of Glasgow. [<u>http://www.whistler.arts.gla.ac.uk/correspondence</u>](http://www.whistler.arts.gla.ac.uk/correspondence).\
-      \ Letters from this edition are identified as GUW."
+  - full: MacDonald, Margaret F, Patricia de Montfort, and Nigel Thorp, eds. *The Correspondence
+      of James McNeill Whistler, 1855-1903*. Online edition, University of Glasgow.
+      [[http://www.whistler.arts.gla.ac.uk/correspondence]{.underline}](http://www.whistler.arts.gla.ac.uk/correspondence).
+      Letters from this edition are identified as GUW.
     id: ''
-  - full: "Muller, Arthur. 2010. \u201CThe technique of tanagra coroplasts. From local\
-      \ craft to \u2018global industry.\u2019\u201D In *Tanagras: Figurines for Life\
-      \ and Eternity: the Mus\xE9e du Louvre\u2019s Collection of Figurines,* edited\
-      \ by Violainne Jeammet, 100-109. Valencia: Fundaci\xF3n Bancaja."
+  - full: 'Muller, Arthur. 2010. "The technique of tanagra coroplasts. From local craft
+      to ''global industry.''" In *Tanagras: Figurines for Life and Eternity: the Musée
+      du Louvre''s Collection of Figurines,* edited by Violainne Jeammet, 100-109. Valencia:
+      Fundación Bancaja.'
     id: ''
-  - full: "Mus\xE9e du Louvre. 2003. *Tanagra: Mythe et arch\xE9ologie.* Paris: R\xE9\
-      union des mus\xE9es nationaux."
+  - full: 'Musée du Louvre. 2003. *Tanagra: Mythe et archéologie.* Paris: Réunion des
+      musées nationaux.'
     id: ''
   - full: 'Olson, Kelly. 2008. *Dress and the Roman Woman: Self-presentation and Society*.
       London and New York: Routledge.'
     id: ''
-  - full: "Olson, Kelly. 2009. \u201CCosmetics in Roman antiquity: substance, remedy,\
-      \ poison.\u201D *Classical World* 102, no. 3, (Spring 2009), 291\u2013310."
+  - full: 'Olson, Kelly. 2009. "Cosmetics in Roman antiquity: substance, remedy, poison."
+      *Classical World* 102, no. 3, (Spring 2009), 291--310.'
     id: ''
   - full: 'Ono, Ayako. 2003. *Japonisme in Britain: Whistler, Menpes, Henry, Hornel
       and Nineteenth-century Japan*. London: Routledge Curzon.'
@@ -263,27 +244,22 @@ entries:
       from Antiquity to the Present*. Los Angeles: J. Paul Getty Museum and Getty Research
       Institute.'
     id: ''
-  - full: "Papet, \xC9douard. 2010. \u201C\u2018Father Polychrome\u2019: The Sculpture\
-      \ of Jean-L\xE9on G\xE9r\xF4me,\u201D translated by Johnathan Sly. In *The Spectacular\
-      \ Art of Jean-L\xE9on G\xE9r\xF4me (1824-1904)*, 291\u2013329. Paris: Mus\xE9\
-      e d\u2019Orsay and Skira Flammarion."
+  - full: 'Papet, Édouard. 2010. "''Father Polychrome'': The Sculpture of Jean-Léon
+      Gérôme," translated by Johnathan Sly. In *The Spectacular Art of Jean-Léon Gérôme
+      (1824-1904)*, 291--329. Paris: Musée d''Orsay and Skira Flammarion.'
     id: ''
-  - full: "Papet, \xC9douard. 2003. \u201CJean-L\xE9on G\xE9r\xF4me: *Tanagra*, 1890.\u201D\
-      \ In *Tanagra: Myth et arch\xE9ologie*, 48\u201353. Paris: Mus\xE9e du Louvre\
-      \ and R\xE9union de mus\xE9es nationaux."
+  - full: 'Papet, Édouard. 2003. "Jean-Léon Gérôme: *Tanagra*, 1890." In *Tanagra: Myth
+      et archéologie*, 48--53. Paris: Musée du Louvre and Réunion de musées nationaux.'
     id: ''
-  - full: "Papet, \xC9douard. 2018. \u201CLa sculpture polychrome en France 1850-1910.\u201D\
-      \ In *En Couleurs: La Sculpture Polychrome en France 1850-1910*, edited by \xC9\
-      douard Papet, 17\u201332. Paris: Mus\xE9e d\u2019Orsay and Vanves: \xC9ditions\
-      \ Hazan."
+  - full: 'Papet, Édouard. 2018. "La sculpture polychrome en France 1850-1910." In *En
+      Couleurs: La Sculpture Polychrome en France 1850-1910*, edited by Édouard Papet,
+      17--32. Paris: Musée d''Orsay and Vanves: Éditions Hazan.'
     id: ''
-  - full: "Papet, \xC9douard. 2003. \u201CVariations sur la Danseuse *Titeux*.\u201D\
-      \ In *Tanagra: Myth et arch\xE9ologie*, 54\u201364. Paris: Mus\xE9e du Louvre\
-      \ and R\xE9union de Mus\xE9es Nationaux."
+  - full: 'Papet, Édouard. 2003. "Variations sur la Danseuse *Titeux*." In *Tanagra:
+      Myth et archéologie*, 54--64. Paris: Musée du Louvre and Réunion de Musées Nationaux.'
     id: ''
-  - full: "Pennell, Elizabeth Robins. 1897. \u201CThe Master of the Lithograph\u2014\
-      J. McNeill Whistler.\u201D *Scribner\u2019s Magazine* 21, no. 3 (Mar 1897): 277\u2013\
-      89."
+  - full: 'Pennell, Elizabeth Robins. 1897. "The Master of the Lithograph---J. McNeill
+      Whistler." *Scribner''s Magazine* 21, no. 3 (Mar 1897): 277--89.'
     id: ''
   - full: 'Pennell, Elizabeth Robins and Joseph Pennell. 1915. *Lithography and Lithographers:
       Some Chapters in the History of Art*. New York: Macmillan.'
@@ -302,58 +278,56 @@ entries:
       Thought in Late Nineteenth-Century America*. Austin: University of Texas Press,
       1996.'
     id: ''
-  - full: "Pyne, Kathleen A. 1981. \u201C*Classical Figures*, A Folding Screen by Thomas\
-      \ Dewing,\u201D *Bulletin of the Detroit Institute of Arts* 59, no. 1 (Spring\
-      \ 1981), 4\u201315."
+  - full: Pyne, Kathleen A. 1981. "*Classical Figures*, A Folding Screen by Thomas Dewing,"
+      *Bulletin of the Detroit Institute of Arts* 59, no. 1 (Spring 1981), 4--15.
     id: ''
-  - full: "Rayet, Olivier. 1875. \u201CLes Figurines de Tanagra au Mus\xE9e du Louvre.\u201D\
-      \ *Gazette des Beaux-Arts* 12, no. 2 (1875): 297\u2013314, 551\u201358."
+  - full: 'Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette
+      des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.'
     id: ''
-  - full: "Rayet, Olivier. 1875. \u201CNotes and News,\u201D *Academy* (Apr. 17, 1875),\
-      \ 411."
+  - full: Rayet, Olivier. 1875. "Notes and News," *Academy* (Apr. 17, 1875), 411.
     id: ''
-  - full: "Reeder, Eve D. 1995. \u201CWomen as containers.\u201D In *Pandora: Women\
-      \ in Classical Greece*, 195\u2013199. Trustees of the Walters Art Gallery."
+  - full: 'Reeder, Eve D. 1995. "Women as containers." In *Pandora: Women in Classical
+      Greece*, 195--199. Trustees of the Walters Art Gallery.'
     id: ''
-  - full: "Reff, Theodore. 1976. *Degas: The Artist\u2019s Mind*. New York: Metropolitan\
-      \ Museum of Art and Harper & Row,."
+  - full: 'Reff, Theodore. 1976. *Degas: The Artist''s Mind*. New York: Metropolitan
+      Museum of Art and Harper & Row,.'
     id: ''
-  - full: "Reff, Theodore. 1985. *The Notebooks of Edgar Degas: A Catalogue of the Thirty-eight\
-      \ Notebooks in the Biblioth\xE8que Nationale and Other Collections*, 2 vols. New\
-      \ York: Hacker Art Books."
+  - full: 'Reff, Theodore. 1985. *The Notebooks of Edgar Degas: A Catalogue of the Thirty-eight
+      Notebooks in the Bibliothèque Nationale and Other Collections*, 2 vols. New York:
+      Hacker Art Books.'
     id: ''
-  - full: "Richlin, Amy. 1995. \u201CMaking up a woman: the face of Roman gender.\u201D\
-      \ In *Off with Her Head: The Denial of Women\u2019s Identity in Myth, Religion,\
-      \ and Culture*, edited by Howard Eilberg-Schwartz and Wendy Doniger, 185\u2013\
-      213. Berkeley: University of California Press."
+  - full: 'Richlin, Amy. 1995. "Making up a woman: the face of Roman gender." In *Off
+      with Her Head: The Denial of Women''s Identity in Myth, Religion, and Culture*,
+      edited by Howard Eilberg-Schwartz and Wendy Doniger, 185--213. Berkeley: University
+      of California Press.'
     id: ''
-  - full: "Rimell, Victoria. 2006. *Ovid\u2019s Lovers: Desire, Difference and the Poetic\
-      \ Imagination*. Cambridge: Cambridge University Press."
+  - full: 'Rimell, Victoria. 2006. *Ovid''s Lovers: Desire, Difference and the Poetic
+      Imagination*. Cambridge: Cambridge University Press.'
     id: ''
   - full: 'Schall, Ellen M., John Wilmerding, and David M. Sokol. 1990. *American Art:
       American Vision, Paintings from a Century of Collecting*. Ex. cat. Lynchburg:
       Maier Museum of Art and Alexandria, VA.: Art Services International.'
     id: ''
-  - full: "Severance, Alice. 1896. \u201CTalks by Successful Women X: Miss Bessie Potter.\u201D\
-      \ *Godley\u2019s Magazine* 133 (October): 356\u201360."
+  - full: 'Severance, Alice. 1896. "Talks by Successful Women X: Miss Bessie Potter."
+      *Godley''s Magazine* 133 (October): 356--60.'
     id: ''
-  - full: "Sharrock, Alison. 2012. \u201CWomanufacture.\u201D *Journal of Roman Studies*\
-      \ 81 (2012), 36\u201349."
+  - full: Sharrock, Alison. 2012. "Womanufacture." *Journal of Roman Studies* 81 (2012),
+      36--49.
     id: ''
-  - full: "Shumka, Leslie. 2008. \u201CDesigning women: the representation of women\u2018\
-      s toiletries in funerary monuments in Roman Italy.\u201D In *Roman Dress and the\
-      \ Fabrice of Roman Culture,* edited by Jonathan Edmondson and Alison Keith, 172\u2013\
-      191. Toronto: University of Toronto Press."
+  - full: 'Shumka, Leslie. 2008. "Designing women: the representation of women''s toiletries
+      in funerary monuments in Roman Italy." In *Roman Dress and the Fabrice of Roman
+      Culture,* edited by Jonathan Edmondson and Alison Keith, 172--191. Toronto: University
+      of Toronto Press.'
     id: ''
-  - full: "Singletary, Suzanne. 2022. \u201CJames McNeil Whistler: A Conduit between\
-      \ France and America.\u201D In *Whistler to Cassatt: American Painters in France*,\
-      \ edited by Timothy J. Standring, 71\u2013103. Denver: Denver Art Museum and New\
-      \ Haven: Yale University Press."
+  - full: 'Singletary, Suzanne. 2022. "James McNeil Whistler: A Conduit between France
+      and America." In *Whistler to Cassatt: American Painters in France*, edited by
+      Timothy J. Standring, 71--103. Denver: Denver Art Museum and New Haven: Yale University
+      Press.'
     id: ''
-  - full: "Smale, Nicholas Burry. 2003. \u201CVenus Transformed: Lithographs and Pastels\
-      \ of the 1890s.\u201D *The Whistler Review: Studies on James McNeill Whistler\
-      \ and Nineteenth-century Art,* edited by Martha Tedeschi and Nigel Thorp. Centre\
-      \ for Whistler Studies, University of Glasgow 2 (2003): 27\u201336."
+  - full: 'Smale, Nicholas Burry. 2003. "Venus Transformed: Lithographs and Pastels
+      of the 1890s." *The Whistler Review: Studies on James McNeill Whistler and Nineteenth-century
+      Art,* edited by Martha Tedeschi and Nigel Thorp. Centre for Whistler Studies,
+      University of Glasgow 2 (2003): 27--36.'
     id: ''
   - full: 'Stager, Jennifer M. S. 2022. *Seeing Color in Classical Art: Theory, Practice,
       and Reception from Antiquity to the Present*. Cambridge: Cambridge University
@@ -368,16 +342,16 @@ entries:
   - full: 'Tedeschi, Martha, and Britt Salveson. Songs on Stone: James McNeill Whistler
       and the Art of Lithography. Art Institute of Chicago Museum Studies 24, no. 1.'
     id: ''
-  - full: "Thompson, Dorothy Burr. 1966. \u201CThe Origin of Tanagras.\u201D *American\
-      \ Journal of Archaeology* 70, no.1 (January 1966): 51\u201363, pls. 17\u201320."
+  - full: 'Thompson, Dorothy Burr. 1966. "The Origin of Tanagras." *American Journal
+      of Archaeology* 70, no.1 (January 1966): 51--63, pls. 17--20.'
     id: ''
-  - full: "Tsatsouli, Konstantina and Elisavet Nikolaou. 2017. \u201CThe ancient Demetrias\
-      \ figurines: new insights on pigments and decoration techniques used on Hellenistic\
-      \ clay figurines.\u201D *STAR: Science & Technology of Archaeological Research*\
-      \ 3, no. 2 (2017), 341\u2013357."
+  - full: 'Tsatsouli, Konstantina and Elisavet Nikolaou. 2017. "The ancient Demetrias
+      figurines: new insights on pigments and decoration techniques used on Hellenistic
+      clay figurines." *STAR: Science & Technology of Archaeological Research* 3, no.
+      2 (2017), 341--357.'
     id: ''
-  - full: "VanDyk, Chelsea. 2014. \u201CTalking Objects: The Many Faces of Rebecca Whelan.\u201D\
-      \ [<u>https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html</u>](https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html)."
+  - full: 'VanDyk, Chelsea. 2014. "Talking Objects: The Many Faces of Rebecca Whelan."
+      [[https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html]{.underline}](https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html).'
     id: ''
   - full: 'Van Hook, Bailey. 1996. *Angels of Art: Women and Art in American Society,
       1876-1914*. University Park: The Pennsylvania State University Press.'
@@ -394,17 +368,16 @@ entries:
   - full: 'Whistler, James McNeill. 1892. *The Gentle Art of Making Enemies.* London:
       Heinemann.'
     id: ''
-  - full: "White, Gleeson. 1897. \u201CAn Epoch-Making House.\u201D *The Studio* 12\
-      \ no. 56 (Nov. 15, 1897): 102\u201312."
+  - full: 'White, Gleeson. 1897. "An Epoch-Making House." *The Studio* 12 no. 56 (Nov.
+      15, 1897): 102--12.'
     id: ''
-  - full: "Williams, Mary Francis. 1977. *Catalogue of the Collection of American Art\
-      \ at Randolph-Macon Women\u2019s College: A selection of Paintings, Drawings,\
-      \ and Prints*, 2<sup>nd</sup> ed*.* Charlottesville: University of Virginia Press."
+  - full: 'Williams, Mary Francis. 1977. *Catalogue of the Collection of American Art
+      at Randolph-Macon Women''s College: A selection of Paintings, Drawings, and Prints*,
+      2^nd^ ed*.* Charlottesville: University of Virginia Press.'
     id: ''
-  - full: "Wyke, Maria. 1994. \u201CWoman in the mirror: the rhetoric of adornment in\
-      \ the Roman world.\u201D In *Women in Ancient Societies: An Illusion of the Night*,\
-      \ edited by L\xE9onie J. Archer, Susan Fischler, Maria Wyke, 134\u2013151. New\
-      \ York: Routledge."
+  - full: 'Wyke, Maria. 1994. "Woman in the mirror: the rhetoric of adornment in the
+      Roman world." In *Women in Ancient Societies: An Illusion of the Night*, edited
+      by Léonie J. Archer, Susan Fischler, Maria Wyke, 134--151. New York: Routledge.'
     id: ''
   - full: 'Young, Andrew McLaren. 1960. *James McNeill Whistler: An Exhibition of Paintings
       and Other Works, Organized by the Arts Council of Great Britain and the English-speaking
