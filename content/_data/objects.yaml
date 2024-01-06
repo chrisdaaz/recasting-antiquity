@@ -1,727 +1,672 @@
+---
 object_display_order:
-- artist
-- year
-- dimensions
-- medium
-- location
-
+  - artist
+  - year
+  - dimensions
+  - medium
+  - location
 object_list:
-
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. CA 462 (or 662).
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. CA 462 (or 662).
     dimensions: 8 1/4 x 3 15/16 x 2 15/16 in. (21 x 10 x 7.5 cm)
-    id: '1'
+    id: "1"
     location: "Created in: Athens; Discovered in: Athens; acquired 1846 "
     medium: Terracotta, traces of preparation layer
     title: Statuette of a Veiled Woman Dancing, known as the “Titeux Dancer”
     year: 375-350 BCE
-    figure: 
-    - id: "cat-1"
-
+    figure:
+      - id: cat-1
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Daniel Lebée / Carine
       Déambrosis.
-    credit_line: 'Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. CA 2978. '
+    credit_line: "Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. CA 2978. "
     dimensions: 9 1/2 x 4 15/16 x 1 3/4 in. (24.1 cm x 12.6 cm x 4.4 cm)
-    id: '2'
-    location: "Created in: Halicarnassus (?) or Smyrna (?); Discovered in: Izmir (Smyrna)\
-      \ (?); acquired 1934 "
+    id: "2"
+    location: "Created in: Halicarnassus (?) or Smyrna (?); Discovered in: Izmir
+      (Smyrna) (?); acquired 1934 "
     medium: Terracotta
     title: Mold for a Draped Woman with Modern Cast
     year: 400-300 BCE
-    figure: 
-    - id: "cat-2"
-
+    figure:
+      - id: cat-2
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Hervé Lewandowski.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. MNB 452.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. MNB 452.
     dimensions: 8 9/16 x 3 7/16 x 2 3/8 in. (21.7 x 8.7 x 6.1 cm)
-    id: '3'
+    id: "3"
     location: "Created in: Tanagra (?); Discovered in: Thisbe; acquired 1872 "
     medium: Terracotta, pigment
     title: Statuette of a Draped Woman
     year: 325-200 BCE
-    figure: 
-    - id: "cat-3"
-
+    figure:
+      - id: cat-3
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. MNB 559.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. MNB 559.
     dimensions: 9 15/16 x 3 5/8 x 2 7/8 in. (25.3 x 9.2 x 7.3 cm)
-    id: '4'
+    id: "4"
     location: "Created in: Thebes (?); Discovered in: Tanagra; acquired 1874 "
     medium: Terracotta, pigment
     title: Statuette of a Woman with a Cloak
     year: 325-200 BCE
-    figure: 
-    - id: "cat-4"
-
+    figure:
+      - id: cat-4
   - artist: Artist unknown
-    copyright: '© Michael C. Carlos Museum, Emory University. '
-    credit_line: Michael C. Carlos Museum, Emory University. Gift of the Christian Humann
-      Foundation. 1986.19.2.
+    copyright: "© Michael C. Carlos Museum, Emory University. "
+    credit_line: Michael C. Carlos Museum, Emory University. Gift of the Christian
+      Humann Foundation. 1986.19.2.
     dimensions: 8 1/8 x 2 1/2 x 3 1/16 in. (20.6 x 6.4 x 7.8 cm)
-    id: '5'
-    location: "Created in: Unknown, perhaps Alexandria; Discovered in: Unknown; acquired\
-      \ by 1981 "
+    id: "5"
+    location: "Created in: Unknown, perhaps Alexandria; Discovered in: Unknown;
+      acquired by 1981 "
     medium: Terracotta, pigment
     title: Statuette of a Draped Woman
     year: ca. 320 BCE
-    figure: 
-    - id: "cat-5"
-
+    figure:
+      - id: cat-5
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Anne Chauvet.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. Myr 163.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. Myr 163.
     dimensions: 13 5/16 x 6 11/16 x 5 9/16 in. (33.8 x 17 x 14.2 cm)
-    id: '6'
-    location: "Created in: Myrina; Discovered in:  Myrina (tomb 98, known as tomb B);\
-      \ acquired 1883 "
+    id: "6"
+    location: "Created in: Myrina; Discovered in:  Myrina (tomb 98, known as tomb
+      B); acquired 1883 "
     medium: Terracotta, pigment
     title: Statuette of Nike Phainomeride (“Of the Visible Thigh”)
     year: 150-100 BCE
-    figure: 
-    - id: "cat-6"
-
+    figure:
+      - id: cat-6
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Anne Chauvet.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. MNB 1141.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. MNB 1141.
     dimensions: 7 ⅛ x 3 9/16 x 3 15/16 in. (18 x 9 x 10 cm)
-    id: '7'
+    id: "7"
     location: "Created in: Corinth; Discovered in: Corinth; acquired 1877 "
     medium: Terracotta, pigment
     title: Statuette of a Seated Woman with Child
     year: 330-200 BCE
-    figure: 
-    - id: "cat-7"
-
+    figure:
+      - id: cat-7
   - artist: Artist unknown
     copyright: © Bruce M. White, 2014.
-    credit_line: Michael C. Carlos Museum, Emory University. Carlos Collection of Ancient
-      Art. 1984.15.
+    credit_line: Michael C. Carlos Museum, Emory University. Carlos Collection of
+      Ancient Art. 1984.15.
     dimensions: 9 11/16 x 3 7/8 x 2 in. (24.6 x 9.8 x 5.1 cm)
-    id: '8'
-    location: "Created in: Unknown, perhaps Myrina; Discovered in: Unknown; acquired\
-      \ by 1960 "
+    id: "8"
+    location: "Created in: Unknown, perhaps Myrina; Discovered in: Unknown; acquired
+      by 1960 "
     medium: Terracotta, pigment
     title: Statuette of a Draped Woman
     year: First half of the 3rd century BCE
-    figure: 
-    - id: "cat-8"
-
+    figure:
+      - id: cat-8
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Stéphane Maréchalle.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. Myr 223.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. Myr 223.
     dimensions: 10 1/4 x 4 7/16 x 3 5/16 in. (26 x 11.2 x 8.4 cm)
-    id: '9'
+    id: "9"
     location: "Created in: Myrina; Discovered in: Myrina "
     medium: Terracotta
     title: Statuette of a Draped Woman with Skirt
     year: 150-100 BCE
-    figure: 
-    - id: "cat-9"
-
+    figure:
+      - id: cat-9
   - artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Hervé Lewandowski.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
-      et romaines. MNB 551.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
+      étrusques et romaines. MNB 551.
     dimensions: 8 1/8 x 3 9/16 x 1 7/8 in. (20.7 x 9.1 x 4.7 cm)
-    id: '10'
+    id: "10"
     location: "Created in: Tanagra; Discovered in: Tanagra "
     medium: Terracotta, pigment
     title: Statuette of Aphrodite Leaning on a Pillar
     year: 330-200 BCE
-    figure: 
-    - id: "cat-10"
-
+    figure:
+      - id: cat-10
   - artist: Artist unknown
     copyright: © President and Fellows of Harvard College, 1935.35.32.
     credit_line: Harvard Art Museums/Arthur M. Sackler Museum, Gift of Miss Bettina
       J. Kahnweiler. 1935.35.32.
     dimensions: 3 3/4 x 3 15/16 x 1 5/8 in. (9.5 x 10 x 3.3 cm)
-    id: '11'
+    id: "11"
     location: "Created in: Unknown; Discovered in: Unknown; acquired by 1894 "
     medium: Terracotta, pigment
     title: Statuette of a Seated Girl Tying her Sandal
     year: 300-1 BCE
-    figure: 
-    - id: "cat-11"
-
+    figure:
+      - id: cat-11
   - artist: Artist unknown
-    copyright: '© Michael C. Carlos Museum, Emory University. '
-    credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges Ricard
-      Foundation. 2018.10.642.
+    copyright: "© Michael C. Carlos Museum, Emory University. "
+    credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges
+      Ricard Foundation. 2018.10.642.
     dimensions: 8 9/16 x 2 1/4 x 4 1/16 in. (21.8 x 5.7 x 10.3 cm)
-    id: '12'
-    location: 'Acquired in: France '
+    id: "12"
+    location: "Acquired in: France "
     medium: Terracotta
     title: Statuette of Girls Playing the Game Ephedrismos
     year: Late 1800s CE
-    figure: 
-    - id: "cat-12"
-
+    figure:
+      - id: cat-12
   - artist: Artist unknown
     copyright: © Michael C. Carlos Museum, Emory University.
-    credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges Ricard
-      Foundation. 2018.10.643.
+    credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges
+      Ricard Foundation. 2018.10.643.
     dimensions: 9 5/8 x 4 13/16 x 3 1/8 in. (24.5 x 12.2 x 7.9 cm)
-    id: '13'
-    location: 'Acquired in: France '
+    id: "13"
+    location: "Acquired in: France "
     medium: Terracotta
     title: Statuette of Cassandra at the Palladion
     year: Late 1800s CE
-    figure: 
-    - id: "cat-13"
-
+    figure:
+      - id: cat-13
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: Courtesy of the Maier Museum of Art at Randolph College, Lynchburg, Virginia.
+    copyright: Courtesy of the Maier Museum of Art at Randolph College, Lynchburg,
+      Virginia.
     credit_line: Lent by the Maier Museum of Art at Randolph College; Purchase made
       possible by the Fine Arts Fund, 1953. M.1953.1.
     dimensions: 12 1/4 x 6 7/8 in. (31.1 x 17.5 cm)
-    id: '14'
-    location: 'Painted in: Chelsea, London'
+    id: "14"
+    location: "Painted in: Chelsea, London"
     medium: Oil on canvas
     title: Sketch of a Figure with Flowers and Japanese Fans (formerly Tanagra)
     year: ca. 1869/1873 CE
-    figure: 
-    - id: "cat-14"
-
+    figure:
+      - id: cat-14
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of the University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker (1954/1.430).
-    dimensions: "Image: 7 3/16 x 5 13/16 in. (18.2 x 14.8 cm); Sheet: 12 5/8 x 8 1/16\
-      \ in. (32.1 x 20.5 cm) "
-    id: '15'
+    dimensions: "Image: 7 3/16 x 5 13/16 in. (18.2 x 14.8 cm); Sheet: 12 5/8 x 8
+      1/16 in. (32.1 x 20.5 cm) "
+    id: "15"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on coarse-grained transfer paper
     title: The Dancing Girl (C.29)
     year: 1889 CE
-    figure: 
-    - id: "cat-15"
-
+    figure:
+      - id: cat-15
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: 'Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. '
-    credit_line: High Museum of Art, Atlanta; Gift of Nick, Trinkett and Charlotte Clark
-      in honor of Michael, Lisa, Kate and Nick Shapiro. 2000.255.
-    dimensions: "Image: 6 5/16 x 6 3/16 in. (6.0 x 15.7 cm); Sheet:  8 7/8 x 7 1/2\
-      \ in. (22.5 x 19.1 cm) "
-    id: '16'
+    copyright: "Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. "
+    credit_line: High Museum of Art, Atlanta; Gift of Nick, Trinkett and Charlotte
+      Clark in honor of Michael, Lisa, Kate and Nick Shapiro. 2000.255.
+    dimensions: "Image: 6 5/16 x 6 3/16 in. (6.0 x 15.7 cm); Sheet:  8 7/8 x 7 1/2
+      in. (22.5 x 19.1 cm) "
+    id: "16"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on coarse-grained transfer paper
     title: The Horoscope (C.30)
     year: ca. 1889 CE
-    figure: 
-    - id: "cat-16"
-
+    figure:
+      - id: cat-16
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: 'Courtesy of Colby College Museum of Art. '
-    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
-      006.2014.
-    dimensions: "Image: 7 3/4 x 4 6/16 in. (9.6 x 11.2 cm); Sheet: 12 3/4 x 8 5/16\
-      \ in. (32.4 x 21.1 cm) "
-    id: '17'
+    copyright: "Courtesy of Colby College Museum of Art. "
+    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder
+      Collection, 006.2014.
+    dimensions: "Image: 7 3/4 x 4 6/16 in. (9.6 x 11.2 cm); Sheet: 12 3/4 x 8 5/16
+      in. (32.4 x 21.1 cm) "
+    id: "17"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on coarse-grained transfer paper
     title: Model Draping (C.31)
     year: probably 1889 CE
-    figure: 
-    - id: "cat-17"
-
+    figure:
+      - id: cat-17
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: 'Courtesy of Colby College Museum of Art. '
-    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
-      283.2008.
-    dimensions: "Image: 7 13/16 x 3 1/8 in. (19.9 x 7.9 cm); Sheet: 15 x 10 13/16 in.\
-      \ (38.1 x 27.5 cm)"
-    id: '18'
+    copyright: "Courtesy of Colby College Museum of Art. "
+    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder
+      Collection, 283.2008.
+    dimensions: "Image: 7 13/16 x 3 1/8 in. (19.9 x 7.9 cm); Sheet: 15 x 10 13/16
+      in. (38.1 x 27.5 cm)"
+    id: "18"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on medium-grained transfer paper
-    title: 'The Novel: Girl Reading (C.32)'
+    title: "The Novel: Girl Reading (C.32)"
     year: probably 1889 CE
-    figure: 
-    - id: "cat-18"
-
+    figure:
+      - id: cat-18
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: 'Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. '
-    credit_line: High Museum of Art, Atlanta; Gift of Mr. and Mrs. Frank Garson II.
-      1990.76.
-    dimensions: "Image: 6 9/16 x 7 1/16 in. (16.7 x 17.9 cm); Sheet: 12 1/8 x 8 1/4\
-      \ in (30.8 x 21 cm) "
-    id: '19'
+    copyright: "Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. "
+    credit_line: High Museum of Art, Atlanta; Gift of Mr. and Mrs. Frank Garson II. 1990.76.
+    dimensions: "Image: 6 9/16 x 7 1/16 in. (16.7 x 17.9 cm); Sheet: 12 1/8 x 8 1/4
+      in (30.8 x 21 cm) "
+    id: "19"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on coarse-grained transfer paper
     title: The Little Nude Model, Reading (C.33)
     year: ca. 1889 CE
-    figure: 
-    - id: "cat-19"
-
+    figure:
+      - id: cat-19
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of Yale University Art Gallery.
-    credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
-      1913. 1947.396.
-    dimensions: "Image: 6 5/16 x 5 ½ in. (16.0 x 14.0 cm); Sheet: 8 3/4 x 5 7/8 in.\
-      \ (22.2 x 14.9 cm) "
-    id: '20'
+    credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class
+      of 1913. 1947.396.
+    dimensions: "Image: 6 5/16 x 5 ½ in. (16.0 x 14.0 cm); Sheet: 8 3/4 x 5 7/8 in.
+      (22.2 x 14.9 cm) "
+    id: "20"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on medium-grained transfer paper
     title: Figure Study (C.39), first state of three
     year: 1890 CE
-    figure: 
-    - id: "cat-20"
-
+    figure:
+      - id: cat-20
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Art Institute of Chicago / Art Resource, NY.
-    credit_line: 'The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.628. '
-    dimensions: "Image: 8 1/16 x 5 1/2 in. (20.4 x 14 cm) ; Sheet: 14 x 10 1/2 in.\
-      \ (35.5 x 26.6 cm) "
-    id: '21'
+    credit_line: "The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.628. "
+    dimensions: "Image: 8 1/16 x 5 1/2 in. (20.4 x 14 cm) ; Sheet: 14 x 10 1/2 in.
+      (35.5 x 26.6 cm) "
+    id: "21"
     location: "Drawn in: Chelsea, London; Printed in: London, by Thomas Way "
-    medium: ' Transfer lithograph, drawn on medium-grained transfer paper (keystone)
-      and thin, transparent paper (color stones)'
+    medium: " Transfer lithograph, drawn on medium-grained transfer paper (keystone)
+      and thin, transparent paper (color stones)"
     title: Figure Study in Colors (C.39), third state of three
     year: 1890 CE
-    figure: 
-    - id: "cat-21"
-
+    figure:
+      - id: cat-21
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: 'Courtesy of Colby College Museum of Art. '
-    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
-      005.2014.
-    dimensions: "Image: 8 5/8 x 4 3/8 in. (21.9 x 11.2 cm); Sheet: 11 3/4 x 7 1/16\
-      \ in. (29.8 x 17.9 cm)  "
-    id: '22'
+    copyright: "Courtesy of Colby College Museum of Art. "
+    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder
+      Collection, 005.2014.
+    dimensions: "Image: 8 5/8 x 4 3/8 in. (21.9 x 11.2 cm); Sheet: 11 3/4 x 7 1/16
+      in. (29.8 x 17.9 cm)  "
+    id: "22"
     location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Draped Figure, Standing (C.46), first state of four
     year: 1891 CE
-    figure: 
-    - id: "cat-22"
-
+    figure:
+      - id: cat-22
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Art Institute of Chicago / Art Resource, NY.
     credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
       James N. Wood. 2004.574.
-    dimensions: "Image: 8 15/16 x 4 7/16 in. (22.7 x 11.2 cm); Sheet: 10 15/16 x 7\
-      \ 15/16 in. (27.8 x 20.1 cm)  "
-    id: '23'
+    dimensions: "Image: 8 15/16 x 4 7/16 in. (22.7 x 11.2 cm); Sheet: 10 15/16 x 7
+      15/16 in. (27.8 x 20.1 cm)  "
+    id: "23"
     location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
-    title: ' Draped Figure, Standing (C.46), second state of four'
+    title: " Draped Figure, Standing (C.46), second state of four"
     year: 1891 CE
-    figure: 
-    - id: "cat-23"
-
+    figure:
+      - id: cat-23
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of the University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker. (1954/1.467).
-    dimensions: "Image: 7 7/16 x 4 ¼ in. (18.9 x 10.9 cm); Sheet: 13 x 10 7/16 in.\
-      \ (33 x 26.5 cm)  "
-    id: '24'
+    dimensions: "Image: 7 7/16 x 4 ¼ in. (18.9 x 10.9 cm); Sheet: 13 x 10 7/16 in.
+      (33 x 26.5 cm)  "
+    id: "24"
     location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Nude Model, Standing (C.48)
     year: probably 1891 CE
-    figure: 
-    - id: "cat-24"
-
+    figure:
+      - id: cat-24
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Art Institute of Chicago / Art Resource, NY.
     credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
       James N. Wood. 2004.578.
-    dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm); Sheet: 12 7/16 x 9 1/8\
-      \ in. (31.6 x 23.2 cm)  "
-    id: '25'
+    dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm); Sheet: 12 7/16 x 9
+      1/8 in. (31.6 x 23.2 cm)  "
+    id: "25"
     location: "Drawn in: Paris; Printed in: Paris, by Henry Belfond "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Draped Model, Dancing (C.50)
     year: probably 1891 CE
-    figure: 
-    - id: "cat-25"
-
+    figure:
+      - id: cat-25
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of Colby College Museum of Art.
-    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection.
-      2013.383.
-    dimensions: "Image: 7 5/16 x 7 9/16 in. (18.5 x 19.1 cm); Sheet: 13 1/8 x 8 1/8\
-      \ in. (33.3 x 20.6 cm)  "
-    id: '26'
+    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder
+      Collection. 2013.383.
+    dimensions: "Image: 7 5/16 x 7 9/16 in. (18.5 x 19.1 cm); Sheet: 13 1/8 x 8 1/8
+      in. (33.3 x 20.6 cm)  "
+    id: "26"
     location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
-    medium: Transfer lithograph with scraping and stumping, drawn on fine-grained transfer
-      paper
+    medium: Transfer lithograph with scraping and stumping, drawn on fine-grained
+      transfer paper
     title: Mother and Child, No. 1 (C.51), second state of two
     year: 1891 CE
-    figure: 
-    - id: "cat-26"
-
+    figure:
+      - id: cat-26
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Art Institute of Chicago / Art Resource, NY.
     credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
       James N. Wood. 2004.579.
-    dimensions: "Image: 5 11/16 x 8 7/16 in. (14.5 x 21.4 cm); Sheet: 8 3/4 x 7 3/8\
-      \ in. (22.2 x 18.8 cm)  "
-    id: '27'
+    dimensions: "Image: 5 11/16 x 8 7/16 in. (14.5 x 21.4 cm); Sheet: 8 3/4 x 7 3/8
+      in. (22.2 x 18.8 cm)  "
+    id: "27"
     location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
-    medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
+    medium: "Transfer lithograph, drawn on thin, transparent transfer paper "
     title: Mother and Child, No. 3 (C.52)
     year: 1891 CE
-    figure: 
-    - id: "cat-27"
-
+    figure:
+      - id: cat-27
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker. (1954/1.454).
-    dimensions: "Image: 6 11/16 x 8 1/16 in. (17.0 x 20.4 cm); Sheet: 8 7/8 x 11 13/16\
-      \ in. (22.5 x 30 cm)  "
-    id: '28'
+    dimensions: "Image: 6 11/16 x 8 1/16 in. (17.0 x 20.4 cm); Sheet: 8 7/8 x 11
+      13/16 in. (22.5 x 30 cm)  "
+    id: "28"
     location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Mother and Child, No. 2 (C.53)
     year: 1891 CE
-    figure: 
-    - id: "cat-28"
-
+    figure:
+      - id: cat-28
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Art Institute of Chicago / Art Resource, NY.
     credit_line: The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.660.
-    dimensions: "Image: 5 5/8 x 9 1/8 in. (14.3 x 23.2 cm); Sheet: 8 3/4 x 11 7/16\
-      \ in. (22.2 x 29 cm) "
-    id: '29'
+    dimensions: "Image: 5 5/8 x 9 1/8 in. (14.3 x 23.2 cm); Sheet: 8 3/4 x 11 7/16
+      in. (22.2 x 29 cm) "
+    id: "29"
     location: "Drawn in: Chelsea, London; Printed in: London, 1895, by Thomas Way "
-    medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
+    medium: "Transfer lithograph, drawn on thin, transparent transfer paper "
     title: Mother and Child, No. 4 (C.54)
     year: 1891 CE
-    figure: 
-    - id: "cat-28"
-
+    figure:
+      - id: cat-28
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: 'Courtesy of the University of Michigan Museum of Art. '
+    copyright: "Courtesy of the University of Michigan Museum of Art. "
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker. (1954/1.468).
-    dimensions: "Image: 7 1/16 x 10 1/4 in. (18.0 x 25.8 cm); Sheet: 9 11/16 x 13 5/8\
-      \ in. (24.6 x 34.6 cm)  "
-    id: '30'
+    dimensions: "Image: 7 1/16 x 10 1/4 in. (18.0 x 25.8 cm); Sheet: 9 11/16 x 13
+      5/8 in. (24.6 x 34.6 cm)  "
+    id: "30"
     location: "Drawn in: Chelsea, London; Printed in: Paris, by Henry Belfond "
-    medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
+    medium: "Transfer lithograph, drawn on thin, transparent transfer paper "
     title: Draped Figure, Reclining (C.56), second state of two
     year: 1892 CE
-    figure: 
-    - id: "cat-29"
-
+    figure:
+      - id: cat-29
   - artist: James McNeill Whistler (American, 1834-1903)
-    copyright: Public domain, courtesy of The Metropolitan Museum of Art's Open Access
-      Policy.
+    copyright: Public domain, courtesy of The Metropolitan Museum of Art's Open
+      Access Policy.
     credit_line: Lent by The Metropolitan Museum of Art; H.O. Havemeyer Collection,
       Bequest of Mrs. H.O. Havemeyer, 1929. (29.107.109).
-    dimensions: "Image: 6 3/4 x 10 in. (17.1 x 25.4 cm); Sheet: 10 7/8 x 15 13/16 in.\
-      \ (27.6 x 40.2 cm)"
-    id: '31'
+    dimensions: "Image: 6 3/4 x 10 in. (17.1 x 25.4 cm); Sheet: 10 7/8 x 15 13/16
+      in. (27.6 x 40.2 cm)"
+    id: "31"
     location: "Drawn in: Chelsea, London; Printed in: Paris, by Henry Belfond "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Draped Figure, Reclining (C.56), second state of two
     year: 1892 CE
-    figure: 
-    - id: "cat-30"
-
+    figure:
+      - id: cat-30
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of the University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker. (1954/1.441).
-    dimensions: "Image: 7 5/16 x 6 3/8 in. (18.6 x 16.2 cm); Sheet: 14 1/2 x 9 5/8\
-      \ in. (36.8 x 24.4 cm)  "
-    id: '32'
+    dimensions: "Image: 7 5/16 x 6 3/8 in. (18.6 x 16.2 cm); Sheet: 14 1/2 x 9 5/8
+      in. (36.8 x 24.4 cm)  "
+    id: "32"
     location: "Drawn in: Paris; Printed in: London, by Thomas Way  "
     medium: Transfer lithograph with stumping, drawn on fine-grained transfer paper
     title: The Draped Figure, Seated (C.72)
     year: 1893 CE
-    figure: 
-    - id: "cat-31"
-
+    figure:
+      - id: cat-31
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of the Georgia Museum of Art, University of Georgia.
-    credit_line: Georgia Museum of Art, University of Georgia; Gift of the University
-      of Georgia Foundation. GMOA 1972.2890.
-    dimensions: "Image: 11 1/2 x 9 3/8 in. (29.2 x 23.8 cm); Sheet: 23 5/8 x 16 7/8\
-      \ in. (60 x 42.9 cm)  "
-    id: '33'
-    location: "Drawn in: Paris; Printed in: London, by Thomas Way; Published in: L'Estampe\
-      \ originale (Paris) album IV (October-December 1893) "
+    credit_line: Georgia Museum of Art, University of Georgia; Gift of the
+      University of Georgia Foundation. GMOA 1972.2890.
+    dimensions: "Image: 11 1/2 x 9 3/8 in. (29.2 x 23.8 cm); Sheet: 23 5/8 x 16 7/8
+      in. (60 x 42.9 cm)  "
+    id: "33"
+    location: "Drawn in: Paris; Printed in: London, by Thomas Way; Published in:
+      L'Estampe originale (Paris) album IV (October-December 1893) "
     medium: Transfer lithograph with stumping, drawn on fine-grained transfer paper
     title: The Draped Figure, Seated (C. 72); published as La Danseuse
     year: 1893 CE
-    figure: 
-    - id: "cat-33"
-
-  - artist: 'James McNeill Whistler (American, 1834-1903) '
+    figure:
+      - id: cat-33
+  - artist: "James McNeill Whistler (American, 1834-1903) "
     copyright: Courtesy of the University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker. (1954/1.442).
-    dimensions: "Image: 4 9/16 x 8 7/16 in. (11.5 x 21.4 cm); Sheet: 8 3/16 x 13 in.\
-      \ (20.8 x 33 cm) "
-    id: '34'
+    dimensions: "Image: 4 9/16 x 8 7/16 in. (11.5 x 21.4 cm); Sheet: 8 3/16 x 13 in.
+      (20.8 x 33 cm) "
+    id: "34"
     location: "Drawn in: Paris; Printed in: London, by Thomas Way"
-    medium: 'Transfer lithograph with stumping, drawn on fine-grained transfer paper '
+    medium: "Transfer lithograph with stumping, drawn on fine-grained transfer paper "
     title: Nude Model, Reclining (C.73), third state of three
     year: 1893 CE
-    figure: 
-    - id: "cat-34"
-
+    figure:
+      - id: cat-34
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of the University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker. (1954/1.445).
-    dimensions: "Image: 7 1/16 x 5 3/4 in. (17.9 x 14.6 cm); Sheet: 13 7/16 x 9 7/16\
-      \ in. (34.1 x 24 cm)  "
-    id: '35'
+    dimensions: "Image: 7 1/16 x 5 3/4 in. (17.9 x 14.6 cm); Sheet: 13 7/16 x 9 7/16
+      in. (34.1 x 24 cm)  "
+    id: "35"
     location: "Created in: Paris; Discovered in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on fine-grained transfer paper
     title: Little Draped Figure, Leaning (C.76)
     year: 1893 CE
-    figure: 
-    - id: "cat-35"
-
+    figure:
+      - id: cat-35
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of Yale University Art Gallery.
-    credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
-      1913. 1947.393.
-    dimensions: "Image: 7 5/16 x 5 9/16 in. (18.6 x 14.1 cm); Sheet: 11 7/16 x 8 1/8\
-      \ in. (29.1 x 20.6 cm) "
-    id: '36'
+    credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class
+      of 1913. 1947.393.
+    dimensions: "Image: 7 5/16 x 5 9/16 in. (18.6 x 14.1 cm); Sheet: 11 7/16 x 8 1/8
+      in. (29.1 x 20.6 cm) "
+    id: "36"
     location: "Drawn in: Paris; Printed in: London, by Thomas Way "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Figure Study, Girl Standing (C.113)
     year: 1894 CE
-    figure: 
-    - id: "cat-36"
-
-  - artist: 'James McNeill Whistler (American, 1834-1903) '
-    copyright: Public domain, courtesy of The Metropolitan Museum of Art's Open Access
-      Policy.
+    figure:
+      - id: cat-36
+  - artist: "James McNeill Whistler (American, 1834-1903) "
+    copyright: Public domain, courtesy of The Metropolitan Museum of Art's Open
+      Access Policy.
     credit_line: Lent by The Metropolitan Museum of Art; Harris Brisbane Dick Fund,
       1917. (17.3.220).
-    dimensions: "Image: 7 3/16 x 3 11/16 in. (18.3 x 9.4 cm); Sheet: 13 1/2 x 10 in.\
-      \ (34.3 x 25.4 cm)"
-    id: '37'
+    dimensions: "Image: 7 3/16 x 3 11/16 in. (18.3 x 9.4 cm); Sheet: 13 1/2 x 10 in.
+      (34.3 x 25.4 cm)"
+    id: "37"
     location: "Drawn in: Paris; Printed in: London, by Thomas Way "
-    medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
+    medium: "Transfer lithograph, drawn on thin, transparent transfer paper "
     title: Study (C.114)
     year: 1894 CE
-    figure: 
-    - id: "cat-37"
-
+    figure:
+      - id: cat-37
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: Courtesy of Yale University Art Gallery.
-    credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
-      1913. 1947.395.
-    dimensions: "Image: 5 3/8 x 2 5/8 in. (13.6 x 6.7 cm); Sheet: 12 11/16 x 8 1/8\
-      \ in. (32.2 x 20.6 cm) "
-    id: '38'
+    credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class
+      of 1913. 1947.395.
+    dimensions: "Image: 5 3/8 x 2 5/8 in. (13.6 x 6.7 cm); Sheet: 12 11/16 x 8 1/8
+      in. (32.2 x 20.6 cm) "
+    id: "38"
     location: "Drawn in: Paris; Printed in: London, hand-printed by Thomas Way "
     medium: Transfer lithograph, drawn on thin, transparent transfer paper
     title: Girl with Bowl (C.118)
     year: 1895 CE
-    figure: 
-    - id: "cat-38"
-
-  - artist: 'James McNeill Whistler (American, 1834-1903) '
+    figure:
+      - id: cat-38
+  - artist: "James McNeill Whistler (American, 1834-1903) "
     copyright: Courtesy of the University of Michigan Museum of Art.
     credit_line: Collection of the University of Michigan Museum of Art; Bequest of
       Margaret Watson Parker (1954/1.400).
-    dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm); Sheet: 6 5/16 x 5 1/16\
-      \ in. (16 x 12.9 cm)  "
-    id: '39'
+    dimensions: "Image: 6 15/16 x 5 1/16 in. (17.6 x 12.9 cm); Sheet: 6 5/16 x 5
+      1/16 in. (16 x 12.9 cm)  "
+    id: "39"
     location: "Drawn in: Chelsea, London; Printed in: Chelsea, London, by the artist "
     medium: Etching
     title: Cameo, No. 1 (Mother and Child) (G.459)
     year: June 1891 CE
-    figure: 
-    - id: "cat-39"
-
+    figure:
+      - id: cat-39
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: © The Art Institute of Chicago / Art Resource, NY.
     credit_line: The Art Institute of Chicago; Bryan Lathrop Collection. 1934.554.
-    dimensions: "Image: 6 7/8 x 5 in. (17.5 x 12.7 cm); Sheet: 7 1/16 x 5 in. (18 x\
-      \ 12.7 cm)"
-    id: '40'
+    dimensions: "Image: 6 7/8 x 5 in. (17.5 x 12.7 cm); Sheet: 7 1/16 x 5 in. (18 x
+      12.7 cm)"
+    id: "40"
     location: "Drawn in: Chelsea, London; Printed in: Chelsea, London, by the artist "
     medium: Etching
     title: Cameo, No. 2 (G.460)
     year: June 1891 CE
-    figure: 
-    - id: "cat-40"
-
+    figure:
+      - id: cat-40
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: © Terra Foundation for American Art, Chicago.
     credit_line: Terra Foundation for American Art; Daniel J. Terra Collection, 1996.91.
-    dimensions: 'Sheet: 10 13/16 x 7 1/8 in. (27.5 x 18.1 cm) '
-    id: '41'
-    location: 'Created in: Paris '
-    medium: 'Chalk and pastel on brown paper '
+    dimensions: "Sheet: 10 13/16 x 7 1/8 in. (27.5 x 18.1 cm) "
+    id: "41"
+    location: "Created in: Paris "
+    medium: "Chalk and pastel on brown paper "
     title: Spring (M.1397)
     year: ca. 1893 CE
-    figure: 
-    - id: "cat-41"
-
+    figure:
+      - id: cat-41
   - artist: James McNeill Whistler (American, 1834-1903)
     copyright: © Terra Foundation for American Art, Chicago.
     credit_line: Terra Foundation for American Art; Daniel J. Terra Collection, 1999.146A/B.
-    dimensions: 'Sheet: 10 7/8 x 7 1/4 in. (27.6 x 18.4 cm) '
-    id: '42'
-    location: 'Created in: Paris '
-    medium: 'Chalk and pastel on brown paper '
+    dimensions: "Sheet: 10 7/8 x 7 1/4 in. (27.6 x 18.4 cm) "
+    id: "42"
+    location: "Created in: Paris "
+    medium: "Chalk and pastel on brown paper "
     title: Blue Girl [Recto] Woman Holding a Fan [Verso] (M. 1223)
     year: ca. 1893 CE
-    figure: 
-    - id: "cat-42"
-
+    figure:
+      - id: cat-42
   - artist: Thomas Dewing (American, 1851-1938)
-    copyright: ''
+    copyright: ""
     credit_line: Lent by Jack and Russell Huber, Atlanta.
-    dimensions: 'Sheet: 10 3/8 x 7 in. (26.4 x 17.8 cm) '
-    id: '43'
-    location: 'Created in: London '
+    dimensions: "Sheet: 10 3/8 x 7 in. (26.4 x 17.8 cm) "
+    id: "43"
+    location: "Created in: London "
     medium: Pastel on brown paper
     title: Figure in Grey and Pink Drapery
     year: 1894-95 CE
-    figure: 
-    - id: "cat-43"
-
+    figure:
+      - id: cat-43
   - artist: Jean-Léon Gérôme (French, 1824-1904)
     copyright: © Eskenazi Museum of Art/Kevin Montague.
-    credit_line: "Arthur R. Metz Collection; Gift of the Arthur R. Metz Foundation;\
-      \ Eskenazi; Museum of Art, Indiana University. 94.85. "
+    credit_line: "Arthur R. Metz Collection; Gift of the Arthur R. Metz Foundation;
+      Eskenazi; Museum of Art, Indiana University. 94.85. "
     dimensions: 9 1/4 x 4 1/2 x 4 1/2 in. (23.5 x 11.4 x 11.4 cm)
-    id: '44'
+    id: "44"
     location: "Modelled in: Paris; Cast in: Paris "
     medium: Bronze with gilt
-    title: 'The Hoop Dancer (Danseuse au cerceau) '
+    title: "The Hoop Dancer (Danseuse au cerceau) "
     year: 1891 CE
-    figure: 
-    - id: "cat-44"
-
+    figure:
+      - id: cat-44
   - artist: Childe Hassam (American, 1859-1935)
-    copyright: 'Public domain, courtesy of the Smithsonian American Art Museum. '
+    copyright: "Public domain, courtesy of the Smithsonian American Art Museum. "
     credit_line: Smithsonian American Art Museum; Gift of John Gellatly. 1929.6.63.
-    dimensions: 'Overall: 58 3/4 x 58 11/16 in. (149.2 x 149 cm)'
-    id: '45'
-    location: 'Created in: New York City '
+    dimensions: "Overall: 58 3/4 x 58 11/16 in. (149.2 x 149 cm)"
+    id: "45"
+    location: "Created in: New York City "
     medium: Oil on canvas
-    title: 'Tanagra (The Builders, New York) '
+    title: "Tanagra (The Builders, New York) "
     year: 1918 CE
-    figure: 
-    - id: "cat-45"
-
-  - artist: 'Bessie Potter Vonnoh (American, 1872-1955) '
+    figure:
+      - id: cat-45
+  - artist: "Bessie Potter Vonnoh (American, 1872-1955) "
     copyright: Courtesy of Colby College Museum of Art.
-    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
-      2013.280.
+    credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder
+      Collection, 2013.280.
     dimensions: 14 3/8 x 12 x 8 1/8 in. (36.5 x 30.5 x 20.6 cm)
-    id: '46'
-    location: 'Created in: Chicago '
-    medium: 'Patinated bronze '
+    id: "46"
+    location: "Created in: Chicago "
+    medium: "Patinated bronze "
     title: Girl Dancing
     year: 1897 CE
-    figure: 
-    - id: "cat-46"
-
+    figure:
+      - id: cat-46
   - artist: Bessie Potter Vonnoh (American, 1872-1955)
     copyright: Courtesy of the High Museum of Art, Atlanta. Photo by Almont Green.
-    credit_line: High Museum of Art, Atlanta; Purchase with funds from the Phoenix Society,
-      1999.89.
+    credit_line: High Museum of Art, Atlanta; Purchase with funds from the Phoenix
+      Society, 1999.89.
     dimensions: 11 3/8 x 5 1/2 x 3 1/2 in. (28.9 x 14 x 8.9 cm)
-    id: '47'
-    location: 'Created in: New York City '
+    id: "47"
+    location: "Created in: New York City "
     medium: Terracotta
     title: The Fan
     year: ca. 1910 CE
-    figure: 
-    - id: "cat-47"
-
+    figure:
+      - id: cat-47
   - artist: Beatrice Philip Godwin Whistler (British, 1857-1896)
-    copyright: Public domain, courtesy of the National Gallery of Art Creative Commons
-      Zero.
+    copyright: Public domain, courtesy of the National Gallery of Art Creative
+      Commons Zero.
     credit_line: National Gallery of Art, Washington; Rosenwald Collection. 1943.11.8.
     dimensions: 9 5/16 x 5 7/16 in. (23.7 x 13.8 cm)
-    id: '48'
-    location: 'Created in: Chelsea, London '
+    id: "48"
+    location: "Created in: Chelsea, London "
     medium: Oil on wood
     title: Peach Blossom
     year: ca. 1887 CE
-    figure: 
-    - id: "cat-48"
-
-  - artist: ''
+    figure:
+      - id: cat-48
+  - artist: ""
     copyright: Robert W. Woodruff Library, Emory University.
     credit_line: Robert W. Woodruff Library, Emory University.
-    dimensions: 'Closed: 10 13/16 x 7 1/16 x 1 3/16 in. (27.5 x 18 x 3 cm)'
-    id: '49'
-    location: 'Created in: Paris '
+    dimensions: "Closed: 10 13/16 x 7 1/16 x 1 3/16 in. (27.5 x 18 x 3 cm)"
+    id: "49"
+    location: "Created in: Paris "
     medium: Bound journal
     title: Gazette des Beaux-Arts, Second Series, vol. 11, no. 2
     year: 1875 CE
-    figure: 
-    - id: "cat-49"
-
-  - artist: ''
+    figure:
+      - id: cat-49
+  - artist: ""
     copyright: Robert W. Woodruff Library, Emory University
     credit_line: Robert W. Woodruff Library, Emory University
-    dimensions: 'Closed: 10 13/16 x 7 1/16 x 1 3/16 in. (27.5 x 18 x 3 cm)'
-    id: '50'
-    location: 'Created in: Paris '
+    dimensions: "Closed: 10 13/16 x 7 1/16 x 1 3/16 in. (27.5 x 18 x 3 cm)"
+    id: "50"
+    location: "Created in: Paris "
     medium: Bound journal
     title: Gazette des Beaux-Arts, Second Series, vol. 18, no. 1
     year: 1878 CE
-    figure: 
-    - id: "cat-50"
-
+    figure:
+      - id: cat-50
   - artist: Auguste Racinet (French, 1825-1893)
     copyright: Stuart A. Rose Manuscript, Archives, and Rare Book Library, Robert W.
       Woodruff Library, Emory University
     credit_line: Stuart A. Rose Manuscript, Archives, and Rare Book Library, Robert
       W. Woodruff Library, Emory University
-    dimensions: 'Closed:  16 1/8 x 12 x 2 ¼ in. (41 x 24 x 5.7 cm)'
-    id: '51'
-    location: 'Created in: Paris '
+    dimensions: "Closed:  16 1/8 x 12 x 2 ¼ in. (41 x 24 x 5.7 cm)"
+    id: "51"
+    location: "Created in: Paris "
     medium: Monograph
     title: Le costume historique, vol. 2.
     year: 1888 CE
-    figure: 
-    - id: "cat-51"
-
+    figure:
+      - id: cat-51
   - artist: Olivier Rayet (French, 1847-1887)
     copyright: Stuart A. Rose Manuscript, Archives and Rare Book Library, Robert W.
       Woodruff Library, Emory University
-    credit_line: Stuart A. Rose Manuscript, Archives and Rare Book Library, Robert W.
-      Woodruff Library, Emory University
-    dimensions: 'Closed (each volume):  18 1/32 x 13 ¼ x 1 ¾ in. (45.9 x 33.6 x 4.4
-      cm)'
-    id: '52'
-    location: 'Created in: Paris '
+    credit_line: Stuart A. Rose Manuscript, Archives and Rare Book Library, Robert
+      W. Woodruff Library, Emory University
+    dimensions: "Closed (each volume):  18 1/32 x 13 ¼ x 1 ¾ in. (45.9 x 33.6 x 4.4 cm)"
+    id: "52"
+    location: "Created in: Paris "
     medium: Monograph in 2 volumes
     title: Monuments de l'art antique, vol. 2
     year: 1884 CE
-    figure: 
-    - id: "cat-52"
-
+    figure:
+      - id: cat-52
   - artist: Virtue and Co. (Publisher)
     copyright: Robert W. Woodruff Library, Emory University
     credit_line: Robert W. Woodruff Library, Emory University
-    dimensions: 'Closed: 12 7/8 x 9 ½ in. (32.7 x 24.1 cm)'
-    id: '53'
-    location: 'Created in: London '
+    dimensions: "Closed: 12 7/8 x 9 ½ in. (32.7 x 24.1 cm)"
+    id: "53"
+    location: "Created in: London "
     medium: Bound Journal
     title: The Art Journal
-    year: '1893'
-    figure: 
-    - id: "cat-52"
-
+    year: "1893"
+    figure:
+      - id: cat-52
