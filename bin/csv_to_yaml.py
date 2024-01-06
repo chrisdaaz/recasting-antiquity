@@ -9,6 +9,11 @@ def convert_csv_to_yaml(csv_file, yaml_file):
     with open(csv_file, 'r', encoding='utf-8') as file:
         csv_reader = csv.DictReader(file)
         for row in csv_reader:
+            for key, value in row.items():
+                if '\n' in value:
+                    row[key] = "|\n\"{}\"\n".format(value.replace('\n', '\n\n'))
+                else:
+                    row[key] = "\"{}\"".format(value)
             data['object_list'].append(row)
 
     with open(yaml_file, 'w', encoding='utf-8') as file:
