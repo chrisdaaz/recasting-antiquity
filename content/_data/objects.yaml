@@ -46,18 +46,19 @@ object_list:
     year: 325-200 BCE
     figure:
       - id: cat-3
-  - artist: Artist unknown
+
+  - id: "4"
+    artist: Artist unknown
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda.
-    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
-      étrusques et romaines. MNB 559.
+    credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines. MNB 559.
     dimensions: 9 15/16 x 3 5/8 x 2 7/8 in. (25.3 x 9.2 x 7.3 cm)
-    id: "4"
     location: "Created in: Thebes (?); Discovered in: Tanagra; acquired 1874 "
     medium: Terracotta, pigment
     title: Statuette of a Woman with a Cloak
     year: 325-200 BCE
     figure:
       - id: cat-4
+      
   - artist: Artist unknown
     copyright: "© Michael C. Carlos Museum, Emory University. "
     credit_line: Michael C. Carlos Museum, Emory University. Gift of the Christian
