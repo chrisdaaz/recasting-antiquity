@@ -1,11 +1,12 @@
 object_display_order:
-  - artist
-  - year
-  - dimensions
-  - medium
-  - location
+- artist
+- year
+- dimensions
+- medium
+- location
 
 object_list:
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -16,6 +17,9 @@ object_list:
   medium: Terracotta, traces of preparation layer
   title: Statuette of a Veiled Woman Dancing, known as the “Titeux Dancer”
   year: 375-350 BCE
+  figure: 
+  - id: "cat-1"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Daniel Lebée / Carine
     Déambrosis.
@@ -28,6 +32,9 @@ object_list:
   medium: Terracotta
   title: Mold for a Draped Woman with Modern Cast
   year: 400-300 BCE
+  figure: 
+  - id: "cat-2"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Hervé Lewandowski.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -38,6 +45,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of a Draped Woman
   year: 325-200 BCE
+  figure: 
+  - id: "cat-3"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -48,6 +58,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of a Woman with a Cloak
   year: 325-200 BCE
+  figure: 
+  - id: "cat-4"
+
 - artist: Artist unknown
   copyright: '© Michael C. Carlos Museum, Emory University. '
   credit_line: Michael C. Carlos Museum, Emory University. Gift of the Christian Humann
@@ -59,6 +72,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of a Draped Woman
   year: ca. 320 BCE
+  figure: 
+  - id: "cat-5"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Anne Chauvet.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -70,6 +86,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of Nike Phainomeride (“Of the Visible Thigh”)
   year: 150-100 BCE
+  figure: 
+  - id: "cat-6"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Anne Chauvet.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -80,6 +99,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of a Seated Woman with Child
   year: 330-200 BCE
+  figure: 
+  - id: "cat-7"
+
 - artist: Artist unknown
   copyright: © Bruce M. White, 2014.
   credit_line: Michael C. Carlos Museum, Emory University. Carlos Collection of Ancient
@@ -91,6 +113,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of a Draped Woman
   year: First half of the 3rd century BCE
+  figure: 
+  - id: "cat-8"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Stéphane Maréchalle.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -101,6 +126,9 @@ object_list:
   medium: Terracotta
   title: Statuette of a Draped Woman with Skirt
   year: 150-100 BCE
+  figure: 
+  - id: "cat-9"
+
 - artist: Artist unknown
   copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Hervé Lewandowski.
   credit_line: Paris, Musée du Louvre, Département des Antiquités grecques, étrusques
@@ -111,6 +139,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of Aphrodite Leaning on a Pillar
   year: 330-200 BCE
+  figure: 
+  - id: "cat-10"
+
 - artist: Artist unknown
   copyright: © President and Fellows of Harvard College, 1935.35.32.
   credit_line: Harvard Art Museums/Arthur M. Sackler Museum, Gift of Miss Bettina
@@ -121,6 +152,9 @@ object_list:
   medium: Terracotta, pigment
   title: Statuette of a Seated Girl Tying her Sandal
   year: 300-1 BCE
+  figure: 
+  - id: "cat-11"
+
 - artist: Artist unknown
   copyright: '© Michael C. Carlos Museum, Emory University. '
   credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges Ricard
@@ -131,6 +165,9 @@ object_list:
   medium: Terracotta
   title: Statuette of Girls Playing the Game Ephedrismos
   year: Late 1800s CE
+  figure: 
+  - id: "cat-12"
+
 - artist: Artist unknown
   copyright: © Michael C. Carlos Museum, Emory University.
   credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges Ricard
@@ -141,6 +178,9 @@ object_list:
   medium: Terracotta
   title: Statuette of Cassandra at the Palladion
   year: Late 1800s CE
+  figure: 
+  - id: "cat-13"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of the Maier Museum of Art at Randolph College, Lynchburg, Virginia.
   credit_line: Lent by the Maier Museum of Art at Randolph College; Purchase made
@@ -151,6 +191,9 @@ object_list:
   medium: Oil on canvas
   title: Sketch of a Figure with Flowers and Japanese Fans (formerly Tanagra)
   year: ca. 1869/1873 CE
+  figure: 
+  - id: "cat-14"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -162,6 +205,9 @@ object_list:
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: The Dancing Girl (C.29)
   year: 1889 CE
+  figure: 
+  - id: "cat-15"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: 'Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. '
   credit_line: High Museum of Art, Atlanta; Gift of Nick, Trinkett and Charlotte Clark
@@ -173,6 +219,9 @@ object_list:
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: The Horoscope (C.30)
   year: ca. 1889 CE
+  figure: 
+  - id: "cat-16"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: 'Courtesy of Colby College Museum of Art. '
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
@@ -184,6 +233,9 @@ object_list:
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: Model Draping (C.31)
   year: probably 1889 CE
+  figure: 
+  - id: "cat-17"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: 'Courtesy of Colby College Museum of Art. '
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
@@ -195,6 +247,9 @@ object_list:
   medium: Transfer lithograph, drawn on medium-grained transfer paper
   title: 'The Novel: Girl Reading (C.32)'
   year: probably 1889 CE
+  figure: 
+  - id: "cat-18"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: 'Courtesy of the High Museum of Art, Atlanta. Photo by Mike Jensen. '
   credit_line: High Museum of Art, Atlanta; Gift of Mr. and Mrs. Frank Garson II.
@@ -206,6 +261,9 @@ object_list:
   medium: Transfer lithograph, drawn on coarse-grained transfer paper
   title: The Little Nude Model, Reading (C.33)
   year: ca. 1889 CE
+  figure: 
+  - id: "cat-19"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of Yale University Art Gallery.
   credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
@@ -217,6 +275,9 @@ object_list:
   medium: Transfer lithograph, drawn on medium-grained transfer paper
   title: Figure Study (C.39), first state of three
   year: 1890 CE
+  figure: 
+  - id: "cat-20"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: 'The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.628. '
@@ -228,6 +289,9 @@ object_list:
     and thin, transparent paper (color stones)'
   title: Figure Study in Colors (C.39), third state of three
   year: 1890 CE
+  figure: 
+  - id: "cat-21"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: 'Courtesy of Colby College Museum of Art. '
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
@@ -239,6 +303,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Draped Figure, Standing (C.46), first state of four
   year: 1891 CE
+  figure: 
+  - id: "cat-22"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
@@ -250,6 +317,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: ' Draped Figure, Standing (C.46), second state of four'
   year: 1891 CE
+  figure: 
+  - id: "cat-23"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -261,6 +331,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Nude Model, Standing (C.48)
   year: probably 1891 CE
+  figure: 
+  - id: "cat-24"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
@@ -272,6 +345,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Draped Model, Dancing (C.50)
   year: probably 1891 CE
+  figure: 
+  - id: "cat-25"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of Colby College Museum of Art.
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection.
@@ -284,6 +360,9 @@ object_list:
     paper
   title: Mother and Child, No. 1 (C.51), second state of two
   year: 1891 CE
+  figure: 
+  - id: "cat-26"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Gift of the Crown Family in honor of
@@ -295,6 +374,9 @@ object_list:
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Mother and Child, No. 3 (C.52)
   year: 1891 CE
+  figure: 
+  - id: "cat-27"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -306,6 +388,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Mother and Child, No. 2 (C.53)
   year: 1891 CE
+  figure: 
+  - id: "cat-28"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Bequest of Bryan Lathrop. 1917.660.
@@ -316,6 +401,9 @@ object_list:
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Mother and Child, No. 4 (C.54)
   year: 1891 CE
+  figure: 
+  - id: "cat-28"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: 'Courtesy of the University of Michigan Museum of Art. '
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -327,6 +415,9 @@ object_list:
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Draped Figure, Reclining (C.56), second state of two
   year: 1892 CE
+  figure: 
+  - id: "cat-29"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Public domain, courtesy of The Metropolitan Museum of Art's Open Access
     Policy.
@@ -339,6 +430,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Draped Figure, Reclining (C.56), second state of two
   year: 1892 CE
+  figure: 
+  - id: "cat-30"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -350,6 +444,9 @@ object_list:
   medium: Transfer lithograph with stumping, drawn on fine-grained transfer paper
   title: The Draped Figure, Seated (C.72)
   year: 1893 CE
+  figure: 
+  - id: "cat-31"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of the Georgia Museum of Art, University of Georgia.
   credit_line: Georgia Museum of Art, University of Georgia; Gift of the University
@@ -362,6 +459,9 @@ object_list:
   medium: Transfer lithograph with stumping, drawn on fine-grained transfer paper
   title: The Draped Figure, Seated (C. 72); published as La Danseuse
   year: 1893 CE
+  figure: 
+  - id: "cat-33"
+
 - artist: 'James McNeill Whistler (American, 1834-1903) '
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -373,6 +473,9 @@ object_list:
   medium: 'Transfer lithograph with stumping, drawn on fine-grained transfer paper '
   title: Nude Model, Reclining (C.73), third state of three
   year: 1893 CE
+  figure: 
+  - id: "cat-34"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -384,6 +487,9 @@ object_list:
   medium: Transfer lithograph, drawn on fine-grained transfer paper
   title: Little Draped Figure, Leaning (C.76)
   year: 1893 CE
+  figure: 
+  - id: "cat-35"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of Yale University Art Gallery.
   credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
@@ -395,6 +501,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Figure Study, Girl Standing (C.113)
   year: 1894 CE
+  figure: 
+  - id: "cat-36"
+
 - artist: 'James McNeill Whistler (American, 1834-1903) '
   copyright: Public domain, courtesy of The Metropolitan Museum of Art's Open Access
     Policy.
@@ -407,6 +516,9 @@ object_list:
   medium: 'Transfer lithograph, drawn on thin, transparent transfer paper '
   title: Study (C.114)
   year: 1894 CE
+  figure: 
+  - id: "cat-37"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: Courtesy of Yale University Art Gallery.
   credit_line: Yale University Art Gallery; Gift of Leonard C. Hanna, Jr., Class of
@@ -418,6 +530,9 @@ object_list:
   medium: Transfer lithograph, drawn on thin, transparent transfer paper
   title: Girl with Bowl (C.118)
   year: 1895 CE
+  figure: 
+  - id: "cat-38"
+
 - artist: 'James McNeill Whistler (American, 1834-1903) '
   copyright: Courtesy of the University of Michigan Museum of Art.
   credit_line: Collection of the University of Michigan Museum of Art; Bequest of
@@ -429,6 +544,9 @@ object_list:
   medium: Etching
   title: Cameo, No. 1 (Mother and Child) (G.459)
   year: June 1891 CE
+  figure: 
+  - id: "cat-39"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: © The Art Institute of Chicago / Art Resource, NY.
   credit_line: The Art Institute of Chicago; Bryan Lathrop Collection. 1934.554.
@@ -439,6 +557,9 @@ object_list:
   medium: Etching
   title: Cameo, No. 2 (G.460)
   year: June 1891 CE
+  figure: 
+  - id: "cat-40"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: © Terra Foundation for American Art, Chicago.
   credit_line: Terra Foundation for American Art; Daniel J. Terra Collection, 1996.91.
@@ -448,6 +569,9 @@ object_list:
   medium: 'Chalk and pastel on brown paper '
   title: Spring (M.1397)
   year: ca. 1893 CE
+  figure: 
+  - id: "cat-41"
+
 - artist: James McNeill Whistler (American, 1834-1903)
   copyright: © Terra Foundation for American Art, Chicago.
   credit_line: Terra Foundation for American Art; Daniel J. Terra Collection, 1999.146A/B.
@@ -457,6 +581,9 @@ object_list:
   medium: 'Chalk and pastel on brown paper '
   title: Blue Girl [Recto] Woman Holding a Fan [Verso] (M. 1223)
   year: ca. 1893 CE
+  figure: 
+  - id: "cat-42"
+
 - artist: Thomas Dewing (American, 1851-1938)
   copyright: ''
   credit_line: Lent by Jack and Russell Huber, Atlanta.
@@ -466,6 +593,9 @@ object_list:
   medium: Pastel on brown paper
   title: Figure in Grey and Pink Drapery
   year: 1894-95 CE
+  figure: 
+  - id: "cat-43"
+
 - artist: Jean-Léon Gérôme (French, 1824-1904)
   copyright: © Eskenazi Museum of Art/Kevin Montague.
   credit_line: "Arthur R. Metz Collection; Gift of the Arthur R. Metz Foundation;\
@@ -476,6 +606,9 @@ object_list:
   medium: Bronze with gilt
   title: 'The Hoop Dancer (Danseuse au cerceau) '
   year: 1891 CE
+  figure: 
+  - id: "cat-44"
+
 - artist: Childe Hassam (American, 1859-1935)
   copyright: 'Public domain, courtesy of the Smithsonian American Art Museum. '
   credit_line: Smithsonian American Art Museum; Gift of John Gellatly. 1929.6.63.
@@ -485,6 +618,9 @@ object_list:
   medium: Oil on canvas
   title: 'Tanagra (The Builders, New York) '
   year: 1918 CE
+  figure: 
+  - id: "cat-45"
+
 - artist: 'Bessie Potter Vonnoh (American, 1872-1955) '
   copyright: Courtesy of Colby College Museum of Art.
   credit_line: Colby College Museum of Art, Waterville, Maine; The Lunder Collection,
@@ -495,6 +631,9 @@ object_list:
   medium: 'Patinated bronze '
   title: Girl Dancing
   year: 1897 CE
+  figure: 
+  - id: "cat-46"
+
 - artist: Bessie Potter Vonnoh (American, 1872-1955)
   copyright: Courtesy of the High Museum of Art, Atlanta. Photo by Almont Green.
   credit_line: High Museum of Art, Atlanta; Purchase with funds from the Phoenix Society,
@@ -505,6 +644,9 @@ object_list:
   medium: Terracotta
   title: The Fan
   year: ca. 1910 CE
+  figure: 
+  - id: "cat-47"
+
 - artist: Beatrice Philip Godwin Whistler (British, 1857-1896)
   copyright: Public domain, courtesy of the National Gallery of Art Creative Commons
     Zero.
@@ -515,6 +657,9 @@ object_list:
   medium: Oil on wood
   title: Peach Blossom
   year: ca. 1887 CE
+  figure: 
+  - id: "cat-48"
+
 - artist: ''
   copyright: Robert W. Woodruff Library, Emory University.
   credit_line: Robert W. Woodruff Library, Emory University.
@@ -524,6 +669,9 @@ object_list:
   medium: Bound journal
   title: Gazette des Beaux-Arts, Second Series, vol. 11, no. 2
   year: 1875 CE
+  figure: 
+  - id: "cat-49"
+
 - artist: ''
   copyright: Robert W. Woodruff Library, Emory University
   credit_line: Robert W. Woodruff Library, Emory University
@@ -533,6 +681,9 @@ object_list:
   medium: Bound journal
   title: Gazette des Beaux-Arts, Second Series, vol. 18, no. 1
   year: 1878 CE
+  figure: 
+  - id: "cat-50"
+
 - artist: Auguste Racinet (French, 1825-1893)
   copyright: Stuart A. Rose Manuscript, Archives, and Rare Book Library, Robert W.
     Woodruff Library, Emory University
@@ -544,6 +695,9 @@ object_list:
   medium: Monograph
   title: Le costume historique, vol. 2.
   year: 1888 CE
+  figure: 
+  - id: "cat-51"
+
 - artist: Olivier Rayet (French, 1847-1887)
   copyright: Stuart A. Rose Manuscript, Archives and Rare Book Library, Robert W.
     Woodruff Library, Emory University
@@ -556,6 +710,9 @@ object_list:
   medium: Monograph in 2 volumes
   title: Monuments de l'art antique, vol. 2
   year: 1884 CE
+  figure: 
+  - id: "cat-52"
+
 - artist: Virtue and Co. (Publisher)
   copyright: Robert W. Woodruff Library, Emory University
   credit_line: Robert W. Woodruff Library, Emory University
@@ -565,4 +722,6 @@ object_list:
   medium: Bound Journal
   title: The Art Journal
   year: '1893'
+  figure: 
+  - id: "cat-52"
 
