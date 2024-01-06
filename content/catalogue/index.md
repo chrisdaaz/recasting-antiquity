@@ -1,6 +1,6 @@
 ---
 epub: false
-title: Catalogue
+title: Catalogue of Works
 layout: table-of-contents
 presentation: grid
 order: 100
