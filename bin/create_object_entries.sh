@@ -10,7 +10,7 @@ for object in {1..52}; do
     echo "layout: entry" >> $file
     echo "order: 100.${object}" >> $file
     echo "object:" >> $file
-    echo "    - id: ${object}" >> $file
+    echo "    - id: \"${object}\"" >> $file
     echo "---" >> $file
 done
 
