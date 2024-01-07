@@ -360,12 +360,13 @@ entries:
       *Bulletin of the Detroit Institute of Arts* 59, no. 1 (Spring 1981), 4--15.
     id: 'Pyne 1981'
 
-  - full: 'Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette
-      des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.'
-    id: 'Rayet, Olivier. 1875'
+  - full: >
+      Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette
+      des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.
+    id: 'Rayet 1875a'
 
   - full: 'Rayet, Olivier. 1875. "Notes and News," *Academy* (Apr. 17, 1875), 411.'
-    id: 'Rayet, Olivier. 1875'
+    id: 'Rayet 1875b'
 
   - full: 'Reeder, Eve D. 1995. "Women as containers." In *Pandora: Women in Classical
       Greece*, 195--199. Trustees of the Walters Art Gallery.'
@@ -499,3 +500,34 @@ entries:
       Yale University Press.'
     id: 'Young, MacDonald, Spencer, and Miles 1980'
 
+  - id: 'Fröhner 1888'
+    full: >
+      Wilhelm Fröhner. 1888. *Catalogue of Objects of Greek Ceramic Art exhibited in 1888* (London: Burlington Fine Arts Club).
+
+  - id: 'Burn 2012'
+    full: >
+      Lucilla Burn, "Terracottas," in *A Companion to Greek Art*, edited by Tyler Jo Smith and Dimitris Plantzos (Hoboken: John Wiley & Sons, 2012), 225
+
+  - id: 'Vors 1879'
+    full: >
+      Frederic Vors, "The Tanagra Figurines," *New-York Tribune,* 27 Oct 1879.
+
+  - id: 'Higgins 1962'
+    full: >
+      Higgins, Reynold. 1962. "The Discovery of Tanagra Statuettes," *Apollo* 71.
+
+  - id: 'Mathieux 2010'
+    full: >
+      Mathieux, Néguine. 2010. "Tanagras in Paris: a bourgeois dream," in Violaine Jeammet, ed., *Tanagras: Figurines for Life & Eternity: The Musée du Louvre's Collection of Greek Figurines* (Valencia, Spain: Fundación Bancaja).
+
+  - id: 'Houssay 1876'
+    full: >
+      Houssay, Henri. 1876. "Deux Figurines de la nécropole de Tanagra," in J. de Witte and François Lenormant, ed., *Gazette archéologique: Recueil de Monuments pour server a la connaissance et a l'histoire de l'art antique* 2.
+
+  - id: 'de Kay 1890'
+    full: >
+      de Kay, Charles. 1890. "A Side Light on Greek Art: Some of the Newly Discovered Terra Cottas," *Century Illustrated Magazine* 39, 4 (Feb).
+
+  - id: 'Mahaffy 1890' 
+    full: >
+      Mahaffy, J.P. 1890. *Greek Pictures: Drawn with Pen and Pencil* (London: The Religious Tract Society).
