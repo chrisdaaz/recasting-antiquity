@@ -41,9 +41,9 @@ entries:
     id: 'Black Sharma 2001'
 
   - full: 'Blühm, Andreas. 1996. "In Living Colour: A Short History of Colour in Sculpture
-      in the 19^th^ Century." In *The Colour of Sculpture 1840-1910*, edited by Andreas
+      in the 19<sup>th</sup> Century." In *The Colour of Sculpture 1840-1910*, edited by Andreas
       Blühm, 11--60. Amsterdam: Van Gogh Museum and Zwolle: Wanders Uitgevers.'
-    id: ''
+    id: 'Blühm 1996'
 
   - full: 'Blundell, Sue. 2002. "Clutching at clothes." In *Women''s Dress in the Ancient
       Greek World*, edited by Lloyd Llewellyn-Jones, 143--170. Swansea: Classical Press
@@ -131,7 +131,7 @@ entries:
   - full: "Dillon, Sheila. 2011. Review of *Tanagras for Life and Eternity. The Musée
       du Louvre's Collection of Greek Figurines.* *Bryn Mawr Classical Review* (2011),
       [https://bmcr.brynmawr.edu/2011/2011.06.04/](https://bmcr.brynmawr.edu/2011/2011.06.04/)"
-    id: 'Dillon, Sheila. 2011'
+    id: 'Dillon 2011'
 
   - full: 'Flemming, Rebecca. 2017. "Wombs for the gods." In *Bodies of Evidence: Ancient
       Anatomical Votives, Past, Present and Future*, edited by Jane Draycott and Emma-Jayne
@@ -159,7 +159,7 @@ entries:
     id: 'Haskell 2003'
 
   - full: 'Hausberg, Meg, and Victoria Sancho Lobis. 2015. *Whistler and Roussel: Linked
-      Visions.* Chicago: Art Institute of Chicago. Online exhibition, [[https://publications.artic.edu/whistler/reader/linkedvisions]{.underline}](https://publications.artic.edu/whistler/reader/linkedvisions).'
+      Visions.* Chicago: Art Institute of Chicago. Online exhibition, https://publications.artic.edu/whistler/reader/linkedvisions'
     id: 'Hausberg and Lobis 2015'
 
   - full: 'Hering, Fanny Field. 1892. *Gérôme: The Life and Works of Jean Léon Gérôme*.
@@ -276,16 +276,12 @@ entries:
       of Glasgow. [http://etchings.arts.gla.ac.uk](http://etchings.arts.gla.ac.uk).'
     id: 'MacDonald, Petri, Hausberg, and Meacock 2012'
 
-  - full: "MacDonald, Margaret F, Patricia de Montfort, and Nigel Thorp, eds. n.d. *The Correspondence
-      of James McNeill Whistler, 1855-1903*. Online edition, University of Glasgow.
-      [http://www.whistler.arts.gla.ac.uk/correspondence](http://www.whistler.arts.gla.ac.uk/correspondence).
-      Letters from this edition are identified as GUW."
+  - full: "MacDonald, Margaret F, Patricia de Montfort, and Nigel Thorp, eds. n.d. *The Correspondence of James McNeill Whistler, 1855-1903*. Online edition, University of Glasgow. http://www.whistler.arts.gla.ac.uk/correspondence. Letters from this edition are identified as GUW."
     id: 'MacDonald, de Montfort, and Thorp n.d.'
 
   - full: 'Muller, Arthur. 2010. "The technique of tanagra coroplasts. From local craft
       to ''global industry.''" In *Tanagras: Figurines for Life and Eternity: the Musée
-      du Louvre''s Collection of Figurines,* edited by Violainne Jeammet, 100-109. Valencia:
-      Fundación Bancaja.'
+      du Louvre''s Collection of Figurines,* edited by Violainne Jeammet, 100-109. Valencia: Fundación Bancaja.'
     id: 'Muller 2010'
 
   - full: 'Musée du Louvre. 2003. *Tanagra: Mythe et archéologie.* Paris: Réunion des
@@ -455,7 +451,7 @@ entries:
     id: 'Tsatsouli and Nikolaou 2017'
 
   - full: 'VanDyk, Chelsea. 2014. "Talking Objects: The Many Faces of Rebecca Whelan."
-      [[https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html]{.underline}](https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html).'
+      https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html.'
     id: 'VanDyk 2014'
 
   - full: 'Van Hook, Bailey. 1996. *Angels of Art: Women and Art in American Society,
@@ -485,7 +481,7 @@ entries:
   - full: | 
       Williams, Mary Francis. 1977. *Catalogue of the Collection of American Art
       at Randolph-Macon Women's College: A selection of Paintings, Drawings, and Prints*,
-      2<sup>nd</sup> ed*.* Charlottesville: University of Virginia Press.'
+      2<sup>nd</sup> ed. Charlottesville: University of Virginia Press.'
     id: 'Williams 1977'
 
   - full: 'Wyke, Maria. 1994. "Woman in the mirror: the rhetoric of adornment in the
