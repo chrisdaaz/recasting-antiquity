@@ -71,11 +71,9 @@ entries:
       Greek physicians." *Clio: Histoire, Femmes et Societes* 37 (2013), 21--39.'
     id: 'Bonnard 2013'
 
-  - full: 'Bourgeois, Brigitte. 2010. "Arts and crafts of colour on the Louvre''s Tanagra
-      Figurines." In *Tanagras: Figurines for Life and Eternity: the Musée du Louvre''s
-      Collection of Figurines,* edited by Violainne Jeammet, 238--244. Valencia: Fundación
-      Bancaja.'
-    id: 'Bourgeois 2010'
+  - full: |
+      Jeammet, Violainne. eds. 2010. *Tanagras: Figurines for Life and Eternity: the Musée du Louvre's Collection of Figurines,* Valencia: Fundación Bancaja.
+    id: 'Jeammet 2010'
 
   - full: 'Bourgeois, Brigitte and Violaine Jeammet. 2018. "Les paradoxes de l''invention
       de la polychromie au XIX^e^ siècle." In *En Couleurs: La Sculpture Polychrome
@@ -123,9 +121,8 @@ entries:
       Cambridge University Press.'
     id: 'Dillon 2010'
 
-  - full: 'Dillon, Sheila. 2012. "Case Study III: Hellenistic Tanagra Figurines." In
-      *A Companion to Women in the Ancient World,* edited by Sharon L. James and Sheila
-      Dillon, 231--234. Hoboken, N.J.: Wiley-Blackwell.'
+  - full: | 
+      Dillon, Sheila. 2012. "Case Study III: Hellenistic Tanagra Figurines." In *A Companion to Women in the Ancient World,* edited by Sharon L. James and Sheila Dillon, 231--234. Hoboken, N.J.: Wiley-Blackwell.
     id: 'Dillon 2012'
 
   - full: "Dillon, Sheila. 2011. Review of *Tanagras for Life and Eternity. The Musée
@@ -360,9 +357,8 @@ entries:
       *Bulletin of the Detroit Institute of Arts* 59, no. 1 (Spring 1981), 4--15.
     id: 'Pyne 1981'
 
-  - full: >
-      Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette
-      des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.
+  - full: |
+      Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.
     id: 'Rayet 1875a'
 
   - full: 'Rayet, Olivier. 1875. "Notes and News," *Academy* (Apr. 17, 1875), 411.'
@@ -501,33 +497,64 @@ entries:
     id: 'Young, MacDonald, Spencer, and Miles 1980'
 
   - id: 'Fröhner 1888'
-    full: >
+    full: |
       Wilhelm Fröhner. 1888. *Catalogue of Objects of Greek Ceramic Art exhibited in 1888* (London: Burlington Fine Arts Club).
 
   - id: 'Burn 2012'
-    full: >
+    full: |
       Lucilla Burn, "Terracottas," in *A Companion to Greek Art*, edited by Tyler Jo Smith and Dimitris Plantzos (Hoboken: John Wiley & Sons, 2012), 225
 
   - id: 'Vors 1879'
-    full: |
-      Frederic Vors, "The Tanagra Figurines," *New-York Tribune,* 27 Oct 1879.
+    full: 'Vors, Frederic. 1879. "The Tanagra Figurines," *New-York Tribune,* 27 Oct 1879.'
 
   - id: 'Higgins 1962'
     full: |
       Higgins, Reynold. 1962. "The Discovery of Tanagra Statuettes," *Apollo* 71.
 
   - id: 'Mathieux 2010'
-    full: >
+    full: |
       Mathieux, Néguine. 2010. "Tanagras in Paris: a bourgeois dream," in Violaine Jeammet, ed., *Tanagras: Figurines for Life & Eternity: The Musée du Louvre's Collection of Greek Figurines* (Valencia, Spain: Fundación Bancaja).
 
   - id: 'Houssay 1876'
-    full: >
+    full: |
       Houssay, Henri. 1876. "Deux Figurines de la nécropole de Tanagra," in J. de Witte and François Lenormant, ed., *Gazette archéologique: Recueil de Monuments pour server a la connaissance et a l'histoire de l'art antique* 2.
 
   - id: 'de Kay 1890'
-    full: >
+    full: |
       de Kay, Charles. 1890. "A Side Light on Greek Art: Some of the Newly Discovered Terra Cottas," *Century Illustrated Magazine* 39, 4 (Feb).
 
   - id: 'Mahaffy 1890' 
-    full: >
+    full: |
       Mahaffy, J.P. 1890. *Greek Pictures: Drawn with Pen and Pencil* (London: The Religious Tract Society).
+
+  - id: 'Smith 1991'
+    full: |
+      Smith, R.R.R. 1991. "Goddesses and Women," in *Hellenistic Sculpture: A Handbook* (London: Thames & Hudson).
+
+  - id: 'Uhlenbrock 1992' 
+    full: |
+      Uhlenbrock, Jaimee P. 1992. "History, Trade, and the Terracottas," *Gifts to the Goddesses: Cyrene's Sanctuary of Demeter and Persephone* 34, nos. 1--2.
+
+  - id: 'Bell 1993'
+    full: |
+      Bell III, Malcolm. 1993. "Tanagras and the Idea of Type," *Harvard University Art Museums Bulletin* 1, no. 3 (Spring 1993)
+
+  - id: 'Wilde 1893' 
+    full: |
+      Oscar Wilde, *An Ideal Husband,* 1893; reprint The Project Gutenberg, https://gutenberg.org/cache/epub/885/pg885-images.html
+
+  - id: 'Racinet 1888'  
+    full: | 
+      M. A. Racinet, *Le Costume Historique* (Paris: Librairie de Firmin-Didot et Cie., 1888), no. 24, 2:52
+
+  - id: 'Pottier 1890' 
+    full: |
+      Pottier, Edmond. 1986. *Les statuettes de terre cuite dans l'antiquité* (Paris, 1890), 254, quoted in Reynold Higgins, *Tanagra and the Figurines* (Princeton: Princeton University Press)
+
+  - id: 'Hughes 1896' 
+    full: |
+      Hughes, Rupert. 1896. "The Field of Art," *Scribner's Magazine* 19 (Jan 1896)
+
+  - id: 'Lippert 2014'
+    full: |
+      Lippert, Sarah. 2014. "Jean-Léon Gérôme and Polychrome Sculpture: Reconstructing the Artist's Hierarchy of the Arts," *Dix-Neuf* 18, no. 1 (Apr 2014)
