@@ -1,261 +1,261 @@
 figure_list:
 
   - id: cat-1
-    src: "figures/1.jpg"
+    src: "catalogue/1.jpg"
     caption: ''
     credit: ''
 
   - id: cat-2
-    src: "figures/2.jpg"
+    src: "catalogue/2.jpg"
     caption: ''
     credit: ''
 
   - id: cat-3
-    src: "figures/3.jpg"
+    src: "catalogue/3.jpg"
     caption: ''
     credit: ''
 
   - id: cat-4
-    src: "figures/4.jpg"
+    src: "catalogue/4.jpg"
     caption: ''
     credit: ''
 
   - id: cat-5
-    src: "figures/5.jpg"
+    src: "catalogue/5.jpg"
     caption: ''
     credit: ''
 
   - id: cat-6
-    src: "figures/6.jpg"
+    src: "catalogue/6.jpg"
     caption: ''
     credit: ''
 
   - id: cat-7
-    src: "figures/7.jpg"
+    src: "catalogue/7.jpg"
     caption: ''
     credit: ''
 
   - id: cat-8
-    src: "figures/8.jpg"
+    src: "catalogue/8.jpg"
     caption: ''
     credit: ''
 
   - id: cat-9
-    src: "figures/9.jpg"
+    src: "catalogue/9.jpg"
     caption: ''
     credit: ''
 
   - id: cat-10
-    src: "figures/10.jpg"
+    src: "catalogue/10.jpg"
     caption: ''
     credit: ''
 
   - id: cat-11
-    src: "figures/11.jpg"
+    src: "catalogue/11.jpg"
     caption: ''
     credit: ''
 
   - id: cat-12
-    src: "figures/12.jpg"
+    src: "catalogue/12.jpg"
     caption: ''
     credit: ''
 
   - id: cat-13
-    src: "figures/13.jpg"
+    src: "catalogue/13.jpg"
     caption: ''
     credit: ''
 
   - id: cat-14
-    src: "figures/14.jpg"
+    src: "catalogue/14.jpg"
     caption: ''
     credit: ''
 
   - id: cat-15
-    src: "figures/15.jpg"
+    src: "catalogue/15.jpg"
     caption: ''
     credit: ''
 
   - id: cat-16
-    src: "figures/16.jpg"
+    src: "catalogue/16.jpg"
     caption: ''
     credit: ''
 
   - id: cat-17
-    src: "figures/17.jpg"
+    src: "catalogue/17.jpg"
     caption: ''
     credit: ''
 
   - id: cat-18
-    src: "figures/18.jpg"
+    src: "catalogue/18.jpg"
     caption: ''
     credit: ''
 
   - id: cat-19
-    src: "figures/19.jpg"
+    src: "catalogue/19.jpg"
     caption: ''
     credit: ''
 
   - id: cat-20
-    src: "figures/20.jpg"
+    src: "catalogue/20.jpg"
     caption: ''
     credit: ''
 
   - id: cat-21
-    src: "figures/21.jpg"
+    src: "catalogue/21.jpg"
     caption: ''
     credit: ''
 
   - id: cat-22
-    src: "figures/22.jpg"
+    src: "catalogue/22.jpg"
     caption: ''
     credit: ''
 
   - id: cat-23
-    src: "figures/23.jpg"
+    src: "catalogue/23.jpg"
     caption: ''
     credit: ''
 
   - id: cat-24
-    src: "figures/24.jpg"
+    src: "catalogue/24.jpg"
     caption: ''
     credit: ''
 
   - id: cat-25
-    src: "figures/25.jpg"
+    src: "catalogue/25.jpg"
     caption: ''
     credit: ''
 
   - id: cat-26
-    src: "figures/26.jpg"
+    src: "catalogue/26.jpg"
     caption: ''
     credit: ''
 
   - id: cat-27
-    src: "figures/27.jpg"
+    src: "catalogue/27.jpg"
     caption: ''
     credit: ''
 
   - id: cat-28
-    src: "figures/28.jpg"
+    src: "catalogue/28.jpg"
     caption: ''
     credit: ''
 
   - id: cat-29
-    src: "figures/29.jpg"
+    src: "catalogue/29.jpg"
     caption: ''
     credit: ''
 
   - id: cat-30
-    src: "figures/30.jpg"
+    src: "catalogue/30.jpg"
     caption: ''
     credit: ''
 
   - id: cat-31
-    src: "figures/31.jpg"
+    src: "catalogue/31.jpg"
     caption: ''
     credit: ''
 
   - id: cat-32
-    src: "figures/32.jpg"
+    src: "catalogue/32.jpg"
     caption: ''
     credit: ''
 
   - id: cat-33
-    src: "figures/33.jpg"
+    src: "catalogue/33.jpg"
     caption: ''
     credit: ''
 
   - id: cat-34
-    src: "figures/34.jpg"
+    src: "catalogue/34.jpg"
     caption: ''
     credit: ''
 
   - id: cat-35
-    src: "figures/35.jpg"
+    src: "catalogue/35.jpg"
     caption: ''
     credit: ''
 
   - id: cat-36
-    src: "figures/36.jpg"
+    src: "catalogue/36.jpg"
     caption: ''
     credit: ''
 
   - id: cat-37
-    src: "figures/37.jpg"
+    src: "catalogue/37.jpg"
     caption: ''
     credit: ''
 
   - id: cat-38
-    src: "figures/38.jpg"
+    src: "catalogue/38.jpg"
     caption: ''
     credit: ''
 
   - id: cat-39
-    src: "figures/39.jpg"
+    src: "catalogue/39.jpg"
     caption: ''
     credit: ''
 
   - id: cat-40
-    src: "figures/40.jpg"
+    src: "catalogue/40.jpg"
     caption: ''
     credit: ''
 
   - id: cat-41
-    src: "figures/41.jpg"
+    src: "catalogue/41.jpg"
     caption: ''
     credit: ''
 
   - id: cat-42
-    src: "figures/42.jpg"
+    src: "catalogue/42.jpg"
     caption: ''
     credit: ''
 
   - id: cat-43
-    src: "figures/43.jpg"
+    src: "catalogue/43.jpg"
     caption: ''
     credit: ''
 
   - id: cat-44
-    src: "figures/44.jpg"
+    src: "catalogue/44.jpg"
     caption: ''
     credit: ''
 
   - id: cat-45
-    src: "figures/45.jpg"
+    src: "catalogue/45.jpg"
     caption: ''
     credit: ''
 
   - id: cat-46
-    src: "figures/46.jpg"
+    src: "catalogue/46.jpg"
     caption: ''
     credit: ''
 
   - id: cat-47
-    src: "figures/47.jpg"
+    src: "catalogue/47.jpg"
     caption: ''
     credit: ''
 
   - id: cat-48
-    src: "figures/48.jpg"
+    src: "catalogue/48.jpg"
     caption: ''
     credit: ''
 
   - id: cat-49
-    src: "figures/49.jpg"
+    src: "catalogue/49.jpg"
     caption: ''
     credit: ''
 
   - id: cat-50
-    src: "figures/50.jpg"
+    src: "catalogue/50.jpg"
     caption: ''
     credit: ''
 
   - id: cat-51
-    src: "figures/51.jpg"
+    src: "catalogue/51.jpg"
     caption: ''
     credit: ''
 
   - id: cat-52
-    src: "figures/52.jpg"
+    src: "catalogue/52.jpg"
     caption: ''
     credit: ''
