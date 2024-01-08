@@ -23,7 +23,7 @@ entries:
     id: 'Barrow 2018'
 
   - full: 'Barrow, Rosemary J. 2001. *Lawrence Alma-Tadema*. London: Phaidon.'
-    id: 'Barrow 2018'
+    id: 'Barrow 2001'
 
   - full: 'Besques, Simone. 1992. *Musée du Louvre Catalogue Raisonné des Figurines
       et Reliefs en Terre-cuite Grecs Étrusques et Romains*, vol. 4, pt. 2 text; vol.
@@ -48,7 +48,7 @@ entries:
   - full: 'Blundell, Sue. 2002. "Clutching at clothes." In *Women''s Dress in the Ancient
       Greek World*, edited by Lloyd Llewellyn-Jones, 143--170. Swansea: Classical Press
       of Wales.'
-    id: 'Blühm 1996'
+    id: 'Blühm 2002'
 
   - full: 'Blundell, Sue and Nancy Sorkin Rabinowitz. 2008. "Women''s bodies, women''s
       pots: adornment scenes in Attic vase-painting." *Phoenix* 62, no. 1/2 (Spring/Summer
@@ -245,11 +245,11 @@ entries:
 
   - full: 'Lochnan, Katharine A. 1984. *The Etchings of James McNeill Whistler.* New
       Haven: Yale University Press.'
-    id: 'Lochnan 1984'
+    id: 'Lochnan 1984a'
 
   - full: 'Lochnan, Katharine A. 1984. *Whistler''s Etchings and the Sources of His
       Etching Style, 1855-1880*. New York: Garland Publishing.'
-    id: 'Lochnan 1984'
+    id: 'Lochnan 1984b'
 
   - full: 'Lyman, Laurel. 2004. *The Influence of "Japonisme" on the American Impressionists
       and their Circle, 1893-1915*. Ph.D. diss. City University of New York, 2004. Ann
@@ -317,7 +317,7 @@ entries:
 
   - full: 'Papet, Édouard. 2003. "Jean-Léon Gérôme: *Tanagra*, 1890." In *Tanagra: Myth
       et archéologie*, 48--53. Paris: Musée du Louvre and Réunion de musées nationaux.'
-    id: 'Papet 2003'
+    id: 'Papet 2003a'
 
   - full: 'Papet, Édouard. 2018. "La sculpture polychrome en France 1850-1910." In *En
       Couleurs: La Sculpture Polychrome en France 1850-1910*, edited by Édouard Papet,
@@ -326,7 +326,7 @@ entries:
 
   - full: 'Papet, Édouard. 2003. "Variations sur la Danseuse *Titeux*." In *Tanagra:
       Myth et archéologie*, 54--64. Paris: Musée du Louvre and Réunion de Musées Nationaux.'
-    id: 'Papet 2003'
+    id: 'Papet 2003b'
 
   - full: 'Pennell, Elizabeth Robins. 1897. "The Master of the Lithograph---J. McNeill
       Whistler." *Scribner''s Magazine* 21, no. 3 (Mar 1897): 277--89.'
