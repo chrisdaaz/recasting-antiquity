@@ -3,7 +3,7 @@ figure_list:
   - id: fig-1.1
     src: essays/1.1.jpg
     caption: |
-      Detail, Paul François Arnold Cardon, called Dornac (French, 1859--1941). *Photograph of Whistler in his studio on the rue Notre-Dame-des-Champs, Paris*, 1893. Sheet: 7 3/4 x 10 1/4 in. (19.7 x 26 cm), mount: 35.6 x 43.2 cm (14 x 17 in.). Yale Center for British Art. Gift of Robert N. Whittemore, Yale BS ￼1943￼￼. Image: Public domain via CC 0 1.0 Universal.
+      Detail, Paul François Arnold Cardon, called Dornac (French, 1859--1941). *Photograph of Whistler in his studio on the rue Notre-Dame-des-Champs, Paris*, 1893. Sheet: 7 3/4 x 10 1/4 in. (19.7 x 26 cm), mount: 35.6 x 43.2 cm (14 x 17 in.). Yale Center for British Art. Gift of Robert N. Whittemore, Yale BS 1943. Image: Public domain via CC 0 1.0 Universal.
 
   - id: fig-1.2
     src: essays/1.2.jpg
@@ -11,9 +11,9 @@ figure_list:
       "Greece and the Ægean Sea," from *Rambles and Studies in Greece* by J. P. Mahaffy (1839--1919). Philadelphia: Henry T. Coates & Co., 1900. Map of Greece/Ancient Mediterranean.
 
   - id: fig-1.3
-    src: essays/1.3.jpg
+    src: essays/1.3.jpeg
     caption: |
-      Draped woman, Boeotian, 3rd century BCE. Terracotta, H: 19.6 cm (7 3/4 in.). New York, Metropolitan Museum of Art. Rogers Fund, 1907, 07.286.2. Image: Public domain courtesy of the Met's Open Access Policy. 
+      Draped woman, Boeotian, 3rd century BCE. Terracotta, H: 19.6 cm (7 3/4 in.). New York, Metropolitan Museum of Art. Rogers Fund, 1907, 07.286.2. Image: Public domain courtesy of the Met's Open Access Policy.
 
   - id: fig-1.4
     src: essays/1.4.jpg
@@ -26,7 +26,7 @@ figure_list:
       Jean-Léon Gérôme (French, 1824--1904). *The Antique Pottery Painter: Sculpturae vitam insufflat pictura* (Painting breathes life into sculpture), 1893. Oil on canvas, 50.1 x 68.8 cm$$ (19 3/4 x 27 1/16 in.). Art Gallery of Ontario, Canada. Gift from the Junior Women's Committee Fund, 1969 (69/31). Image © AGO.
 
   - id: fig-1.6
-    src: essays/1.6.jpg
+    src: essays/1.6.jpeg
     caption: |  
       Jean-Léon Gérôme (French, 1824--1904), *Atelier de Tanagra* (Tanagra workshop), 1893. Oil on canvas, 64.4 x 91.1 cm (25 1/4 x 35 3/4 in.). Private collection. Image Courtesy of Sotheby\'s, *19^th^ Century European Art*, Sotheby's Sale N09034, Lot 67, November 8, 2013.
 
@@ -46,7 +46,7 @@ figure_list:
       *Jongleuse* (Juggler), "Terre cuite de la collection de M. Lécuyer" (Terracotta from the collection of M. Lécuyer). Reproduced in Olivier Rayet, "Exposition Universelle. L'Art Grec au Trocadéro," *Gazette des Beaux-Arts*, series 2, 18, no. 1 (1878): 359.
 
   - id: fig-1.10
-    src: essays/1.10.jpg
+    src: essays/1.10.jpeg
     caption: |
       *The Ludovisi Venus*, a Roman copy of the Knidian Aphrodite, Praxiteles, ca. 360--330 BCE, Marble, H: 205 cm (81 in.). Image: Public domain.
 
@@ -90,12 +90,12 @@ figure_list:
       P-A-J Dagnan (later Dagnan-Bouveret) (French, 1852--1929). *Deux femmes drapes, figurines de Tanagra (collection privée de Paris)* (Two draped women, Tanagra figurines \[private collection, Paris\]). In *Gazette archéologique,* edited by J. De Witte and François Lenormant 2 (1876): plate XX. Image: Public domain.
 
   - id: fig-1.18
-    src: essays/1.18.jpg
+    src: essays/1.18.jpeg
     caption: |
       *Photograph of Julian and Waldo Story, James McNeill Whistler, Frank Miles, and the Honorable F. Lawless in Whistler's London studio*, 1881. Joseph and Elizabeth Robins Pennell Collection of Whistleriana. Library of Congress. Image: Public domain.
 
   - id: fig-1.19
-    src: essays/1.19.jpg
+    src: essays/1.19.jpeg
     caption: |
       *Bessie Potter Vonnoh with a plaster figurine*, n.d. Bessie Potter Vonnoh papers, circa 1860--1991. Archives of American Art, Smithsonian Institution, Box 1, Folder 18. Image: Public domain
 
@@ -160,7 +160,7 @@ figure_list:
       James McNeill Whistler (American, 1834--1903), *Standing Nude (Venus)* (M.357), 1869. Black crayon with touches of white chalk on brown paper, 47 x 24 3/16 in. (119.4 x 61.4 cm). Freer Gallery of Art, Smithsonian Institution; Gift of Charles Lang Freer, F1904.66. Image CC0 1.0.
 
   - id: fig-3.2
-    src: essays/3.2.jpg
+    src: essays/3.2.jpeg
     caption: |
       James McNeill Whistler (American, 1834--1903), *The Model Resting (Draped Model)* (G.109), 1873--74. Drypoint, printed in black ink on ivory laid paper, ninth state of eleven, 8 1/8 x 5 1/8 in. (20.7 x 13 cm). Metropolitan Museum of Art., New York, Harris Brisbane Dick Fund, 1917; 17.3.67. Image: Public domain courtesy of the Met's Open Access Policy.
 
