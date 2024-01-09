@@ -274,7 +274,7 @@ figure_list:
       Charles Lang Freer, F1909.123. Image courtesy of the National Museum of
       Asian Art.
   - id: fig-3.10
-    src: essays/3.10
+    src: essays/3.10.jpg
     caption: >
       Edward Linley Sambourne (British, 1844--1910), "The Model 'British
       Matron.'" *Punch* 89 (24 October 1885): 195. Image © Punch Cartoon Library
@@ -301,7 +301,7 @@ figure_list:
       in.). Hunterian Art Gallery, University of Glasgow, Donated by Rosalind B.
       Philip (1935), GLAHA:46542. Image © The Hunterian, University of Glasgow.
   - id: fig-3.14
-    src: essays/3.14
+    src: essays/3.14.jpg
     caption: >
       Photograph of Rose Amy Pettigrew (1872--1958), ca. 1889. Image courtesy
       of The Warner Family.
@@ -415,7 +415,7 @@ figure_list:
       Jean-Léon Gérôme (French, 1824--1904), *Tanagra*, 1890. Marble,
       photogravure Goupil c. 1892. Image: Public domain.
   - id: fig-4.9
-    src: essays/4.9
+    src: essays/4.9.jpg
     caption: >
       Gustav Klimt (Austrian, 1861--1918), *Girl from Tanagra*: detail of
       *Ancient Greece*, 1890--91. Oil on canvas mounted on wall:
@@ -445,6 +445,9 @@ figure_list:
       Thomas Pollock Anshutz (American, 1851--1912), *The Tanagra*, 1909. Oil
       on canvas. Philadelphia, Pennsylvania Academy of Fine Arts, 1912.1. Gift
       of the friends and admirers of the artist. Image: Public domain.
+
+# catalogue
+
   - id: cat-1
     src: catalogue/1.jpg
     caption: ""
