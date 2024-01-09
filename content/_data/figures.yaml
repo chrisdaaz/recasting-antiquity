@@ -206,79 +206,79 @@ figure_list:
       x 3 5/8 x 2 7/8 in. (25.4 x 9.2 x 7.3 cm); 8 13/16 x 3 1/16 x 2 3/4 in.
       (22.3 x 7.7 x 6.9 cm). Louvre Museum, MNB 452, MNB 494, MNB 559. Image ©
       RMN Grand Palais / Art Resource, NY.
-  # - id: fig-3.1
-  #   src: essays/3.1.jpg
-  #   caption: >
-  #     James McNeill Whistler (American, 1834--1903), *Standing Nude (Venus)*
-  #     (M.357), 1869. Black crayon with touches of white chalk on brown paper, 47
-  #     x 24 3/16 in. (119.4 x 61.4 cm). Freer Gallery of Art, Smithsonian
-  #     Institution; Gift of Charles Lang Freer, F1904.66. Image CC0 1.0.
-  # - id: fig-3.2
-  #   src: essays/3.2.jpeg
-  #   caption: >
-  #     James McNeill Whistler (American, 1834--1903), *The Model Resting
-  #     (Draped Model)* (G.109), 1873--74. Drypoint, printed in black ink on ivory
-  #     laid paper, ninth state of eleven, 8 1/8 x 5 1/8 in. (20.7 x 13 cm).
-  #     Metropolitan Museum of Art., New York, Harris Brisbane Dick Fund, 1917;
-  #     17.3.67. Image: Public domain courtesy of the Met's Open Access Policy.
-  # - id: fig-3.3
-  #   src: essays/3.3.jpg
-  #   caption: >
-  #     Photograph of a Tanagra statuette of a standing female figure, probably
-  #     1894. In from the Ionides Album, ca. 1894. Carbonprint on paper in
-  #     photograph album. Hunterian Art Gallery, University of Glasgow; Bequeathed
-  #     by Rosalind B. Philip (1958), GLAHA:4639. Image © The Hunterian,
-  #     University of Glasgow.
-  # - id: fig-3.4
-  #   src: essays/3.4.jpg
-  #   caption: >
-  #     James McNeill Whistler (American, 1834--1903), *Sketch after a Greek
-  #     terracotta figure* (M.1419), probably 1895. Pencil on cream card, 6 1/8 x
-  #     5 in. (15.5 x 12.7 cm). Hunterian Art Gallery, University of Glasgow;
-  #     Bequeathed by Rosalind B. Philip (1958), GLAHA:46205. Image © The
-  #     Hunterian, University of Glasgow.
-  # - id: fig-3.5
-  #   src: essays/3.5.jpg
-  #   caption: >
-  #     Charles X Gallery, former room L, Louvre Museum, May 1922. Photographic
-  #     print, °TP_004458. Image © Département des Antiquités grecques, étrusques
-  #     et romaines, musée du Louvre.
-  # - id: fig-3.6
-  #   src: essays/3.6.jpg
-  #   caption: >
-  #     The fireplace in the drawing room at No. 1 Holland Park, London, with
-  #     the Ionides Collection of Tanagra figurines, 1889. Photograph (albumen
-  #     print) by Bedford Lemere & Co., BL09466. Image © Historic England Archive.
-  # - id: fig-3.7
-  #   src: essays/3.7.jpg
-  #   caption: >
-  #     Photograph of a Tanagra Statuette of the *Rape of Europa* from the
-  #     Ionides Album, ca. 1894. Hunterian Art Gallery, University of Glasgow,
-  #     Bequeathed by Rosalind B. Philip (1958), GLAHA:46220. Image © The
-  #     Hunterian, University of Glasgow.
-  # - id: fig-3.8
-  #   src: essays/3.8.jpg
-  #   caption: >
-  #     3.8. James McNeill Whistler (American, 1834--1903), *Note in Violet and
-  #     Green* (M.1074), ca. 1872/1885. Crayon and pastel on brown paper, 27.8 x
-  #     16.7 cm (10 15/16 x 6 9/16 in.). Freer Gallery of Art. Smithsonian
-  #     Institution, Washington, D.C., Gift of Charles Lang Freer, F1905.128a-b.
-  #     Image: Public domain via CC0.
-  # - id: fig-3.9
-  #   src: essays/3.9.jpg
-  #   caption: >
-  #     James McNeill Whistler (American, 1834--1903), *A Study in Red
-  #     (Danseuse athénienne)* (M.1072), 1890. Crayon and pastel on brown paper,
-  #     27.7 x 18.3 cm (10 7/8 x 7 3/16 in.). National Museum of Asian Art,
-  #     Smithsonian Institution, Freer Collection, Washington, D.C., Gift of
-  #     Charles Lang Freer, F1909.123. Image courtesy of the National Museum of
-  #     Asian Art.
-  # - id: fig-3.10
-  #   src: essays/3.10
-  #   caption: >
-  #     Edward Linley Sambourne (British, 1844--1910), "The Model 'British
-  #     Matron.'" *Punch* 89 (24 October 1885): 195. Image © Punch Cartoon Library
-  #     / TopFoto.
+  - id: fig-3.1
+    src: essays/3.1.jpg
+    caption: >
+      James McNeill Whistler (American, 1834--1903), *Standing Nude (Venus)*
+      (M.357), 1869. Black crayon with touches of white chalk on brown paper, 47
+      x 24 3/16 in. (119.4 x 61.4 cm). Freer Gallery of Art, Smithsonian
+      Institution; Gift of Charles Lang Freer, F1904.66. Image CC0 1.0.
+  - id: fig-3.2
+    src: essays/3.2.jpeg
+    caption: >
+      James McNeill Whistler (American, 1834--1903), *The Model Resting
+      (Draped Model)* (G.109), 1873--74. Drypoint, printed in black ink on ivory
+      laid paper, ninth state of eleven, 8 1/8 x 5 1/8 in. (20.7 x 13 cm).
+      Metropolitan Museum of Art., New York, Harris Brisbane Dick Fund, 1917;
+      17.3.67. Image: Public domain courtesy of the Met's Open Access Policy.
+  - id: fig-3.3
+    src: essays/3.3.jpg
+    caption: >
+      Photograph of a Tanagra statuette of a standing female figure, probably
+      1894. In from the Ionides Album, ca. 1894. Carbonprint on paper in
+      photograph album. Hunterian Art Gallery, University of Glasgow; Bequeathed
+      by Rosalind B. Philip (1958), GLAHA:4639. Image © The Hunterian,
+      University of Glasgow.
+  - id: fig-3.4
+    src: essays/3.4.jpg
+    caption: >
+      James McNeill Whistler (American, 1834--1903), *Sketch after a Greek
+      terracotta figure* (M.1419), probably 1895. Pencil on cream card, 6 1/8 x
+      5 in. (15.5 x 12.7 cm). Hunterian Art Gallery, University of Glasgow;
+      Bequeathed by Rosalind B. Philip (1958), GLAHA:46205. Image © The
+      Hunterian, University of Glasgow.
+  - id: fig-3.5
+    src: essays/3.5.jpg
+    caption: >
+      Charles X Gallery, former room L, Louvre Museum, May 1922. Photographic
+      print, °TP_004458. Image © Département des Antiquités grecques, étrusques
+      et romaines, musée du Louvre.
+  - id: fig-3.6
+    src: essays/3.6.jpg
+    caption: >
+      The fireplace in the drawing room at No. 1 Holland Park, London, with
+      the Ionides Collection of Tanagra figurines, 1889. Photograph (albumen
+      print) by Bedford Lemere & Co., BL09466. Image © Historic England Archive.
+  - id: fig-3.7
+    src: essays/3.7.jpg
+    caption: >
+      Photograph of a Tanagra Statuette of the *Rape of Europa* from the
+      Ionides Album, ca. 1894. Hunterian Art Gallery, University of Glasgow,
+      Bequeathed by Rosalind B. Philip (1958), GLAHA:46220. Image © The
+      Hunterian, University of Glasgow.
+  - id: fig-3.8
+    src: essays/3.8.jpg
+    caption: >
+      3.8. James McNeill Whistler (American, 1834--1903), *Note in Violet and
+      Green* (M.1074), ca. 1872/1885. Crayon and pastel on brown paper, 27.8 x
+      16.7 cm (10 15/16 x 6 9/16 in.). Freer Gallery of Art. Smithsonian
+      Institution, Washington, D.C., Gift of Charles Lang Freer, F1905.128a-b.
+      Image: Public domain via CC0.
+  - id: fig-3.9
+    src: essays/3.9.jpg
+    caption: >
+      James McNeill Whistler (American, 1834--1903), *A Study in Red
+      (Danseuse athénienne)* (M.1072), 1890. Crayon and pastel on brown paper,
+      27.7 x 18.3 cm (10 7/8 x 7 3/16 in.). National Museum of Asian Art,
+      Smithsonian Institution, Freer Collection, Washington, D.C., Gift of
+      Charles Lang Freer, F1909.123. Image courtesy of the National Museum of
+      Asian Art.
+  - id: fig-3.10
+    src: essays/3.10.jpg
+    caption: >
+      Edward Linley Sambourne (British, 1844--1910), "The Model 'British
+      Matron.'" *Punch* 89 (24 October 1885): 195. Image © Punch Cartoon Library
+      / TopFoto.
   # - id: fig-3.11
   #   src: essays/3.11.jpg
   #   caption: >
