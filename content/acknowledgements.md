@@ -2,6 +2,9 @@
 title: Acknowledgements
 layout: page
 order: 7
+contributor:
+  - id: rallen
+  - id: lmerrill
 ---
 
 *Recasting Antiquity: Whistler, Tanagra, and the Female Form* examines an important moment of encounter between the past and the present, as played out in the work of the American artist James McNeill Whistler. In examining Whistler's reinterpretation of ancient Tanagras, the Hellenistic terracotta figurines that so captured the imagination of Europe and America following their discovery in 1870, this catalogue and the exhibition it accompanies consider the ongoing legacy of ancient Mediterranean material culture in Western art. More specifically, they question the ways in which the classical female body, as an image and an idea, persisted as a site for exploring issues of beauty, gender, and art itself. Finally, the exhibition invites us to think about the Tanagras in their ancient context, ultimately to wrestle with what it means to represent and look at a female body in any period of history, and how the female body may be fabricated through the media and through the act of being looked at.
@@ -17,13 +20,3 @@ This exhibition could not have come about without the generous collaboration of 
 Linda Merrill extends particular thanks to her ever-collegial co-curator Ruth Allen and to the Carlos Museum for allowing her to explore this phase of Whistler's production. She is also grateful to Bonna Wescoat who, when interim Director of the museum, encouraged her to undertake the project; and to her colleagues Andrew Farinholt Ward of Emory University and John Siewert of the College of Wooster for reviewing her manuscript and offering many helpful suggestions and corrections. She also acknowledges with thanks the assistance of Neil Pettigrew, who provided valuable information about his great aunts, and Kim Collins, who managed several key acquisitions for the Stuart A. Rose Manuscripts, Archives, and Rare Book Library. Many professional friends offered assistance beyond the call of duty, including Marisa Bourgoin, Archives of American Art; Malcolm Chapman and Graham Nesbit, Hunterian Art Gallery, Glasgow; Jay Clarke, Art Institute of Chicago; Patricia de Montfort, University of Glasgow; Allison Harig, Shelburne Museum; Eleanor J. Harvey, Smithsonian American Art Museum; Stephanie Heydt, High Museum of Art; Erica Hirshler and Patrick Murphy, Boston Museum of Fine Arts; Kathy Shoemaker of the Rose Library; and Jack and Russell Huber, Atlanta.
 
 Finally, we are grateful to Beth Cohen for her contribution to this catalogue, to Madeline Long for her tireless and careful editing, and to Chris Diaz for building this catalogue.
-
-**Linda Merrill**, PhD
-
-Teaching Professor
-
-Director of Undergraduate Studies in Art History
-
-**Ruth Allen**, PhD
-
-Curator of Greek and Roman Art
