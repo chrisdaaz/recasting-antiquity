@@ -10,7 +10,7 @@ order: 499
 
 *chiton*. Ancient Greek clothing. A draped garment formed from a single piece of cloth folded around the body, pinned at the shoulders, and tied at the waist. Worn by both men and women.
 
-*Classical period*. Historical period in the ancient Mediterranean, conventionally dated between the fall of the Athenian tyranny in 510 BCE and the death of Alexander III, the Great in 323 BCE.
+*Classical period*. Historical period in the ancient Mediterranean, conventionally dated between the fall of the Athenian tyranny in 510 BCE and the death of Alexander III, the Great, in 323 BCE.
 
 *edition*. The number of impressions printed once the artist has completed and approved the trial proofs. Whistler's lithographic editions usually comprised between twelve and twenty-five impressions; once he considered the edition complete, he would have the stone erased.
 
@@ -32,7 +32,7 @@ order: 499
 
 *lithographic stone*. The thick, flat slab of limestone on which a drawing is made with lithographic crayon or tusche, or transferred from a drawing on transfer paper.
 
-*lithography*. Literally "stone-drawing," a printmaking process invented in 1798 by Alois Senefelder (1771--1834) based on the principle that grease and water do not mix. The image to be printed, once drawn on or transferred to the lithographic stone, retains ink, whereas the area around it absorbs water and repels it. The resulting image is the reverse of the original composition; it bears no plate mark, like an etching, although the area that has been flattened in the press can sometimes be detected. A color lithograph, based on a keystone, is printed with inks of different colors, with separate stones used for each additional color.
+*lithography*. Literally "stone-drawing," a printmaking process invented in 1798 by Alois Senefelder (1771--1834) based on the principle that grease and water do not mix. The image to be printed, once drawn on or transferred to the lithographic stone, retains ink, whereas the area around it absorbs water and repels ink. The resulting image is the reverse of the original composition; it bears no plate mark, like an etching, although the area that has been flattened in the press can sometimes be detected. A color lithograph, based on a keystone, is printed with inks of different colors, with separate stones used for each additional color.
 
 *mold*. A hollow form or matrix used to give shape to a malleable or molten material.
 
@@ -68,6 +68,6 @@ order: 499
 
 *transfer lithograph*. Type of lithograph in which the artist draws the image onto a sheet of transfer paper. The method was pervasive in Whistler's time as it freed artists from the physical limitations of working on a stone; it also provided a closer approximation to the original drawing because the image was not rendered in reverse.
 
-*transfer paper*. Specially treated paper designed to receive an artist's drawing in lithographic crayon and to release, or transfer, the image to the lithographic stone. Whistler often used papier viennois, a grained paper made in Germany or Austria, or papier végétal, a very thin, transparent paper. (see also *paper*)
+*transfer paper*. Specially treated paper designed to receive an artist's drawing in lithographic crayon and to release, or transfer, the image to the lithographic stone. Whistler often used *papier viennois*, a grained paper made in Germany or Austria, or *papier végétal*, a very thin, transparent paper. (See also *paper*.)
 
-*tusche*. Used in lithography, tusche (the German word for ink) is a black drawing medium containing the same oily materials as a lithographic crayon but used to draw on the lithographic stone with a brush or a pen. (see also *lithographic crayon*)
+*tusche*. Used in lithography, tusche (the German word for ink) is a black drawing medium containing the same oily materials as a lithographic crayon but used to draw on the lithographic stone with a brush or a pen. (See also *lithographic crayon*.)
