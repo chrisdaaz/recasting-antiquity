@@ -65,12 +65,12 @@ contributor:
     affiliation: Emory University
     bio: "Linda Merrill, Teaching Professor in Art History at Emory University, was formerly the curator of American art at the Freer Gallery of Art, Smithsonian Institution, and the Margaret and Terry Stent Curator of American Art at the High Museum of Art in Atlanta. Dr. Merrill has published several books on Whistler and his contemporaries, including *A Pot of Paint: Aestheticism on Trial in Whistler v. Ruskin* (1993) and *The Peacock Room: A Cultural Biography* (1998)."
   
-  - id: hkim
-    type: secondary
-    first_name: Henry S.
-    last_name: Kim
-    title: "Associate Vice-Provost and Museum Director"
-    affiliation: Emory University
+ # - id: hkim
+ #   type: secondary
+ #   first_name: Henry S.
+ #   last_name: Kim
+ #   title: "Associate Vice-Provost and Museum Director"
+ #   affiliation: Emory University
 
 # ------------------------------------------------------------------------------
 # Copright & License
