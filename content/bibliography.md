@@ -1,5 +1,5 @@
 ---
-title: Bibliography
+title: Selected Bibliography
 layout: page
 order: 500
 ---
@@ -22,7 +22,7 @@ Bianchi, Emmanuela. 2006. "Receptable/Chora: figuring the errant feminine in Pla
 
 Black, Paula and Ursula Sharma. 2001. "Men are real, women are 'made up': beauty therapy and the construction of femininity." *The Sociological Review* 49, no. 1 (2001), 100--116.
 
-Blühm, Andreas. 1996. "In Living Colour: A Short History of Colour in Sculpture in the 19^th^ Century." In *The Colour of Sculpture 1840-1910*, edited by Andreas Blühm, 11--60. Amsterdam: Van Gogh Museum and Zwolle: Wanders Uitgevers.
+Blühm, Andreas. 1996. "In Living Colour: A Short History of Colour in Sculpture in the 19<sup>th</sup> Century." In *The Colour of Sculpture 1840-1910*, edited by Andreas Blühm, 11--60. Amsterdam: Van Gogh Museum and Zwolle: Wanders Uitgevers.
 
 Blundell, Sue. 2002. "Clutching at clothes." In *Women's Dress in the Ancient Greek World*, edited by Lloyd Llewellyn-Jones, 143--170. Swansea: Classical Press of Wales.
 
@@ -38,7 +38,7 @@ Bonnard, Jean-Baptiste. 2013. "Male and female bodies according to ancient Greek
 
 Bourgeois, Brigitte. 2010. "Arts and crafts of colour on the Louvre's Tanagra Figurines." In *Tanagras: Figurines for Life and Eternity: the Musée du Louvre's Collection of Figurines,* edited by Violainne Jeammet, 238--244. Valencia: Fundación Bancaja.
 
-Bourgeois, Brigitte and Violaine Jeammet. 2018. "Les paradoxes de l'invention de la polychromie au XIX^e^ siècle." In *En Couleurs: La Sculpture Polychrome en France 1850-1910*, edited by Édouard Papet, 151--62. Paris: Musée d'Orsay and Vanves: Éditions Hazan.
+Bourgeois, Brigitte and Violaine Jeammet. 2018. "Les paradoxes de l'invention de la polychromie au XIX<sup>e</sup> siècle." In *En Couleurs: La Sculpture Polychrome en France 1850-1910*, edited by Édouard Papet, 151--62. Paris: Musée d'Orsay and Vanves: Éditions Hazan.
 
 Burn, Lucilla, and Reynold A. Higgins. 2001. *Catalogue of Greek Terracottas in the British Museum*, *vol. 3*. London: Trustees of the British Museum.
 
@@ -50,7 +50,7 @@ Curry, David Park. 2004. *James McNeill Whistler: Uneasy Pieces*. Richmond: Virg
 
 Curtis, Mary F. 1879. *Tanagra Figurines*. Boston: Houghton, Osgood and Company.
 
-D'Ambra, Eve. 1996. "Nudity and adornment in female portrait sculpture of the 2^nd^ century AD." In *I, Claudia: Women in Ancient Rome*, edited by Diana E. E. Kleiner and Susan B. Matheson, 101--115. New Haven: Yale University Art Gallery.
+D'Ambra, Eve. 1996. "Nudity and adornment in female portrait sculpture of the 2<sup>nd</sup> century AD." In *I, Claudia: Women in Ancient Rome*, edited by Diana E. E. Kleiner and Susan B. Matheson, 101--115. New Haven: Yale University Art Gallery.
 
 Däubler-Hausche, Claudia, and Michael Brunner, eds. 2009. *Impressionismus und Japanmode*. Überlingen: Städtische Galerie and Petersberg, Germany: Michael Imhof Verlag.
 
@@ -120,7 +120,7 @@ Lyman, Laurel. 2004. *The Influence of "Japonisme" on the American Impressionist
 
 MacDonald, Margaret F. 1997. *Beatrice Whistler: Artist & Designer.* Glasgow, Scotland: Hunterian Art Gallery.
 
-MacDonald, Margaret F. 2003. "East and West: Sources and Influences." In *Whistler, Women, & Fashion*, edited by Margaret F. MacDonald, Susan Grace Galassi, and Aileen Ribiero, 52--75. New York, Frick Collection and New Haven, Yale University Press,.
+MacDonald, Margaret F. 2003. "East and West: Sources and Influences." In *Whistler, Women, & Fashion*, edited by Margaret F. MacDonald, Susan Grace Galassi, and Aileen Ribeiero, 52--75. New York, Frick Collection and New Haven, Yale University Press,.
 
 MacDonald, Margaret F. 1995. *James McNeill Whistler: Drawings, Pastels, and Watercolours; A Catalogue Raisonné.* New Haven: Yale University Press. Works catalogued in this reference are identified M.
 
@@ -128,13 +128,13 @@ MacDonald, Margaret F, Grischka Petri, Meg Hausberg, and Joanna Meacock. 2012.
 
 MacDonald, Margaret F, Patricia de Montfort, and Nigel Thorp, eds. *The Correspondence of James McNeill Whistler, 1855-1903*. Online edition, University of Glasgow. http://www.whistler.arts.gla.ac.uk/correspondence. Letters from this edition are identified as GUW.
 
-Muller, Arthur. 2010. "The technique of tanagra coroplasts. From local craft to 'global industry.'" In *Tanagras: Figurines for Life and Eternity: the Musée du Louvre's Collection of Figurines,* edited by Violainne Jeammet, 100-109. Valencia: Fundación Bancaja.
+Muller, Arthur. 2010. "The technique of Tanagra coroplasts. From local craft to 'global industry.'" In *Tanagras: Figurines for Life and Eternity: the Musée du Louvre's Collection of Figurines,* edited by Violainne Jeammet, 100-109. Valencia: Fundación Bancaja.
 
 Musée du Louvre. 2003. *Tanagra: Mythe et archéologie.* Paris: Réunion des musées nationaux.
 
 Olson, Kelly. 2008. *Dress and the Roman Woman: Self-presentation and Society*. London and New York: Routledge.
 
-Olson, Kelly. 2009. "Cosmetics in Roman antiquity: substance, remedy, poison." *Classical World* 102, no. 3, (Spring 2009), 291--310.
+Olson, Kelly. 2009. "Cosmetics in Roman antiquity: substance, remedy, poison." *Classical World* 102, no. 3 (Spring 2009): 291--310.
 
 Ono, Ayako. 2003. *Japonisme in Britain: Whistler, Menpes, Henry, Hornel and Nineteenth-century Japan*. London: Routledge Curzon.
 
@@ -152,9 +152,9 @@ Papet, Édouard. 2003. "Variations sur la Danseuse *Titeux*." In *Tanagra: Myth 
 
 Pennell, Elizabeth Robins. 1897. "The Master of the Lithograph---J. McNeill Whistler." *Scribner's Magazine* 21, no. 3 (Mar 1897): 277--89.
 
-Pennell, Elizabeth Robins and Joseph Pennell. 1915. *Lithography and Lithographers: Some Chapters in the History of Art*. New York: Macmillan.
+Pennell, Elizabeth Robins, and Joseph Pennell. 1915. *Lithography and Lithographers: Some Chapters in the History of Art*. New York: Macmillan.
 
-Pennell, Elizabeth Robins. 1908. *The Life of James McNeill Whistler.* 2 vols. Philadelphia: Lippincott.
+Pennell, Elizabeth Robins, and Joseph Pennell. 1908. *The Life of James McNeill Whistler.* 2 vols. Philadelphia: Lippincott.
 
 Prettejohn, Elizabeth. 2012. *The Modernity of Ancient Sculpture: Greek Sculpture and Modern Art from Winckelmann to Picasso*. London and New York: I.B. Tauris.
 
@@ -162,7 +162,7 @@ Pyne, Kathleen A. 1988. *Immanence, Transcendence, and Impressionism in Late Nin
 
 Pyne, Kathleen A. 1996. *Art and the Higher Life: Painting and Evolutionary Thought in Late Nineteenth-Century America*. Austin: University of Texas Press, 1996.
 
-Pyne, Kathleen A. 1981. "*Classical Figures*, A Folding Screen by Thomas Dewing," *Bulletin of the Detroit Institute of Arts* 59, no. 1 (Spring 1981), 4--15.
+Pyne, Kathleen A. 1981. "*Classical Figures*, A Folding Screen by Thomas Dewing." *Bulletin of the Detroit Institute of Arts* 59, no. 1 (Spring 1981), 4--15.
 
 Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.
 
@@ -178,11 +178,11 @@ Richlin, Amy. 1995. "Making up a woman: the face of Roman gender." In *Off with 
 
 Rimell, Victoria. 2006. *Ovid's Lovers: Desire, Difference and the Poetic Imagination*. Cambridge: Cambridge University Press.
 
-Schall, Ellen M., John Wilmerding, and David M. Sokol. 1990. *American Art: American Vision, Paintings from a Century of Collecting*. Ex. cat. Lynchburg: Maier Museum of Art and Alexandria, VA.: Art Services International.
+Schall, Ellen M., John Wilmerding, and David M. Sokol. 1990. *American Art: American Vision, Paintings from a Century of Collecting*. Lynchburg: Maier Museum of Art and Alexandria, Va.: Art Services International.
 
 Severance, Alice. 1896. "Talks by Successful Women X: Miss Bessie Potter." *Godley's Magazine* 133 (October): 356--60.
 
-Sharrock, Alison. 2012. "Womanufacture." *Journal of Roman Studies* 81 (2012), 36--49.
+Sharrock, Alison. 2012. "Womanufacture." *Journal of Roman Studies* 81 (2012): 36--49.
 
 Shumka, Leslie. 2008. "Designing women: the representation of women's toiletries in funerary monuments in Roman Italy." In *Roman Dress and the Fabrice of Roman Culture,* edited by Jonathan Edmondson and Alison Keith, 172--191. Toronto: University of Toronto Press.
 
@@ -196,11 +196,11 @@ Stoichita, Victor I. 2008. *The Pygmalion Effect: From Ovid to Hitchcock*, trans
 
 Sutton, Denys. 1964. *Nocturne: The Art of James McNeill Whistler.* Philadelphia: Lippincott.
 
-Tedeschi, Martha, and Britt Salveson. Songs on Stone: James McNeill Whistler and the Art of Lithography. Art Institute of Chicago Museum Studies 24, no. 1.
+Tedeschi, Martha, and Britt Salveson. *Songs on Stone: James McNeill Whistler and the Art of Lithography*. Art Institute of Chicago Museum Studies 24, no. 1.
 
 Thompson, Dorothy Burr. 1966. "The Origin of Tanagras." *American Journal of Archaeology* 70, no.1 (January 1966): 51--63, pls. 17--20.
 
-Tsatsouli, Konstantina and Elisavet Nikolaou. 2017. "The ancient Demetrias figurines: new insights on pigments and decoration techniques used on Hellenistic clay figurines." *STAR: Science & Technology of Archaeological Research* 3, no. 2 (2017), 341--357.
+Tsatsouli, Konstantina, and Elisavet Nikolaou. 2017. "The ancient Demetrias figurines: new insights on pigments and decoration techniques used on Hellenistic clay figurines." *STAR: Science & Technology of Archaeological Research* 3, no. 2 (2017): 341--357.
 
 VanDyk, Chelsea. 2014. "Talking Objects: The Many Faces of Rebecca Whelan." https://covenantarthistory.blogspot.com/2014/04/the-many-faces-of-rebecca-whelan.html.
 
