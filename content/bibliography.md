@@ -6,7 +6,7 @@ order: 500
 
 Ackerman, Gerald M. 2000. *Jean-Léon Gérôme*. Courbevoie: ACR Édition.
 
-Allen, Ruth. 2016. "A cultural history of engraved Roman gemstones - their material, iconography, and function." Ph.D. diss., University of Cambridge.
+Allen, Ruth. 2016. "A cultural history of engraved Roman gemstones---their material, iconography, and function." Ph.D. diss., University of Cambridge.
 
 Aronson, Julie. 1996. *Bessie Potter Vonnoh (1872-1955) and Small Bronze Sculpture in America*. 3 vols. Ph.D. diss., University of Delaware, 1995. Ann Arbor: UMI Microform 9610469.
 

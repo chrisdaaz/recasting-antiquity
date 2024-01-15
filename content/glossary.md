@@ -62,7 +62,7 @@ order: 499
 
 *Tanagra*. A town in ancient Boeotia in mainland Greece, which gave its name to the terracotta figurines discovered in its necropolis.
 
-*tegidion*. Ancient Greek clothing, literally meaning "little roof". A rectangular face-veil with eye holes, bound around the head with a fillet and folded away from the face back over the crown of the head to form a peaked headdress resembling a gabled roof. Worn by women across Greece between the 4th and 1st centuries BCE and represented almost exclusively on terracotta figurines.
+*tegidion*. Ancient Greek clothing, literally meaning "little roof." A rectangular face-veil with eye holes, bound around the head with a fillet and folded away from the face back over the crown of the head to form a peaked headdress resembling a gabled roof. Worn by women across Greece between the 4th and 1st centuries BCE and represented almost exclusively on terracotta figurines.
 
 *terracotta*. A clay-based, non-vitreous ceramic fired at relatively low temperatures.
 
