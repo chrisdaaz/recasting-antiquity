@@ -100,8 +100,6 @@ Pennell, Elizabeth Robins, and Joseph Pennell. 1908. *The Life of James McNeill 
 
 Rayet, Olivier. 1875. "Les Figurines de Tanagra au Musée du Louvre." *Gazette des Beaux-Arts* 12, no. 2 (1875): 297--314, 551--58.
 
-Rayet, Olivier. 1875. "Notes and News," *Academy* (Apr. 17, 1875), 411.
-
 Reeder, Eve D. 1995. "Women as containers." In *Pandora: Women in Classical Greece*, 195--199. Trustees of the Walters Art Gallery.
 
 Richlin, Amy. 1995. "Making up a woman: the face of Roman gender." In *Off with Her Head: The Denial of Women's Identity in Myth, Religion, and Culture*, edited by Howard Eilberg-Schwartz and Wendy Doniger, 185--213. Berkeley: University of California Press.
