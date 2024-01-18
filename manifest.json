@@ -143,9 +143,9 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/spiral-overlay.png": {
-    "file": "_assets/spiral-overlay.png",
-    "src": "_assets/images/spiral-overlay.png"
+  "_assets/images/cover.png": {
+    "file": "_assets/cover.png",
+    "src": "_assets/images/cover.png"
   },
   "_index-4a43986f.js": {
     "assets": [
