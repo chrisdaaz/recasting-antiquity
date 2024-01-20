@@ -8,3 +8,5 @@ image: cover_cropped.png
 ---
 
 Coming soon...
+
+![Carlos Logo](./_assets/images/carlos-logo-blue.png)
