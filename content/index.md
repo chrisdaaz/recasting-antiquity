@@ -4,7 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: cover.png
+image: cover_cropped.png
 ---
 
 Coming soon...

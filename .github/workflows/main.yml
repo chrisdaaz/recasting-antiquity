@@ -40,6 +40,7 @@ jobs:
             rm -rf ./build/content/_assets/images/  
             rm -rf ./build/content/_data/      
             rm ./build/content/*.md
+            rm ./build/content/_assets/styles/custom.css
 
         - name: Replace starter files with content files
           run: |
@@ -47,6 +48,7 @@ jobs:
             cp -r ./content/_data/ ./build/content/_data/
             cp -r ./content/catalogue/ ./build/content/catalogue/
             cp ./content/*.md ./build/content/
+            cp ./custom.css ./build/content/_assets/styles/
 
         - name: Build new site
           run: |
