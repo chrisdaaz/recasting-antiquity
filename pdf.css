@@ -13940,4 +13940,18 @@ body > div.mfp-bg.mfp-ready {
   .copyright-page .quire-page__content .container .content .copyright__publisher-logo {
     display: none;
   }
+}.hero-body .container.is-fluid {
+  background: none;
+}
+
+.quire-cover__hero .title {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.quire-cover__hero .subtitle {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.quire-cover__hero .contributor {
+  color: rgba(0, 0, 0, 0.65);
 }

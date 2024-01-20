@@ -143,9 +143,9 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/cover.png": {
-    "file": "_assets/cover.png",
-    "src": "_assets/images/cover.png"
+  "_assets/images/cover_cropped.png": {
+    "file": "_assets/cover_cropped.png",
+    "src": "_assets/images/cover_cropped.png"
   },
   "_index-4a43986f.js": {
     "assets": [
