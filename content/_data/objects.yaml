@@ -15,7 +15,7 @@ object_list:
     copyright: "© RMN-Grand Palais / Art Resource, NY. Photo by René-Gabriel Ojéda."
     credit_line: "Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines. CA 462 (or 662)."
     dimensions: "8 1/4 x 3 15/16 x 2 15/16 in. (21 x 10 x 7.5 cm)"
-    location: "Created in: Athens; Discovered in: Athens; acquired 1846 "
+    location: "Created in: Athens; Discovered in: Athens, 1846; acquired 1891"
     medium: "Terracotta, traces of preparation layer"
     title: "Statuette of a Veiled Woman Dancing, known as the 'Titeux Dancer'"
     year: "375-350 BCE"
@@ -94,7 +94,7 @@ object_list:
     location: "Created in: Corinth; Discovered in: Corinth; acquired 1877 "
     medium: Terracotta, pigment
     title: Statuette of a Seated Woman with Child
-    year: 330-200 BCE
+    year: 350-300 BCE
     figure:
       - id: cat-7
   - artist: Artist unknown
@@ -103,23 +103,23 @@ object_list:
       Ancient Art. 1984.15.
     dimensions: 9 11/16 x 3 7/8 x 2 in. (24.6 x 9.8 x 5.1 cm)
     id: "8"
-    location: "Created in: Unknown, perhaps Myrina; Discovered in: Unknown; acquired
-      by 1960 "
+    location: "Created in: Unknown; Discovered in: Unknown; acquired
+      by 1960"
     medium: Terracotta, pigment
     title: Statuette of a Draped Woman
     year: First half of the 3rd century BCE
     figure:
       - id: cat-8
-  - artist: Artist unknown
+  - artist: Hiero (signed on reverse)
     copyright: © RMN-Grand Palais / Art Resource, NY. Photo by Stéphane Maréchalle.
     credit_line: Paris, Musée du Louvre, Département des Antiquités grecques,
       étrusques et romaines. Myr 223.
     dimensions: 10 1/4 x 4 7/16 x 3 5/16 in. (26 x 11.2 x 8.4 cm)
     id: "9"
-    location: "Created in: Myrina; Discovered in: Myrina "
+    location: "Created in: Myrina; Discovered in: Myrina; acquired 1883"
     medium: Terracotta
     title: Statuette of a Draped Woman with Skirt
-    year: 150-100 BCE
+    year: 50-1 BCE
     figure:
       - id: cat-9
   - artist: Artist unknown
@@ -128,7 +128,7 @@ object_list:
       étrusques et romaines. MNB 551.
     dimensions: 8 1/8 x 3 9/16 x 1 7/8 in. (20.7 x 9.1 x 4.7 cm)
     id: "10"
-    location: "Created in: Tanagra; Discovered in: Tanagra "
+    location: "Created in: Tanagra; Discovered in: Tanagra; acquired 1874"
     medium: Terracotta, pigment
     title: Statuette of Aphrodite Leaning on a Pillar
     year: 330-200 BCE
