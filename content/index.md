@@ -9,4 +9,4 @@ image: cover_cropped.png
 
 Coming soon...
 
-![Carlos Logo](./_assets/images/carlos-logo-blue.png)
+![Carlos Logo](./_assets/images/carlos-logo-black.png)
