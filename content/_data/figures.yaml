@@ -488,8 +488,12 @@ figure_list:
     src: catalogue/10.jpg
     caption: ""
     credit: ""
-  - id: cat-11
-    src: catalogue/11.jpg
+  - id: cat-11a
+    src: catalogue/11a.jpg
+    caption: ""
+    credit: ""
+  - id: cat-11b
+    src: catalogue/11b.jpg
     caption: ""
     credit: ""
   - id: cat-12
@@ -525,7 +529,7 @@ figure_list:
     caption: ""
     credit: ""
   - id: cat-20
-    src: catalogue/20.jpg
+    src: catalogue/36.jpg
     caption: ""
     credit: ""
   - id: cat-21
@@ -589,7 +593,7 @@ figure_list:
     caption: ""
     credit: ""
   - id: cat-36
-    src: catalogue/36.jpg
+    src: catalogue/20.jpg
     caption: ""
     credit: ""
   - id: cat-37
@@ -612,8 +616,12 @@ figure_list:
     src: catalogue/41.jpg
     caption: ""
     credit: ""
-  - id: cat-42
-    src: catalogue/42.jpg
+  - id: cat-42a
+    src: catalogue/42a.jpg
+    caption: ""
+    credit: ""
+  - id: cat-42b
+    src: catalogue/42b.jpg
     caption: ""
     credit: ""
   - id: cat-43
@@ -654,5 +662,10 @@ figure_list:
     credit: ""
   - id: cat-52
     src: catalogue/52.jpg
+    caption: ""
+    credit: ""
+
+  - id: cat-53
+    src: catalogue/53.jpg
     caption: ""
     credit: ""

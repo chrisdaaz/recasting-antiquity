@@ -145,7 +145,8 @@ object_list:
     title: Statuette of a Seated Girl Tying her Sandal
     year: 300-1 BCE
     figure:
-      - id: cat-11
+      - id: cat-11a
+      - id: cat-11b
   - artist: Artist unknown
     copyright: "© Michael C. Carlos Museum, Emory University. "
     credit_line: Michael C. Carlos Museum, Emory University. Gift of the Georges
@@ -543,7 +544,8 @@ object_list:
     title: Blue Girl [Recto] Woman Holding a Fan [Verso] (M. 1223)
     year: ca. 1893 CE
     figure:
-      - id: cat-42
+      - id: cat-42a
+      - id: cat-42b
   - artist: Thomas Dewing (American, 1851-1938)
     copyright: ""
     credit_line: Lent by Jack and Russell Huber, Atlanta.
@@ -672,4 +674,4 @@ object_list:
     title: The Art Journal
     year: "1893"
     figure:
-      - id: cat-52
+      - id: cat-53
