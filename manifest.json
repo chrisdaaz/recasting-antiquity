@@ -143,13 +143,13 @@
     "file": "_assets/notoserif-regular.woff2",
     "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
   },
-  "_assets/images/carlos-logo-blue.png": {
-    "file": "_assets/carlos-logo-blue.png",
-    "src": "_assets/images/carlos-logo-blue.png"
+  "_assets/images/carlos-logo-black.png": {
+    "file": "_assets/carlos-logo-black.png",
+    "src": "_assets/images/carlos-logo-black.png"
   },
-  "_assets/images/cover_cropped.png": {
-    "file": "_assets/cover_cropped.png",
-    "src": "_assets/images/cover_cropped.png"
+  "_assets/images/cover_cropped.jpg": {
+    "file": "_assets/cover_cropped.jpg",
+    "src": "_assets/images/cover_cropped.jpg"
   },
   "_index-4a43986f.js": {
     "assets": [
