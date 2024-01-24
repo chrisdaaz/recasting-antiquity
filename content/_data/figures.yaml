@@ -433,16 +433,16 @@ figure_list:
       Figure 4.11: *Two Girls Dancing*, from Tanagra, Hellenistic, ca. 330--200 BCE.
       Terracotta with traces of polychrome, H. 17.8 cm (7 in.). Paris, Louvre
       Museum, CA 588. Image © RMN-Grand Palais / Art Resource, NY.
-  - id: fig-4.12
-    src: essays/4.12.jpg
-    caption: >
-      Figure 4.12: Eli Nadelman (American, 1882--1946), *The Four Seasons*, ca. 1912,
-      terracotta, H. 80 cm (31 1/2 in.). New York, New York Historical Society,
-      2001.223.1-4. Image © Courtesy the New York Historical Society.
   - id: fig-4.13
     src: essays/4.13.jpg
     caption: >
-      Figure 4.13: Thomas Pollock Anshutz (American, 1851--1912), *The Tanagra*, 1909. Oil
+      Figure 4.13: Eli Nadelman (American, 1882--1946), *The Four Seasons*, ca. 1912,
+      terracotta, H. 80 cm (31 1/2 in.). New York, New York Historical Society,
+      2001.223.1-4. Image © Courtesy the New York Historical Society.
+  - id: fig-4.12
+    src: essays/4.12.jpg
+    caption: >
+      Figure 4.12: Thomas Pollock Anshutz (American, 1851--1912), *The Tanagra*, 1909. Oil
       on canvas. Philadelphia, Pennsylvania Academy of Fine Arts, 1912.1. Gift
       of the friends and admirers of the artist. Image: Public domain.
 

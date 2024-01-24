@@ -72,6 +72,13 @@ contributor:
     #title: "Associate Vice-Provost and Museum Director"
     #affiliation: Emory University
 
+  - id: hkim
+    type: secondary
+    first_name: Henry S.
+    last_name: Kim
+    title: "Associate Vice-Provost and Museum Director"
+    affiliation: Emory University
+
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------

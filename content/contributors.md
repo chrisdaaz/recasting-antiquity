@@ -2,7 +2,11 @@
 title: Contributors
 layout: page
 order: 501
+contributor:
+  - id: rallen
+  - id: lmerrill
+  - id: bcohen
 ---
 
-{% contributors context=publicationContributors format='bio' %}
+{% contributors context=pageContributors format='bio' %}
 
