@@ -13,3 +13,7 @@
 .quire-cover__hero .contributor {
     color: rgba(0,0,0,.65);
 }
+
+.quire-contents-buttons li.quire-nav-button.next {
+    background-color: #C9A1A6;
+}
