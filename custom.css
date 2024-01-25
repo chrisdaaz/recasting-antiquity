@@ -17,3 +17,11 @@
 .quire-contents-buttons li.quire-nav-button.next {
     background-color: #C9A1A6;
 }
+
+.quire-contents-buttons li.quire-nav-button.next:hover {
+    background-color: #8d7174!important;
+}
+
+.quire-contents-buttons li.quire-nav-button {
+    border: 1px solid #8d7174;
+}
