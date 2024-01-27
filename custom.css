@@ -25,3 +25,8 @@
 .quire-contents-buttons li.quire-nav-button {
     border: 1px solid #8d7174;
 }
+
+.quire-menu .page-item a.active, .quire-menu .section-item a.active {
+    border-left: 4px solid #C9A1A6;
+    color: #C9A1A6!important;
+}
