@@ -98,12 +98,14 @@ license:
 # Formats, Resources & Links
 # ------------------------------------------------------------------------------
 
+# https://chrisdaaz.github.io/recasting-antiquity/catalogue/35/downloads/output.pdf
+
 resource_link:
   - type: other-format
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: ./downloads/output.pdf
+    url: https://chrisdaaz.github.io/recasting-antiquity/recasting-antiquity.pdf
   #- type: other-format
   #  name: EPUB
   #  media_type: application/epub+zip
