@@ -13956,19 +13956,20 @@ body > div.mfp-bg.mfp-ready {
   color: rgba(0, 0, 0, 0.65);
 }
 
-.quire-contents-buttons li.quire-nav-button.next {
+.quire-contents-buttons li.quire-nav-button:hover {
   background-color: #C9A1A6;
-}
-
-.quire-contents-buttons li.quire-nav-button.next:hover {
-  background-color: #8d7174 !important;
+  border-color: #C9A1A6;
 }
 
 .quire-contents-buttons li.quire-nav-button {
-  border: 1px solid #8d7174;
+  border: 1px solid #C9A1A6;
 }
 
 .quire-menu .page-item a.active, .quire-menu .section-item a.active {
   border-left: 4px solid #C9A1A6;
   color: #C9A1A6 !important;
+}
+
+.quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, .quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, .quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, .quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+  background-color: #C9A1A6;
 }
