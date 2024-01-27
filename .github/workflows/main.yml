@@ -55,14 +55,14 @@ jobs:
             cd ./build/
             quire build
 
-        - name: Build pdf
-          run: |
-            pwd
-            cd ./build/
-            pwd 
-            quire pdf
-            pwd
-            mv ./pagedjs.pdf ./_site/recasting-antiquity.pdf
+        #- name: Build pdf
+        #  run: |
+        #    pwd
+        #    cd ./build/
+        #    pwd 
+        #    quire pdf
+        #    pwd
+        #    mv ./pagedjs.pdf ./_site/recasting-antiquity.pdf
 
         - name: Check project files
           run: |
