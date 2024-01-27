@@ -12,6 +12,8 @@ order: 499
 
 *Classical period*. Historical period in the ancient Mediterranean, conventionally dated between the fall of the Athenian tyranny in 510 BCE and the death of Alexander III, the Great, in 323 BCE.
 
+*coroplast* (artisan), maker of figures in clay.
+
 *edition*. The number of impressions printed once the artist has completed and approved the trial proofs. Whistler's lithographic editions usually comprised between twelve and twenty-five impressions; once he considered the edition complete, he would have the stone erased.
 
 *etching*. A kind of print in which lines are incised with a sharp tool into a metal plate covered with an acid-resistant coating, such as wax; when acid is applied, it bites, or etches, the lines into the surface of the plate, which can then be inked and run through the press.
@@ -46,7 +48,7 @@ order: 499
 
 *pigment*. A dry insoluble substance, usually pulverized, suspended in a binder to form paint.
 
-*poikilia*. Ancient Greek term, literally meaning "variation". Used to describe the visual effect produced by the combination of different colors, materials, and textures, and to express concepts of variety and complexity.
+*poikilia*. Ancient Greek term, literally meaning "variation." Used to describe the visual effect produced by the combination of different colors, materials, and textures, and to express concepts of variety and complexity.
 
 *polychromy*. The decoration of architecture, both internally and externally, and of sculpture by using differently colored materials or by the addition of paint.
 

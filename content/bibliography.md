@@ -36,7 +36,7 @@ Curry, David Park. 1984. *James McNeill Whistler at the Freer Gallery of Art*. W
 
 Curtis, Mary F. 1879. *Tanagra Figurines*. Boston: Houghton, Osgood and Company.
 
-D'Ambra, Eve. 1996. "Nudity and adornment in female portrait sculpture of the 2<sup>nd</sup> century AD." In *I, Claudia: Women in Ancient Rome*, edited by Diana E. E. Kleiner and Susan B. Matheson, 101--115. New Haven: Yale University Art Gallery.
+D'Ambra, Eve. 1996. "Nudity and adornment in female portrait sculpture of the 2<sup>nd</sup> century AD." In *I, Claudia: Women in Ancient Rome*, edited by Diana E. E., Kleiner and Susan B. Matheson, 101--115. New Haven: Yale University Art Gallery.
 
 Däubler-Hausche, Claudia, and Michael Brunner, eds. 2009. *Impressionismus und Japanmode*. Überlingen: Städtische Galerie and Petersberg, Germany: Michael Imhof Verlag.
 
