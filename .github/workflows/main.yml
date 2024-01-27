@@ -57,7 +57,11 @@ jobs:
 
         - name: Build pdf
           run: |
+            pwd
+            cd ./build/
+            pwd 
             quire pdf
+            pwd
             mv ./pagedjs.pdf ./_site/recasting-antiquity.pdf
 
         - name: Check project files
