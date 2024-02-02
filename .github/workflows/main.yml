@@ -78,6 +78,9 @@ jobs:
         #    add: './package-lock.json'
         #    message: 'Updating node dependencies from previous build'
 
+        - name: Copy CNAME record
+          run: cp ./CNAME ./build/_site/
+
         - name: Check website files
           run: |
             ls -la ./build/_site/
