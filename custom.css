@@ -47,3 +47,7 @@
 .quire-contents-buttons li.quire-nav-button.prev a {
     color: #fff;
 }
+
+.quire-contents-buttons li.quire-nav-button.prev svg {
+    color: #fff;
+}
